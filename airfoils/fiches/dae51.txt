@@ -1,0 +1,9 @@
+Drela DAE51(DAE51,)
+Epaisseur| 0.0938 
+Leading edge radius| 0.0088
+Cambrure| 0.0403 
+Trailing edge angle|[deg] 7.7924
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed] [Human-Powered Aircraft] [Propeller]
+Commentaires| Drela DAE51 low Reynolds number airfoil

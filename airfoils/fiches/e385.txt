@@ -1,0 +1,9 @@
+Eppler E385(E385,)
+Epaisseur| 0.0843 
+Leading edge radius| 0.0087
+Cambrure| 0.0572 
+Trailing edge angle|[deg] 2.0455
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E385 airfoil

@@ -1,0 +1,10 @@
+Michael Achterberg MA409(MA409,)
+Epaisseur| 0.0680 
+Leading edge radius| 0.0028
+Cambrure| 0.0331 
+Trailing edge angle|[deg] 9.9582
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed] [Modelplane]
+Commentaires| Michael Achterberg MA409 F1C class free flight airfoil
+(original)

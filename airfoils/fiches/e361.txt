@@ -1,0 +1,9 @@
+Eppler E361(E361,)
+Epaisseur| 0.1211 
+Leading edge radius| 0.0103
+Cambrure| 0.0169 
+Trailing edge angle|[deg] 7.6377
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic] [Rotorcraft]
+Commentaires| Eppler E361 rotorcraft airfoil

@@ -1,0 +1,9 @@
+Eppler E62(E62,)
+Epaisseur| 0.0564 
+Leading edge radius| 0.0058
+Cambrure| 0.0535 
+Trailing edge angle|[deg] 3.6785
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Eppler E62 low Reynolds number airfoil

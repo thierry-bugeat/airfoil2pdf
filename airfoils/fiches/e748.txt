@@ -1,0 +1,9 @@
+Eppler E748(E748,)
+Epaisseur| 0.1975 
+Leading edge radius| 0.0252
+Cambrure| 0.0458 
+Trailing edge angle|[deg] 4.4692
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic] [Sailplane]
+Commentaires| Eppler E748 sailplane airfoil

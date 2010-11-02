@@ -1,0 +1,9 @@
+Gottingen 11K(GOE11K,)
+Epaisseur| 0.0745 
+Leading edge radius| 0.0731
+Cambrure| 0.0274 
+Trailing edge angle|[deg] 26.5514
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 11K airfoil

@@ -1,0 +1,9 @@
+HN 1038(HN1038,)
+Epaisseur| 8.1500 
+Leading edge radius| 0.0000
+Cambrure| 1.5200 
+Trailing edge angle|[deg] 0.0000
+Développeur|
+Groupe de développement|
+Categorie| [symmetrical]
+Commentaires| F3F foil

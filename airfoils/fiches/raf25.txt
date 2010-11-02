@@ -1,0 +1,9 @@
+RAF-25(RAF25,)
+Epaisseur| 0.0648 
+Leading edge radius| 0.0408
+Cambrure| 0.0104 
+Trailing edge angle|[deg] 11.4594
+Développeur|
+Groupe de développement| RAF
+Categorie| [Subnsonic]
+Commentaires| RAF-25 airfoil

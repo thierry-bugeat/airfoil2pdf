@@ -1,0 +1,9 @@
+Martin Hepperle MH60(MH60,)
+Epaisseur| 0.1008 
+Leading edge radius| 0.0086
+Cambrure| 0.0178 
+Trailing edge angle|[deg] 3.8102
+Développeur|
+Groupe de développement| Martin Hepperle
+Categorie| [Low Speed]
+Commentaires| Martin Hepperle MH 60 low Reynolds number airfoil

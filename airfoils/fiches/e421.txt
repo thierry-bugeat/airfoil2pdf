@@ -1,0 +1,9 @@
+Eppler E421(E421,)
+Epaisseur| 0.1454 
+Leading edge radius| 0.0299
+Cambrure| 0.0856 
+Trailing edge angle|[deg] 7.3225
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E421 high lift airfoil

@@ -1,0 +1,9 @@
+NASA/Langley RC-10(N)1(RC10N1,)
+Epaisseur| 0.1001 
+Leading edge radius| 0.0165
+Cambrure| 0.0149 
+Trailing edge angle|[deg] 12.7600
+Développeur|
+Groupe de développement|
+Categorie| [Rotorcraft]
+Commentaires| NASA/Langley RC-10(N)1 rotorcraft airfoil

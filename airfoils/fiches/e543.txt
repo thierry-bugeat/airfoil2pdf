@@ -1,0 +1,9 @@
+Eppler E543(E543,)
+Epaisseur| 0.1724 
+Leading edge radius| 0.0052
+Cambrure| 0.0189 
+Trailing edge angle|[deg] 9.9869
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E543 general aviation airfoil

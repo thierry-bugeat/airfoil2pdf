@@ -1,0 +1,9 @@
+Bell/NASA/NLR NLR-1T(NLR1T,)
+Epaisseur| 0.0870 
+Leading edge radius| 0.0136
+Cambrure| 0.0126 
+Trailing edge angle|[deg] 17.6360
+Développeur|
+Groupe de développement|
+Categorie| [Transonic] [Rotorcraft]
+Commentaires| Bell/NASA/NLR NLR-1T rotorcraft airfoil

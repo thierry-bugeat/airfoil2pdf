@@ -1,0 +1,9 @@
+USA-51(USA51,)
+Epaisseur| 0.0933 
+Leading edge radius| 0.0397
+Cambrure| 0.0257 
+Trailing edge angle|[deg] 13.5221
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| USA-51 airfoil

@@ -1,0 +1,9 @@
+Eppler E186(E186,)
+Epaisseur| 0.1027 
+Leading edge radius| 0.0049
+Cambrure| 0.0128 
+Trailing edge angle|[deg] 6.2167
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Eppler E186 low Reynolds number airfoil

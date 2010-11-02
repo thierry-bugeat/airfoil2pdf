@@ -1,0 +1,9 @@
+Wortmann FX 08-S-176(FX08S176,)
+Epaisseur| 0.1761 
+Leading edge radius| 0.0206
+Cambrure| 0.0566 
+Trailing edge angle|[deg] 12.6913
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Subnsonic]
+Commentaires| Wortmann FX 08-S-176 airfoil

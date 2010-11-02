@@ -1,0 +1,9 @@
+Eppler E852(E852,)
+Epaisseur| 0.1008 
+Leading edge radius| 0.0039
+Cambrure| 0.0278 
+Trailing edge angle|[deg] 5.9360
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Propeller]
+Commentaires| Eppler E852 propeller airfoil

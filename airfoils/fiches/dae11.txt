@@ -1,0 +1,9 @@
+Drela DAE11(DAE11,)
+Epaisseur| 0.1283 
+Leading edge radius| 0.0111
+Cambrure| 0.0662 
+Trailing edge angle|[deg] 6.2282
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed] [Human-Powered Aircraft]
+Commentaires| Drela DAE11 low Reynolds number airfoil

@@ -1,0 +1,9 @@
+Gottingen 274(GOE274,)
+Epaisseur| 0.0865 
+Leading edge radius| 0.0360
+Cambrure| 0.0485 
+Trailing edge angle|[deg] 10.4853
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 274 (DAIMLER V) airfoil

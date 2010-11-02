@@ -1,0 +1,9 @@
+NASA/Langley LS(1)-0413MOD(LS413MOD,)
+Epaisseur| 0.1302 
+Leading edge radius| 0.0280
+Cambrure| 0.0224 
+Trailing edge angle|[deg] 1.3178
+Développeur|
+Groupe de développement| NASA/Langley
+Categorie| [Subnsonic]
+Commentaires| NASA/Langley LS(1)-0413MOD general aviation airfoil

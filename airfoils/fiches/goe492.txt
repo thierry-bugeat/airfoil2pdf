@@ -1,0 +1,9 @@
+Gottingen 492(GOE492,)
+Epaisseur| 0.0620 
+Leading edge radius| 0.0414
+Cambrure| 0.0337 
+Trailing edge angle|[deg] 8.9555
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 492 airfoil

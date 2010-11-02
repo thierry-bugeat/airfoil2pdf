@@ -1,0 +1,9 @@
+NASA/Langley RC-SC2(RCSC2,)
+Epaisseur| 0.0997 
+Leading edge radius| 0.0343
+Cambrure| 0.0053 
+Trailing edge angle|[deg] 18.3923
+Développeur|
+Groupe de développement|
+Categorie| [Rotorcraft]
+Commentaires| NASA/Langley RC-SC2 rotorcraft airfoil

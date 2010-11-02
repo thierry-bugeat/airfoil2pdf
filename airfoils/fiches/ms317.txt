@@ -1,0 +1,9 @@
+NASA/Langley MS(1)-0317(MS317,)
+Epaisseur| 0.1701 
+Leading edge radius| 0.0271
+Cambrure| 0.0165 
+Trailing edge angle|[deg] 5.1567
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| NASA/Langley MS(1)-0317 general aviation airfoil

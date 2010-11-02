@@ -1,0 +1,10 @@
+Michael Achterberg MA409(smoothed)(MA409SM,)
+Epaisseur| 0.0669 
+Leading edge radius| 0.0043
+Cambrure| 0.0333 
+Trailing edge angle|[deg] 9.4311
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed] [Modelplane]
+Commentaires| Michael Achterberg MA409 F1C class free flight airfoil
+(smoothed)

@@ -1,0 +1,9 @@
+NACA 0009(NACA0009SM,)
+Epaisseur| 0.0902 
+Leading edge radius| 0.0046
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 15.3957
+Développeur|
+Groupe de développement| NACA
+Categorie| [Subnsonic] [Symmetric]
+Commentaires| NACA 0009 airfoil (smoothed)

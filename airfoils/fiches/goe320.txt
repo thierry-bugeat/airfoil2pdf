@@ -1,0 +1,9 @@
+Gottingen 320(GOE320,)
+Epaisseur| 0.1233 
+Leading edge radius| 0.0502
+Cambrure| 0.0619 
+Trailing edge angle|[deg] 13.2356
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 320 (Hansa-Brandenburg II.1) airfoil

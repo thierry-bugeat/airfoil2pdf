@@ -1,0 +1,9 @@
+Gottingen 288(GOE288,)
+Epaisseur| 0.1742 
+Leading edge radius| 0.0560
+Cambrure| 0.0555 
+Trailing edge angle|[deg] 15.0920
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 288 airfoil

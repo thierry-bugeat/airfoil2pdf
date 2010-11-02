@@ -1,0 +1,9 @@
+Eppler E556(E556,)
+Epaisseur| 0.1602 
+Leading edge radius| 0.0111
+Cambrure| 0.0311 
+Trailing edge angle|[deg] 9.2936
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E556 general aviation airfoil

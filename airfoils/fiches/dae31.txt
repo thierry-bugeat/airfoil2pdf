@@ -1,0 +1,9 @@
+Drela DAE31(DAE31,)
+Epaisseur| 0.1106 
+Leading edge radius| 0.0217
+Cambrure| 0.0675 
+Trailing edge angle|[deg] 6.2339
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed] [Human-Powered Aircraft]
+Commentaires| Drela DAE31 low Reynolds number airfoil

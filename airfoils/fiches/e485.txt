@@ -1,0 +1,9 @@
+Eppler E485(E485,)
+Epaisseur| 0.1253 
+Leading edge radius| 0.0087
+Cambrure| 0.0112 
+Trailing edge angle|[deg] 6.2797
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E485 tailplane airfoil

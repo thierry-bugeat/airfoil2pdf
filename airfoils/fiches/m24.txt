@@ -1,0 +1,9 @@
+NACA/Munk M-24(M24,)
+Epaisseur| 0.1195 
+Leading edge radius| 0.0403
+Cambrure| 0.0634 
+Trailing edge angle|[deg] 15.1608
+Développeur|
+Groupe de développement| NACA/Munk
+Categorie| [Subnsonic]
+Commentaires| NACA/Munk M-24 airfoil

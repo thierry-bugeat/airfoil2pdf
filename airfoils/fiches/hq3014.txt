@@ -1,0 +1,9 @@
+Quabeck HQ 3.0/14(HQ3014,)
+Epaisseur| 0.1399 
+Leading edge radius| 0.0155
+Cambrure| 0.0299 
+Trailing edge angle|[deg] 9.4998
+Développeur|
+Groupe de développement| Quabeck(Helmut Quabeck)
+Categorie| [Low Speed] [Modelplane]
+Commentaires| Quabeck HQ 3.0/14 R/C sailplane airfoil

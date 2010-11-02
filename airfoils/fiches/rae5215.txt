@@ -1,0 +1,9 @@
+RAE 5215(RAE5215,)
+Epaisseur| 0.0965 
+Leading edge radius| 0.0131
+Cambrure| 0.0150 
+Trailing edge angle|[deg] 7.1908
+Développeur|
+Groupe de développement|
+Categorie| [Transonic]
+Commentaires| RAE 5215 transonic airfoil

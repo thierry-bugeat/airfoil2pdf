@@ -1,0 +1,9 @@
+Selig S1020(S1020,)
+Epaisseur| 0.1511 
+Leading edge radius| 0.0110
+Cambrure| 0.0502 
+Trailing edge angle|[deg] 8.3940
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S1020 ornithopter airfoil

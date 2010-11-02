@@ -1,0 +1,9 @@
+Selig/Ashok SA7038(SA7038,)
+Epaisseur| 0.0920 
+Leading edge radius| 0.0055
+Cambrure| 0.0326 
+Trailing edge angle|[deg] 1.2591
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Modelplane]
+Commentaires|

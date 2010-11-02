@@ -1,0 +1,9 @@
+Gottingen 746(GOE746,)
+Epaisseur| 0.0975 
+Leading edge radius| 0.0337
+Cambrure| 0.0505 
+Trailing edge angle|[deg] 8.3596
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 746 airfoil

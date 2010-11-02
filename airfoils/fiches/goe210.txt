@@ -1,0 +1,9 @@
+Gottingen 210(GOE210,)
+Epaisseur| 0.0663 
+Leading edge radius| 0.0332
+Cambrure| 0.0434 
+Trailing edge angle|[deg] 9.0873
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 210 (DAIMLER) airfoil

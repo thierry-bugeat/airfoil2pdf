@@ -1,0 +1,9 @@
+Eppler E212(E212,)
+Epaisseur| 0.1056 
+Leading edge radius| 0.0096
+Cambrure| 0.0292 
+Trailing edge angle|[deg] 5.1854
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Eppler E212 low Reynolds number airfoil

@@ -1,0 +1,9 @@
+USA-35B(USA35B,)
+Epaisseur| 0.1162 
+Leading edge radius| 0.0446
+Cambrure| 0.0413 
+Trailing edge angle|[deg] 12.5137
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| USA-35B airfoil

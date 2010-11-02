@@ -1,0 +1,9 @@
+NASA/AMES/Hicks A-02(AMES02,)
+Epaisseur| 0.0774 
+Leading edge radius| 0.0198
+Cambrure| 0.0049 
+Trailing edge angle|[deg] 3.4607
+Développeur|
+Groupe de développement| NASA/AMES
+Categorie| [Transonic] [Rotorcraft]
+Commentaires| NASA/AMES/Hicks A-02 transonic rotorcraft airfoil

@@ -1,0 +1,9 @@
+Gottingen 446(GOE446,)
+Epaisseur| 0.1289 
+Leading edge radius| 0.0462
+Cambrure| 0.0633 
+Trailing edge angle|[deg] 15.6478
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 446 airfoil

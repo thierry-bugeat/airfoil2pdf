@@ -1,0 +1,9 @@
+Eppler E547(E547,)
+Epaisseur| 0.1741 
+Leading edge radius| 0.0080
+Cambrure| 0.0205 
+Trailing edge angle|[deg] 9.2764
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E547 general aviation airfoil

@@ -1,0 +1,9 @@
+USA-41(USA41,)
+Epaisseur| 0.0660 
+Leading edge radius| 0.0333
+Cambrure| 0.0449 
+Trailing edge angle|[deg] 11.9350
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| USA-41 airfoil

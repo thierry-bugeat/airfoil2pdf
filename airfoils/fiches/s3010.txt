@@ -1,0 +1,9 @@
+Selig S3010(S3010,)
+Epaisseur| 0.1032 
+Leading edge radius| 0.0108
+Cambrure| 0.0279 
+Trailing edge angle|[deg] 2.1085
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S3010 low Reynolds number airfoil

@@ -1,0 +1,9 @@
+Gottingen 165(GOE165,)
+Epaisseur| 0.1214 
+Leading edge radius| 0.0914
+Cambrure| 0.0575 
+Trailing edge angle|[deg] 16.0374
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 165 (MVA MK.11) airfoil

@@ -1,0 +1,9 @@
+Eppler E344(E344,)
+Epaisseur| 0.1474 
+Leading edge radius| 0.0170
+Cambrure| 0.0432 
+Trailing edge angle|[deg] 8.2851
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic] [Flying wing]
+Commentaires| Eppler E344 flying wing airfoil

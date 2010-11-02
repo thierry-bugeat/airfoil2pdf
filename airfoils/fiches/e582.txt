@@ -1,0 +1,9 @@
+Eppler E582(E582,)
+Epaisseur| 0.1474 
+Leading edge radius| 0.0102
+Cambrure| 0.0422 
+Trailing edge angle|[deg] 6.3600
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Sailplane]
+Commentaires| Eppler E582 sailplane airfoil

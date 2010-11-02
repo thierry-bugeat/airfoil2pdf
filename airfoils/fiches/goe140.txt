@@ -1,0 +1,9 @@
+Gottingen 140(GOE140,)
+Epaisseur| 0.0878 
+Leading edge radius| 0.0357
+Cambrure| 0.0529 
+Trailing edge angle|[deg] 8.9383
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 140 (MVA H.17) airfoil

@@ -1,0 +1,9 @@
+Gottingen 6K(GOE06K,)
+Epaisseur| 0.0750 
+Leading edge radius| 0.0933
+Cambrure| 0.0310 
+Trailing edge angle|[deg] 25.4685
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 6K airfoil

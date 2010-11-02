@@ -1,0 +1,9 @@
+Selig S3024(S3024,)
+Epaisseur| 0.0985 
+Leading edge radius| 0.0096
+Cambrure| 0.0350 
+Trailing edge angle|[deg] 3.5982
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S3024 low Reynolds number airfoil

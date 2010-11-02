@@ -1,0 +1,9 @@
+Gottingen 298(GOE298,)
+Epaisseur| 0.1283 
+Leading edge radius| 0.0606
+Cambrure| 0.0454 
+Trailing edge angle|[deg] 9.7348
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 298 airfoil

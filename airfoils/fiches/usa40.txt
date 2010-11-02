@@ -1,0 +1,9 @@
+USA-40(USA40,)
+Epaisseur| 0.1332 
+Leading edge radius| 0.0473
+Cambrure| 0.0419 
+Trailing edge angle|[deg] 11.4422
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| USA-40 airfoil

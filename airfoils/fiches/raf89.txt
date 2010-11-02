@@ -1,0 +1,9 @@
+RAF-89(RAF89,)
+Epaisseur| 0.2500 
+Leading edge radius| 0.1187
+Cambrure| 0.0164 
+Trailing edge angle|[deg] 27.2275
+Développeur|
+Groupe de développement| RAF
+Categorie| [Subnsonic]
+Commentaires| RAF-89 airfoil

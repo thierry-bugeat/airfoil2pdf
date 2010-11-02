@@ -1,0 +1,9 @@
+Gottingen 598(GOE598,)
+Epaisseur| 0.0654 
+Leading edge radius| 0.0399
+Cambrure| 0.0097 
+Trailing edge angle|[deg] 7.8841
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 598 airfoil

@@ -1,0 +1,9 @@
+NASA/Langley 11% symmetrical supercritical(N0011SC,)
+Epaisseur| 0.1096 
+Leading edge radius| 0.0254
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 30.0809
+Développeur|
+Groupe de développement| NASA/Langley
+Categorie| [Subnsonic] [Symmetric]
+Commentaires| NASA/Langley 11% symmetrical supercritical airfoil

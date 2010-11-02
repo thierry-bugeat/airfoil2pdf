@@ -1,0 +1,9 @@
+Blanchard WB140/35/FB(WB140,)
+Epaisseur| 0.1393 
+Leading edge radius| 0.0083
+Cambrure| 0.0364 
+Trailing edge angle|[deg] 15.4988
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed] [Modelplane]
+Commentaires| Blanchard WB140/35/FB R/C sailplane airfoil

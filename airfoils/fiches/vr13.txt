@@ -1,0 +1,9 @@
+Boeing-Vertol/Dadone VR-13(VR13,)
+Epaisseur| 0.0945 
+Leading edge radius| 0.0064
+Cambrure| 0.0204 
+Trailing edge angle|[deg] 11.5683
+Développeur|
+Groupe de développement| Boeing Inc.
+Categorie| [Rotorcraft]
+Commentaires| Boeing-Vertol/Dadone VR-13 rotorcraft airfoil

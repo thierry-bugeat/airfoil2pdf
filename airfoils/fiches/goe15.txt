@@ -1,0 +1,9 @@
+Gottingen 15(GOE15,)
+Epaisseur| 0.0900 
+Leading edge radius| 0.0378
+Cambrure| 0.0776 
+Trailing edge angle|[deg] 16.3468
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 15 airfoil

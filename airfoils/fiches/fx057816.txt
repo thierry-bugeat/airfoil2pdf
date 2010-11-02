@@ -1,0 +1,9 @@
+Wortmann FX 057-816(FX057816,)
+Epaisseur| 0.1618 
+Leading edge radius| 0.0663
+Cambrure| 0.0513 
+Trailing edge angle|[deg] 5.6036
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Subnsonic]
+Commentaires| Wortmann FX 057-816 airfoil

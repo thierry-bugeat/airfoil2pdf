@@ -1,0 +1,9 @@
+Gottingen 239(GOE239,)
+Epaisseur| 0.1123 
+Leading edge radius| 0.0399
+Cambrure| 0.0602 
+Trailing edge angle|[deg] 11.5052
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 239 (MVA H.31) airfoil

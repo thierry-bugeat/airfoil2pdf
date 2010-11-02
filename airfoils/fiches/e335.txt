@@ -1,0 +1,9 @@
+Eppler E335(E335,)
+Epaisseur| 0.1259 
+Leading edge radius| 0.0076
+Cambrure| 0.0235 
+Trailing edge angle|[deg] 7.7408
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic] [Flying wing]
+Commentaires| Eppler E335 flying wing airfoil

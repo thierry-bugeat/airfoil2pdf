@@ -1,0 +1,9 @@
+P-51D tip (BL215)(P51DTIP,)
+Epaisseur| 0.1142 
+Leading edge radius| 0.0264
+Cambrure| 0.0130 
+Trailing edge angle|[deg] 6.5147
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| P-51D tip (BL215) airfoil

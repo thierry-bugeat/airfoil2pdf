@@ -1,0 +1,9 @@
+Gottingen 368(GOE368,)
+Epaisseur| 0.0771 
+Leading edge radius| 0.0524
+Cambrure| 0.0381 
+Trailing edge angle|[deg] 7.1392
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 368 airfoil

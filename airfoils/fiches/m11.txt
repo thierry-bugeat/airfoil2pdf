@@ -1,0 +1,9 @@
+NACA/Munk M-11(M11,)
+Epaisseur| 0.0815 
+Leading edge radius| 0.0374
+Cambrure| 0.0188 
+Trailing edge angle|[deg] 15.9858
+Développeur|
+Groupe de développement| NACA/Munk
+Categorie| [Subnsonic]
+Commentaires| NACA/Munk M-11 airfoil

@@ -1,0 +1,9 @@
+Leon Kincaid K3311(K3311,)
+Epaisseur| 0.1100 
+Leading edge radius| 0.0074
+Cambrure| 0.0318 
+Trailing edge angle|[deg] 13.3903
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| Leon Kincaid K3311 airfoil (original)

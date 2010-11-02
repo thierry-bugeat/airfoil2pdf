@@ -1,0 +1,9 @@
+Gottingen 241(GOE241,)
+Epaisseur| 0.1890 
+Leading edge radius| 0.0429
+Cambrure| 0.0838 
+Trailing edge angle|[deg] 9.9525
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 241 (MVA PR.1) airfoil

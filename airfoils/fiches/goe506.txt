@@ -1,0 +1,9 @@
+Gottingen 506(GOE506,)
+Epaisseur| 0.1649 
+Leading edge radius| 0.0441
+Cambrure| 0.0467 
+Trailing edge angle|[deg] 25.5774
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 506 airfoil

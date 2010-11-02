@@ -1,0 +1,9 @@
+Grumman/Gulfstream GIII-a(GIIIA,)
+Epaisseur| 0.1101 
+Leading edge radius| 0.0227
+Cambrure| 0.0074 
+Trailing edge angle|[deg] 18.3236
+Développeur|
+Groupe de développement| Grumman Inc.
+Categorie| [Transonic]
+Commentaires| Grumman/Gulfstream GIII transonic airfoils

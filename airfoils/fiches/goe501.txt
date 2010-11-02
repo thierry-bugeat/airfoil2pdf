@@ -1,0 +1,9 @@
+Gottingen 501(GOE501,)
+Epaisseur| 0.1280 
+Leading edge radius| 0.0452
+Cambrure| 0.0630 
+Trailing edge angle|[deg] 8.0731
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 501 airfoil

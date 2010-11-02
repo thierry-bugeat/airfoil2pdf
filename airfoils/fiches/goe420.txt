@@ -1,0 +1,9 @@
+Gottingen 420(GOE420,)
+Epaisseur| 0.1875 
+Leading edge radius| 0.0608
+Cambrure| 0.0430 
+Trailing edge angle|[deg] 14.5649
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 420 airfoil

@@ -1,0 +1,9 @@
+Gottingen 167(GOE167,)
+Epaisseur| 0.1009 
+Leading edge radius| 0.0357
+Cambrure| 0.0454 
+Trailing edge angle|[deg] 9.1675
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 167 (V.Karman PROP.2) airfoil

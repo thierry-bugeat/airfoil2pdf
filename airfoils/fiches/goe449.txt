@@ -1,0 +1,9 @@
+Gottingen 449(GOE449,)
+Epaisseur| 0.1695 
+Leading edge radius| 0.0477
+Cambrure| 0.0539 
+Trailing edge angle|[deg] 20.6212
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 449 airfoil

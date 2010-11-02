@@ -1,0 +1,9 @@
+Gottingen 190(GOE190,)
+Epaisseur| 0.1270 
+Leading edge radius| 0.0436
+Cambrure| 0.0593 
+Trailing edge angle|[deg] 16.1234
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 190 (MVA MK.18) airfoil

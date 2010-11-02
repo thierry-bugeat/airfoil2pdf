@@ -1,0 +1,9 @@
+Gottingen 425(GOE425,)
+Epaisseur| 0.1606 
+Leading edge radius| 0.0473
+Cambrure| 0.0454 
+Trailing edge angle|[deg] 17.9053
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 425 airfoil

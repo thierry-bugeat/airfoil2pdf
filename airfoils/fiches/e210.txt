@@ -1,0 +1,9 @@
+Eppler E210(E210,)
+Epaisseur| 0.1365 
+Leading edge radius| 0.0085
+Cambrure| 0.0402 
+Trailing edge angle|[deg] 6.9788
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Eppler E210 low Reynolds number airfoil

@@ -1,0 +1,9 @@
+NACA/Munk M-12(M12,)
+Epaisseur| 0.1193 
+Leading edge radius| 0.0440
+Cambrure| 0.0198 
+Trailing edge angle|[deg] 17.4469
+Développeur|
+Groupe de développement| NACA/Munk
+Categorie| [Subnsonic]
+Commentaires| NACA/Munk M-12 airfoil

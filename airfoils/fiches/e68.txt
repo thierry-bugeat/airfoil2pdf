@@ -1,0 +1,9 @@
+Eppler E68(E68,)
+Epaisseur| 0.1310 
+Leading edge radius| 0.0127
+Cambrure| 0.0334 
+Trailing edge angle|[deg] 7.8669
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Eppler E68 low Reynolds number airfoil

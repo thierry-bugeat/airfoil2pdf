@@ -1,0 +1,10 @@
+Eppler E1230(E1230,)
+Epaisseur| 0.1746 
+Leading edge radius| 0.0221
+Cambrure| 0.0361 
+Trailing edge angle|[deg] 41.3569
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E1230 general aviation airfoil (Long-EZ and
+Defiant wing airfoil)

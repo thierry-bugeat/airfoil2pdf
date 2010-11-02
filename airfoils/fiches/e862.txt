@@ -1,0 +1,8 @@
+Eppler E862(E862,)
+Epaisseur| 0.3237 
+Leading edge radius| 0.0819
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 25.5716
+Développeur|
+Groupe de développement| Eppler group
+Commentaires| Eppler E862 strut airfoil

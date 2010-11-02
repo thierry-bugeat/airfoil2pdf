@@ -1,0 +1,10 @@
+Lockheed L-188/P-3 root(L188ROOT,)
+Epaisseur| 0.1399 
+Leading edge radius| 0.0206
+Cambrure| 0.0200 
+Trailing edge angle|[deg] 16.6333
+Développeur|
+Groupe de développement| Lockheed Inc.
+Categorie| [Subnsonic]
+Commentaires| Lockheed L-188/P-3 root airfoil NACA 0014 -1.10 40/1.051
+Cli=.3 a=.8

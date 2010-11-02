@@ -1,0 +1,9 @@
+Selig S5020(S5020,)
+Epaisseur| 0.0840 
+Leading edge radius| 0.0053
+Cambrure| 0.0260 
+Trailing edge angle|[deg] 2.3434
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S5020 low Reynolds number airfoil

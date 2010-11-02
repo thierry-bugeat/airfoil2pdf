@@ -1,0 +1,10 @@
+Sikorsky/Lednicer & Owen SC2110(SC2110,)
+Epaisseur| 0.0000 
+Leading edge radius| 0.0000
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 0.0000
+Développeur|
+Groupe de développement| Sikorsky Inc.
+Categorie| [Transonic] [Rotorcraft]
+Commentaires| Sikorsky/Lednicer & Owen SC2110 rotorcraft airfoil
+(SC5410)

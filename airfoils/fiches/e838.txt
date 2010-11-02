@@ -1,0 +1,9 @@
+Eppler E838(E838,)
+Epaisseur| 0.1837 
+Leading edge radius| 0.0254
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 6.5147
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Hydrofoil]
+Commentaires| Eppler E838 hydrofoil

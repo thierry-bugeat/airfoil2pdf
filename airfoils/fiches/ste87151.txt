@@ -1,0 +1,9 @@
+Eppler STE 871-514(STE87151,)
+Epaisseur| 0.1394 
+Leading edge radius| 0.0160
+Cambrure| 0.0246 
+Trailing edge angle|[deg] 6.8527
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler STE 871-514 airfoil

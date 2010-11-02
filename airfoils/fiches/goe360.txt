@@ -1,0 +1,9 @@
+Gottingen 360(GOE360,)
+Epaisseur| 0.0968 
+Leading edge radius| 0.0357
+Cambrure| 0.0587 
+Trailing edge angle|[deg] 11.0812
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 360 airfoil

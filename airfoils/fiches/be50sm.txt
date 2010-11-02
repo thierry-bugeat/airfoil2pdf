@@ -1,0 +1,9 @@
+Verbitsky BE50(smoothed)(BE50SM,)
+Epaisseur| 0.0732 
+Leading edge radius| 0.0060
+Cambrure| 0.0395 
+Trailing edge angle|[deg] 5.8500
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed] [Modelplane]
+Commentaires| Verbitsky BE50 free flight airfoil (original)

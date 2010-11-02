@@ -1,0 +1,9 @@
+NACA 6409(NACA6409,)
+Epaisseur| 0.0903 
+Leading edge radius| 0.0096
+Cambrure| 0.0586 
+Trailing edge angle|[deg] 12.3303
+Développeur|
+Groupe de développement| NACA
+Categorie| [Subnsonic]
+Commentaires| NACA 6409

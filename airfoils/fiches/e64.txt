@@ -1,0 +1,9 @@
+Eppler E64(E64,)
+Epaisseur| 0.0844 
+Leading edge radius| 0.0078
+Cambrure| 0.0332 
+Trailing edge angle|[deg] 4.9333
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Eppler E64 low Reynolds number airfoil

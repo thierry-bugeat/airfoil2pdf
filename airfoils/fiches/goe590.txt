@@ -1,0 +1,9 @@
+Gottingen 590(GOE590,)
+Epaisseur| 0.0570 
+Leading edge radius| 0.0354
+Cambrure| 0.0402 
+Trailing edge angle|[deg] 11.1901
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 590 airfoil

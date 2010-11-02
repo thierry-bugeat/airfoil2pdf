@@ -1,0 +1,9 @@
+Eppler E554(E554,)
+Epaisseur| 0.1826 
+Leading edge radius| 0.0084
+Cambrure| 0.0265 
+Trailing edge angle|[deg] 8.5487
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E554 general aviation airfoil

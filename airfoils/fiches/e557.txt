@@ -1,0 +1,9 @@
+Eppler E557(E557,)
+Epaisseur| 0.1603 
+Leading edge radius| 0.0114
+Cambrure| 0.0367 
+Trailing edge angle|[deg] 9.3222
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E557 general aviation airfoil

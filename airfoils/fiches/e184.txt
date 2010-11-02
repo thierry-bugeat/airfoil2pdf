@@ -1,0 +1,9 @@
+Eppler E184(E184,)
+Epaisseur| 0.0833 
+Leading edge radius| 0.0042
+Cambrure| 0.0117 
+Trailing edge angle|[deg] 3.4264
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Eppler E184 low Reynolds number airfoil

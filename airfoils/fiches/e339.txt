@@ -1,0 +1,9 @@
+Eppler E339(E339,)
+Epaisseur| 0.1356 
+Leading edge radius| 0.0607
+Cambrure| 0.0407 
+Trailing edge angle|[deg] 7.7809
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic] [Flying wing]
+Commentaires| Eppler E339 flying wing airfoil

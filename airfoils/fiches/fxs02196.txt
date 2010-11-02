@@ -1,0 +1,9 @@
+Wortmann FX S 02-196(FXS02196,)
+Epaisseur| 0.1959 
+Leading edge radius| 0.0128
+Cambrure| 0.0374 
+Trailing edge angle|[deg] 2.9279
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Subnsonic]
+Commentaires| Wortmann FX S 02-196 airfoil

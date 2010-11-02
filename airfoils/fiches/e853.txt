@@ -1,0 +1,9 @@
+Eppler E853(E853,)
+Epaisseur| 0.1161 
+Leading edge radius| 0.0031
+Cambrure| 0.0308 
+Trailing edge angle|[deg] 5.6781
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Propeller]
+Commentaires| Eppler E853 propeller airfoil

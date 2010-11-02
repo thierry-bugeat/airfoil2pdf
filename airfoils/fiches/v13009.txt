@@ -1,0 +1,9 @@
+Boeing-Vertol V(1.9)3006-1.25(V13009,)
+Epaisseur| 0.0900 
+Leading edge radius| 0.0242
+Cambrure| 0.0130 
+Trailing edge angle|[deg] 12.1871
+Développeur|
+Groupe de développement| Boeing Inc.
+Categorie| [Rotorcraft]
+Commentaires| Boeing-Vertol V(1.9)3006-1.25 rotorcraft airfoil

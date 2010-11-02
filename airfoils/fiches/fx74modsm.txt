@@ -1,0 +1,9 @@
+Modified Wortmann FX(FX74MODSM,)
+Epaisseur| 0.1308 
+Leading edge radius| 0.0118
+Cambrure| 0.0973 
+Trailing edge angle|[deg] 22.4031
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Subnsonic]
+Commentaires| Modified Wortmann FX 74-CL5-140 high lift airfoil

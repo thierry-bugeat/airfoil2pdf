@@ -1,0 +1,10 @@
+Boeing BACXXX(BACXXX,)
+Epaisseur| 0.1131 
+Leading edge radius| 0.0066
+Cambrure| 0.0140 
+Trailing edge angle|[deg] 18.0256
+Développeur| 2
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| Boeing Commercial Airplane Company BACXXX Energy
+Efficient Transport Program airfoil

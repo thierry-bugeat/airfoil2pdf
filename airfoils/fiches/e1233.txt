@@ -1,0 +1,9 @@
+Eppler E1233(E1233,)
+Epaisseur| 0.1893 
+Leading edge radius| 0.0151
+Cambrure| 0.0440 
+Trailing edge angle|[deg] 9.3337
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E1233 general aviation airfoil

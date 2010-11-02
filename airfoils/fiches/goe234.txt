@@ -1,0 +1,9 @@
+Gottingen 234(GOE234,)
+Epaisseur| 0.1429 
+Leading edge radius| 0.0424
+Cambrure| 0.0917 
+Trailing edge angle|[deg] 4.0108
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 234 (MVA CA5) airfoil

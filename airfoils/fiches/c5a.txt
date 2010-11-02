@@ -1,0 +1,9 @@
+Lockheed-Georgia C-5A-a(C5A,)
+Epaisseur| 0.1312 
+Leading edge radius| 0.0210
+Cambrure| 0.0073 
+Trailing edge angle|[deg] 20.6212
+Développeur|
+Groupe de développement| Lockheed Inc.
+Categorie| [Transonic]
+Commentaires| Lockheed-Georgia C-5A transonic wing airfoils

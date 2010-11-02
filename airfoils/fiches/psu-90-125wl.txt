@@ -1,0 +1,9 @@
+PSU-90-125WL sailplane winglet(PSU-90-125WL,)
+Epaisseur| 0.1255 
+Leading edge radius| 0.0076
+Cambrure| 0.0241 
+Trailing edge angle|[deg] 6.2912
+Développeur|
+Groupe de développement|
+Categorie| [Sailplane]
+Commentaires| PSU-90-125WL sailplane winglet airfoil

@@ -1,0 +1,9 @@
+Gottingen 386(GOE386,)
+Epaisseur| 0.2027 
+Leading edge radius| 0.0685
+Cambrure| 0.0544 
+Trailing edge angle|[deg] 22.9990
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 386 airfoil

@@ -1,0 +1,9 @@
+Gottingen 143(GOE143,)
+Epaisseur| 0.0745 
+Leading edge radius| 0.0376
+Cambrure| 0.0379 
+Trailing edge angle|[deg] 7.7465
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 143 (MVA H.20) airfoil

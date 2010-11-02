@@ -1,0 +1,9 @@
+Strand high lift(STRAND,)
+Epaisseur| 0.0000 
+Leading edge radius| 0.0000
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 0.0000
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| Strand high lift airfoil

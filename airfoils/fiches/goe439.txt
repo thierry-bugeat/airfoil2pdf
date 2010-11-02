@@ -1,0 +1,9 @@
+Gottingen 439(GOE439,)
+Epaisseur| 0.0790 
+Leading edge radius| 0.0406
+Cambrure| 0.0522 
+Trailing edge angle|[deg] 9.7634
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 439 airfoil

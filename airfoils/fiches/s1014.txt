@@ -1,0 +1,9 @@
+Selig S1014(S1014,)
+Epaisseur| 0.1651 
+Leading edge radius| 0.0145
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 5.5463
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S1014 HPV airfoil

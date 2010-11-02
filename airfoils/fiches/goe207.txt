@@ -1,0 +1,9 @@
+Gottingen 207(GOE207,)
+Epaisseur| 0.0878 
+Leading edge radius| 0.0473
+Cambrure| 0.0663 
+Trailing edge angle|[deg] 7.2080
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 207 (AVIATIK V8) airfoil

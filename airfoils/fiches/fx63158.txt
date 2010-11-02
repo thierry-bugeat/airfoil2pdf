@@ -1,0 +1,9 @@
+Wortmann FX 63-158(FX63158,)
+Epaisseur| 0.1581 
+Leading edge radius| 0.0064
+Cambrure| 0.0377 
+Trailing edge angle|[deg] 33.2093
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Subnsonic]
+Commentaires| Wortmann FX 63-158 airfoil

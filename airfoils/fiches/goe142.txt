@@ -1,0 +1,9 @@
+Gottingen 142(GOE142,)
+Epaisseur| 0.0616 
+Leading edge radius| 0.0064
+Cambrure| 0.0385 
+Trailing edge angle|[deg] 7.6606
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 142 (MVA H.19) airfoil

@@ -1,0 +1,10 @@
+Eppler E793(E793,)
+Epaisseur| 0.1564 
+Leading edge radius| 0.0236
+Cambrure| 0.0415 
+Trailing edge angle|[deg] 6.5376
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E793 general purpose airfoil (gyroflug speed
+canard canard)

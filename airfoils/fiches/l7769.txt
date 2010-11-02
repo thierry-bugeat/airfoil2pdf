@@ -1,0 +1,9 @@
+Lissaman 7769(L7769,)
+Epaisseur| 0.1098 
+Leading edge radius| 0.0432
+Cambrure| 0.0443 
+Trailing edge angle|[deg] 5.4661
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed] [Human-Powered Aircraft]
+Commentaires| Lissaman 7769 human powered aircraft airfoil

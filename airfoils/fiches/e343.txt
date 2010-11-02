@@ -1,0 +1,9 @@
+Eppler E343(E343,)
+Epaisseur| 0.1449 
+Leading edge radius| 0.0135
+Cambrure| 0.0400 
+Trailing edge angle|[deg] 7.8611
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic] [Flying wing]
+Commentaires| Eppler E343 flying wing airfoil

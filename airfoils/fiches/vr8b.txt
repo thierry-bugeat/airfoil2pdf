@@ -1,0 +1,9 @@
+Boeing-Vertol VR-8(tab)(VR8B,)
+Epaisseur| 0.0000 
+Leading edge radius| 0.0000
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 0.0000
+Développeur|
+Groupe de développement| Boeing Inc.
+Categorie| [Rotorcraft]
+Commentaires| Boeing-Vertol VR-8 rotorcraft airfoil with tab

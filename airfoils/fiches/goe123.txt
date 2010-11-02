@@ -1,0 +1,9 @@
+Gottingen 123(GOE123,)
+Epaisseur| 0.0540 
+Leading edge radius| 0.0334
+Cambrure| 0.0566 
+Trailing edge angle|[deg] 7.1793
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 123 airfoil

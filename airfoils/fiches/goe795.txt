@@ -1,0 +1,9 @@
+Gottingen 795(GOE795,)
+Epaisseur| 0.0801 
+Leading edge radius| 0.0112
+Cambrure| 0.0245 
+Trailing edge angle|[deg] 19.2518
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 795 airfoil

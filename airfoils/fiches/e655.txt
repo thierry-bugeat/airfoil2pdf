@@ -1,0 +1,9 @@
+Eppler E655(E655,)
+Epaisseur| 0.1735 
+Leading edge radius| 0.0146
+Cambrure| 0.0395 
+Trailing edge angle|[deg] 4.8817
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Sailplane]
+Commentaires| Eppler E655 sailplane airfoil

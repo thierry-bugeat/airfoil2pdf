@@ -1,0 +1,9 @@
+Wortmann FX 66-S-171(FX66S171,)
+Epaisseur| 0.1711 
+Leading edge radius| 0.0114
+Cambrure| 0.0389 
+Trailing edge angle|[deg] 10.5197
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Subnsonic]
+Commentaires| Wortmann FX 66-S-171 airfoil

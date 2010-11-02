@@ -1,0 +1,9 @@
+NACA/Munk M-23(M23,)
+Epaisseur| 0.0814 
+Leading edge radius| 0.0330
+Cambrure| 0.0638 
+Trailing edge angle|[deg] 10.0613
+Développeur|
+Groupe de développement| NACA/Munk
+Categorie| [Subnsonic]
+Commentaires| NACA/Munk M-23 airfoil

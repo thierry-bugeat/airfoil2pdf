@@ -1,0 +1,9 @@
+Wortmann FX 61-147(FX61147,)
+Epaisseur| 0.1477 
+Leading edge radius| 0.0115
+Cambrure| 0.0318 
+Trailing edge angle|[deg] 27.3135
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Subnsonic]
+Commentaires| Wortmann FX 61-147 airfoil

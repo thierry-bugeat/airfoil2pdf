@@ -1,0 +1,9 @@
+Eppler E59(E59,)
+Epaisseur| 0.0560 
+Leading edge radius| 0.0376
+Cambrure| 0.0520 
+Trailing edge angle|[deg] 5.3687
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Eppler E59 low Reynolds number airfoil

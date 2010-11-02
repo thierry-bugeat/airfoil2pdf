@@ -1,0 +1,9 @@
+NACA/Munk M-16(M16,)
+Epaisseur| 0.0615 
+Leading edge radius| 0.0327
+Cambrure| 0.0411 
+Trailing edge angle|[deg] 5.8099
+Développeur|
+Groupe de développement| NACA/Munk
+Categorie| [Subnsonic]
+Commentaires| NACA/Munk M-16 airfoil

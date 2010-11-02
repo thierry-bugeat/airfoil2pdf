@@ -1,0 +1,9 @@
+Althaus AH 6-407(AH6407,)
+Epaisseur| 0.0685 
+Leading edge radius| 0.0351
+Cambrure| 0.0553 
+Trailing edge angle|[deg] 6.3370
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| Althaus AH 6-407 airfoil

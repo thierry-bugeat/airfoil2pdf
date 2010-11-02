@@ -1,0 +1,9 @@
+Gottingen 438(GOE438,)
+Epaisseur| 0.1100 
+Leading edge radius| 0.0469
+Cambrure| 0.0377 
+Trailing edge angle|[deg] 14.2154
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 438 airfoil

@@ -1,0 +1,9 @@
+NASA/Langley LS(1)-0421MOD(LS421MOD,)
+Epaisseur| 0.2096 
+Leading edge radius| 0.0477
+Cambrure| 0.0232 
+Trailing edge angle|[deg] 2.2117
+Développeur|
+Groupe de développement| NASA/Langley
+Categorie| [Subnsonic]
+Commentaires| NASA/Langley LS(1)-0421MOD general aviation airfoil

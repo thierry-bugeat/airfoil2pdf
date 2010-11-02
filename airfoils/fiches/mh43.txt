@@ -1,0 +1,9 @@
+Martin Hepperle MH43(MH43,)
+Epaisseur| 0.0850 
+Leading edge radius| 0.0062
+Cambrure| 0.0176 
+Trailing edge angle|[deg] 3.7128
+Développeur|
+Groupe de développement| Martin Hepperle
+Categorie| [Low Speed]
+Commentaires| Martin Hepperle MH 43 low Reynolds number airfoil

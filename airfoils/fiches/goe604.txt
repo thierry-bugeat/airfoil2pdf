@@ -1,0 +1,9 @@
+Gottingen 604(GOE604,)
+Epaisseur| 0.1785 
+Leading edge radius| 0.0494
+Cambrure| 0.0537 
+Trailing edge angle|[deg] 17.3954
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 604 airfoil

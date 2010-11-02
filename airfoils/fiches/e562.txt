@@ -1,0 +1,9 @@
+Eppler E562(E562,)
+Epaisseur| 0.1504 
+Leading edge radius| 0.0273
+Cambrure| 0.0398 
+Trailing edge angle|[deg] 7.8268
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E562 general aviation airfoil

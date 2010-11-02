@@ -1,0 +1,9 @@
+Gottingen 100(GOE100,)
+Epaisseur| 0.0657 
+Leading edge radius| 0.0523
+Cambrure| 0.0359 
+Trailing edge angle|[deg] 13.8773
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 100 (Sopwith) airfoil

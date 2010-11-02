@@ -1,0 +1,9 @@
+Gottingen 479(GOE479,)
+Epaisseur| 0.1160 
+Leading edge radius| 0.0420
+Cambrure| 0.0401 
+Trailing edge angle|[deg] 14.8284
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 479 airfoil

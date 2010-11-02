@@ -1,0 +1,9 @@
+E231(E231,)
+Epaisseur| 0.1234 
+Leading edge radius| 0.0058
+Cambrure| 0.0246 
+Trailing edge angle|[deg] 5.9998
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Modelplane]
+Commentaires|

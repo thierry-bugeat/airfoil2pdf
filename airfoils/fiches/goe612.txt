@@ -1,0 +1,9 @@
+Gottingen 612(GOE612,)
+Epaisseur| 0.1502 
+Leading edge radius| 0.0510
+Cambrure| 0.0502 
+Trailing edge angle|[deg] 15.5103
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 612 airfoil

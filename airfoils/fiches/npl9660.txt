@@ -1,0 +1,9 @@
+NPL 9660(NPL9660,)
+Epaisseur| 0.1130 
+Leading edge radius| 0.0108
+Cambrure| 0.0101 
+Trailing edge angle|[deg] 26.2936
+Développeur|
+Groupe de développement|
+Categorie| [Transonic] [Rotorcraft]
+Commentaires| NPL 9660 rotorcraft airfoil

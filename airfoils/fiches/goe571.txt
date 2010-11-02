@@ -1,0 +1,9 @@
+Gottingen 571(GOE571,)
+Epaisseur| 0.2495 
+Leading edge radius| 0.0593
+Cambrure| 0.0985 
+Trailing edge angle|[deg] 46.1871
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 571 airfoil

@@ -1,0 +1,9 @@
+Eppler E580(E580,)
+Epaisseur| 0.1610 
+Leading edge radius| 0.0185
+Cambrure| 0.0409 
+Trailing edge angle|[deg] 4.6582
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E580 general purpose airfoil

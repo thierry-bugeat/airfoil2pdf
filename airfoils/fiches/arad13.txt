@@ -1,0 +1,10 @@
+ARA-D 13%(ARAD13,)
+Epaisseur| 0.1300 
+Leading edge radius| 0.0226
+Cambrure| 0.0361 
+Trailing edge angle|[deg] 11.2016
+Développeur|
+Groupe de développement|
+Categorie| [Propeller]
+Commentaires| Aeronautical Research Association/Bocci-Dowty Rotol
+ARA-D 13% thick propeller airfoil

@@ -1,0 +1,9 @@
+Selig S1091(S1091,)
+Epaisseur| 0.0506 
+Leading edge radius| 0.0067
+Cambrure| 0.0612 
+Trailing edge angle|[deg] 8.0846
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S1091 airfoil

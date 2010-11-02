@@ -1,0 +1,9 @@
+USA-26(USA26,)
+Epaisseur| 0.0983 
+Leading edge radius| 0.0381
+Cambrure| 0.0434 
+Trailing edge angle|[deg] 19.0512
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| USA-26 airfoil

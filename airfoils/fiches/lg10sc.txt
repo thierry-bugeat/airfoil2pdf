@@ -1,0 +1,9 @@
+Lockheed-Georgia/NASA/Blackwell rotorcraft(LG10SC,)
+Epaisseur| 0.1000 
+Leading edge radius| 0.0099
+Cambrure| 0.0146 
+Trailing edge angle|[deg] 14.9717
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic] [Rotorcraft]
+Commentaires| Lockheed-Georgia/NASA/Blackwell rotorcraft airfoil

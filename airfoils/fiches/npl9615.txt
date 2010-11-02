@@ -1,0 +1,9 @@
+NPL 9615(NPL9615,)
+Epaisseur| 0.1130 
+Leading edge radius| 0.0027
+Cambrure| 0.0091 
+Trailing edge angle|[deg] 24.8669
+Développeur|
+Groupe de développement|
+Categorie| [Transonic] [Rotorcraft]
+Commentaires| NPL 9615 rotorcraft airfoil

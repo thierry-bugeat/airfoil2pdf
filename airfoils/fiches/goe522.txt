@@ -1,0 +1,9 @@
+Gottingen 522(GOE522,)
+Epaisseur| 0.2190 
+Leading edge radius| 0.0692
+Cambrure| 0.0521 
+Trailing edge angle|[deg] 20.6899
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 522 airfoil

@@ -1,0 +1,8 @@
+NACA/Munk M-6(85%)(M6(85),)
+Epaisseur| 0.1021 
+Leading edge radius| 0.0117
+Cambrure| 0.0208 
+Trailing edge angle|[deg] 15.2478
+Développeur|
+Groupe de développement| NACA/Munk
+Commentaires|

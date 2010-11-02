@@ -1,0 +1,9 @@
+Gottingen 372(GOE372,)
+Epaisseur| 0.0620 
+Leading edge radius| 0.0375
+Cambrure| 0.0431 
+Trailing edge angle|[deg] 10.8406
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 372 airfoil

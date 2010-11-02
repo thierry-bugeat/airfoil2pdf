@@ -1,0 +1,9 @@
+Gottingen 679(GOE679,)
+Epaisseur| 0.1830 
+Leading edge radius| 0.0615
+Cambrure| 0.0453 
+Trailing edge angle|[deg] 28.3734
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 679 airfoil

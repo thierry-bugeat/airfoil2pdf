@@ -1,0 +1,10 @@
+NASA/Langley LS(1)-0413 (GA(W)-2)(LS413,)
+Epaisseur| 0.1293 
+Leading edge radius| 0.0280
+Cambrure| 0.0242 
+Trailing edge angle|[deg] 4.2801
+Développeur|
+Groupe de développement| NASA/Langley
+Categorie| [Subnsonic]
+Commentaires| NASA/Langley LS(1)-0413 (GA(W)-2) general aviation
+airfoil

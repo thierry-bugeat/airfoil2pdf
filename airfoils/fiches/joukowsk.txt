@@ -1,0 +1,9 @@
+12% Joukowski(JOUKOWSK,)
+Epaisseur| 0.1180 
+Leading edge radius| 0.0209
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 0.4756
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| 12% Joukowski airfoil

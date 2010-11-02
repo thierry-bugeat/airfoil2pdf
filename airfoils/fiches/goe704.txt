@@ -1,0 +1,9 @@
+Gottingen 704(GOE704,)
+Epaisseur| 0.1295 
+Leading edge radius| 0.0526
+Cambrure| 0.0214 
+Trailing edge angle|[deg] 18.0313
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 704 airfoil

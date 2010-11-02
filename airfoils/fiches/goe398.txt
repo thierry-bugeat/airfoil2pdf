@@ -1,0 +1,9 @@
+Gottingen 398(GOE398,)
+Epaisseur| 0.1385 
+Leading edge radius| 0.0425
+Cambrure| 0.0485 
+Trailing edge angle|[deg] 22.3401
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 398 airfoil

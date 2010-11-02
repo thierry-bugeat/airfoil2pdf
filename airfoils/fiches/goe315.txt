@@ -1,0 +1,9 @@
+Gottingen 315(GOE315,)
+Epaisseur| 0.0808 
+Leading edge radius| 0.0350
+Cambrure| 0.0410 
+Trailing edge angle|[deg] 11.2073
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 315 (Hansa-Brandenburg III.5) airfoil

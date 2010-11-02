@@ -1,0 +1,9 @@
+Gottingen 777(GOE777,)
+Epaisseur| 0.2200 
+Leading edge radius| 0.0531
+Cambrure| 0.0592 
+Trailing edge angle|[deg] 22.2599
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 777 airfoil

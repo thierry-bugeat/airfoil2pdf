@@ -1,0 +1,9 @@
+Gottingen 460(GOE460,)
+Epaisseur| 0.2050 
+Leading edge radius| 0.0736
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 24.9528
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 460 airfoil

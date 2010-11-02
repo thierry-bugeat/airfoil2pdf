@@ -1,0 +1,9 @@
+Gottingen 433(GOE433,)
+Epaisseur| 0.1744 
+Leading edge radius| 0.0668
+Cambrure| 0.0485 
+Trailing edge angle|[deg] 9.9009
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 433 airfoil

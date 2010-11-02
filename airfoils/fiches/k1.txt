@@ -1,0 +1,9 @@
+NYU/Grumman K-1(K1,)
+Epaisseur| 0.1160 
+Leading edge radius| 0.0146
+Cambrure| 0.0195 
+Trailing edge angle|[deg] 0.1031
+Développeur|
+Groupe de développement| Grumman Inc.
+Categorie| [Transonic]
+Commentaires| NYU/Grumman K-1 transonic airfoil (GAC .75-.63-11.6)

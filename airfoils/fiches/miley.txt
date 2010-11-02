@@ -1,0 +1,9 @@
+Miley MO6-13-128(MILEY,)
+Epaisseur| 0.1286 
+Leading edge radius| 0.0063
+Cambrure| 0.0520 
+Trailing edge angle|[deg] 23.2855
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| Miley MO6-13-128 airfoil

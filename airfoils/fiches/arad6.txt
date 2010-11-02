@@ -1,0 +1,10 @@
+ARA-D 6%(ARAD6,)
+Epaisseur| 0.0602 
+Leading edge radius| 0.0131
+Cambrure| 0.0501 
+Trailing edge angle|[deg] 8.3081
+Développeur|
+Groupe de développement|
+Categorie| [Propeller]
+Commentaires| Aeronautical Research Association/Bocci-Dowty Rotol
+ARA-D 6% thick propeller airfoil

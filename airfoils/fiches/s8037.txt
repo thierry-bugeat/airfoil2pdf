@@ -1,0 +1,9 @@
+Selig S8037(S8037,)
+Epaisseur| 0.1601 
+Leading edge radius| 0.0139
+Cambrure| 0.0265 
+Trailing edge angle|[deg] 12.9090
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S8037 low Reynolds number airfoil

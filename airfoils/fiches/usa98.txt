@@ -1,0 +1,9 @@
+USA-98(USA98,)
+Epaisseur| 0.1429 
+Leading edge radius| 0.0925
+Cambrure| 0.0638 
+Trailing edge angle|[deg] 18.6444
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| USA-98 airfoil

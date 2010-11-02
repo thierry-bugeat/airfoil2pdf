@@ -1,0 +1,9 @@
+Wortmann FX L V-152(FXLV152,)
+Epaisseur| 0.1528 
+Leading edge radius| 0.0090
+Cambrure| 0.0002 
+Trailing edge angle|[deg] 33.3697
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Subnsonic]
+Commentaires| Wortmann FX L V-152 airfoil

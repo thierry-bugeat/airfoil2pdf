@@ -1,0 +1,9 @@
+Gottingen 512(GOE512,)
+Epaisseur| 0.1392 
+Leading edge radius| 0.0448
+Cambrure| 0.0562 
+Trailing edge angle|[deg] 27.9896
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 512 airfoil

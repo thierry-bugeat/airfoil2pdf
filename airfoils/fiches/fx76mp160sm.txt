@@ -1,0 +1,9 @@
+Wortmann FX 76MP-160(smoothed)(FX76MP160SM,)
+Epaisseur| 0.1616 
+Leading edge radius| 0.0238
+Cambrure| 0.0605 
+Trailing edge angle|[deg] 27.3000
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Low Speed] [Human-Powered Aircraft]
+Commentaires| Human-Powered Aircraft(Musclair) airfoil

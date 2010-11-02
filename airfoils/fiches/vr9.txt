@@ -1,0 +1,9 @@
+Boeing-Vertol VR-9(VR9,)
+Epaisseur| 0.0606 
+Leading edge radius| 0.0174
+Cambrure| 0.0033 
+Trailing edge angle|[deg] 6.2855
+Développeur|
+Groupe de développement| Boeing Inc.
+Categorie| [Rotorcraft]
+Commentaires| Boeing-Vertol VR-9 rotorcraft airfoil

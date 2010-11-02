@@ -1,0 +1,9 @@
+Grumman/Gulfstream GIII-k(GIIIK,)
+Epaisseur| 0.0853 
+Leading edge radius| 0.0204
+Cambrure| 0.0150 
+Trailing edge angle|[deg] 10.8005
+Développeur|
+Groupe de développement| Grumman Inc.
+Categorie| [Transonic]
+Commentaires| continued

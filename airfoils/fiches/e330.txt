@@ -1,0 +1,9 @@
+Eppler E330(E330,)
+Epaisseur| 0.1104 
+Leading edge radius| 0.0069
+Cambrure| 0.0213 
+Trailing edge angle|[deg] 7.0475
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic] [Flying wing]
+Commentaires| Eppler E330 flying wing airfoil

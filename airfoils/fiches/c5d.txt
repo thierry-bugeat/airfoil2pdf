@@ -1,0 +1,9 @@
+Lockheed-Georgia C-5A-d(C5D,)
+Epaisseur| 0.1105 
+Leading edge radius| 0.0241
+Cambrure| 0.0135 
+Trailing edge angle|[deg] 18.6960
+Développeur|
+Groupe de développement| Lockheed Inc.
+Categorie| [Transonic]
+Commentaires| continued

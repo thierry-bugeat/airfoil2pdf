@@ -1,0 +1,9 @@
+Boeing 737-a(B737A,)
+Epaisseur| 0.1537 
+Leading edge radius| 0.0392
+Cambrure| 0.0028 
+Trailing edge angle|[deg] 14.2211
+Développeur|
+Groupe de développement| Boeing Inc.
+Categorie| [Transonic]
+Commentaires| Boeing Commercial Airplane Company model 737 airfoils

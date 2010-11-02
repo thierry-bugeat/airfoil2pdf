@@ -1,0 +1,9 @@
+Boeing KC-135-a(KC135A,)
+Epaisseur| 0.1549 
+Leading edge radius| 0.0173
+Cambrure| 0.0128 
+Trailing edge angle|[deg] 16.3354
+Développeur|
+Groupe de développement| Boeing Inc.
+Categorie| [Transonic]
+Commentaires| Boeing KC-135 transonic airfoils

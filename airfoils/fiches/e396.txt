@@ -1,0 +1,9 @@
+Eppler E396(E396,)
+Epaisseur| 0.1306 
+Leading edge radius| 0.0063
+Cambrure| 0.0545 
+Trailing edge angle|[deg] 4.9619
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed] [Human-Powered Aircraft]
+Commentaires| Eppler E396 human powered aircraft airfoil

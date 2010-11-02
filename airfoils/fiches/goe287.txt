@@ -1,0 +1,9 @@
+Gottingen 287(GOE287,)
+Epaisseur| 0.0887 
+Leading edge radius| 0.0343
+Cambrure| 0.0488 
+Trailing edge angle|[deg] 4.4405
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 287 airfoil

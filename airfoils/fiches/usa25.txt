@@ -1,0 +1,9 @@
+USA-25(USA25,)
+Epaisseur| 0.0828 
+Leading edge radius| 0.0375
+Cambrure| 0.0524 
+Trailing edge angle|[deg] 17.9683
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| USA-25 airfoil

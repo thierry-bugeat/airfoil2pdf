@@ -1,0 +1,9 @@
+Eppler E66(E66,)
+Epaisseur| 0.1014 
+Leading edge radius| 0.0208
+Cambrure| 0.0406 
+Trailing edge angle|[deg] 6.4402
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Eppler E66 low Reynolds number airfoil

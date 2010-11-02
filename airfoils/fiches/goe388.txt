@@ -1,0 +1,9 @@
+Gottingen 388(GOE388,)
+Epaisseur| 0.1020 
+Leading edge radius| 0.0380
+Cambrure| 0.0543 
+Trailing edge angle|[deg] 11.4365
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 388 airfoil

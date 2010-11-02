@@ -1,0 +1,9 @@
+Eppler E387(E387,)
+Epaisseur| 0.0907 
+Leading edge radius| 0.0084
+Cambrure| 0.0378 
+Trailing edge angle|[deg] 3.5008
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Eppler E387 low Reynolds number airfoil

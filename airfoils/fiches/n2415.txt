@@ -1,0 +1,9 @@
+NACA 2415(NACA2415,)
+Epaisseur| 0.1501 
+Leading edge radius| 0.0240
+Cambrure| 0.0186 
+Trailing edge angle|[deg] 20.3576
+Développeur|
+Groupe de développement| NACA
+Categorie| [Subnsonic]
+Commentaires| NACA 2415 airfoil

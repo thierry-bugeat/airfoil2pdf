@@ -1,0 +1,8 @@
+USNPS-4(USNPS4,)
+Epaisseur| 0.1194 
+Leading edge radius| 0.0137
+Cambrure| 0.0500 
+Trailing edge angle|[deg] 24.6768
+Développeur|
+Groupe de développement|
+Commentaires|

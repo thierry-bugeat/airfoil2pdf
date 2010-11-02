@@ -1,0 +1,9 @@
+Eppler E473(E473,)
+Epaisseur| 0.1619 
+Leading edge radius| 0.0352
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 12.1871
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic] [Aerobatic]
+Commentaires| Eppler E473 aerobatic aircraft airfoil

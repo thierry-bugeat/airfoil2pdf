@@ -1,0 +1,10 @@
+Eppler E664 (extended)(E664EX,)
+Epaisseur| 0.1662 
+Leading edge radius| 0.0175
+Cambrure| 0.0423 
+Trailing edge angle|[deg] 5.7641
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Sailplane]
+Commentaires| Eppler E664 (extended) variable geometry sailplane
+airfoil

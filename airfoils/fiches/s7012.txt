@@ -1,0 +1,9 @@
+Selig S7012(S7012,)
+Epaisseur| 0.0875 
+Leading edge radius| 0.0058
+Cambrure| 0.0202 
+Trailing edge angle|[deg] 1.9080
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S7012 low Reynolds number airfoil

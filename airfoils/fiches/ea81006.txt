@@ -1,0 +1,9 @@
+Eppler EA 8(-1)-006(EA81006,)
+Epaisseur| 0.0600 
+Leading edge radius| 0.0438
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 7.9471
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler EA 8(-1)-006 airfoil

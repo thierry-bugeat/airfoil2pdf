@@ -1,0 +1,9 @@
+Gottingen 546(GOE546,)
+Epaisseur| 0.1040 
+Leading edge radius| 0.0392
+Cambrure| 0.0357 
+Trailing edge angle|[deg] 14.3414
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 546 airfoil

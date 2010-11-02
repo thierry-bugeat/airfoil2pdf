@@ -1,0 +1,9 @@
+Eppler E874(E874,)
+Epaisseur| 0.0791 
+Leading edge radius| 0.0047
+Cambrure| 0.0089 
+Trailing edge angle|[deg] 5.9875
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Hydrofoil]
+Commentaires| Eppler E874 hydrofoil

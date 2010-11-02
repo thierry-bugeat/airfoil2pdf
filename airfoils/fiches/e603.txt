@@ -1,0 +1,9 @@
+Eppler E603(E603,)
+Epaisseur| 0.1899 
+Leading edge radius| 0.0333
+Cambrure| 0.0356 
+Trailing edge angle|[deg] 3.5467
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E603 general purpose airfoil

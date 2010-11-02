@@ -1,0 +1,9 @@
+Eppler E715 tailplane(E715,)
+Epaisseur| 0.1505 
+Leading edge radius| 0.0058
+Cambrure| 0.0277 
+Trailing edge angle|[deg] 4.2744
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E715 tailplane airfoil

@@ -1,0 +1,9 @@
+Archer A18 F1C(smoothed)(A18SM,)
+Epaisseur| 0.0728 
+Leading edge radius| 0.0061
+Cambrure| 0.0384 
+Trailing edge angle|[deg] 9.8895
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed] [Modelplane]
+Commentaires| Archer A18 F1C free flight airfoil (smoothed)

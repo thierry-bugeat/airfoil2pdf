@@ -1,0 +1,9 @@
+FALCON 56 MkII(FALCON56MK2,)
+Epaisseur| 0.1368 
+Leading edge radius| 0.0121
+Cambrure| 0.0163 
+Trailing edge angle|[deg] 65.2902
+Développeur|
+Groupe de développement|
+Categorie| [Modelplane]
+Commentaires|

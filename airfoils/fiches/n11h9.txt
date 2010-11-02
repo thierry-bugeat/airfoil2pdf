@@ -1,0 +1,9 @@
+NACA 11-H-9(NACA11H9,)
+Epaisseur| 0.0899 
+Leading edge radius| 0.0349
+Cambrure| 0.0452 
+Trailing edge angle|[deg] 17.3495
+Développeur|
+Groupe de développement| NACA
+Categorie| [Subnsonic] [Rotorcraft]
+Commentaires| NACA 11-H-9 rotorcraft airfoil

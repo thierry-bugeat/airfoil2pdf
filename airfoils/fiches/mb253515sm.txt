@@ -1,0 +1,9 @@
+Mike Bame MB253515(MB253515SM,)
+Epaisseur| 0.1496 
+Leading edge radius| 0.0078
+Cambrure| 0.0241 
+Trailing edge angle|[deg] 18.2663
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed] [Modelplane]
+Commentaires| Mike Bame MB253515 low Reynolds number airfoil

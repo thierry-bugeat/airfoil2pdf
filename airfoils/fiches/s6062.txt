@@ -1,0 +1,9 @@
+Selig S6062(S6062,)
+Epaisseur| 0.0795 
+Leading edge radius| 0.0055
+Cambrure| 0.0161 
+Trailing edge angle|[deg] 2.7732
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S6062 low Reynolds number airfoil

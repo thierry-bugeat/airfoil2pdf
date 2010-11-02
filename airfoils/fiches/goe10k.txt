@@ -1,0 +1,9 @@
+Gottingen 10K(GOE10K,)
+Epaisseur| 0.0385 
+Leading edge radius| 0.1077
+Cambrure| 0.0142 
+Trailing edge angle|[deg] 14.1982
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 10K airfoil

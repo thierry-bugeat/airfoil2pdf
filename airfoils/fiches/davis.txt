@@ -1,0 +1,9 @@
+Consolidated/Davis (B-24?)(DAVIS,)
+Epaisseur| 0.1125 
+Leading edge radius| 0.0421
+Cambrure| 0.0369 
+Trailing edge angle|[deg] 16.0374
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed] [Modelplane]
+Commentaires| Consolidated/Davis airfoil (B-24 wing?)

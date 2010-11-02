@@ -1,0 +1,9 @@
+Eppler E431(E431,)
+Epaisseur| 0.1512 
+Leading edge radius| 0.0091
+Cambrure| 0.0422 
+Trailing edge angle|[deg] 6.4287
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Sailplane]
+Commentaires| Eppler E431 sailplane airfoil

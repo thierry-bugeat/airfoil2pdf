@@ -1,0 +1,9 @@
+Gottingen 377(GOE377,)
+Epaisseur| 0.0645 
+Leading edge radius| 0.0360
+Cambrure| 0.0389 
+Trailing edge angle|[deg] 14.1523
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 377 airfoil

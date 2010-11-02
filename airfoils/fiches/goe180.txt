@@ -1,0 +1,9 @@
+Gottingen 180(GOE180,)
+Epaisseur| 0.0867 
+Leading edge radius| 0.0348
+Cambrure| 0.0440 
+Trailing edge angle|[deg] 14.4675
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 180 (MVA H.26) airfoil

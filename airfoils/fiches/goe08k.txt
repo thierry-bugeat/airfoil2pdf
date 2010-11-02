@@ -1,0 +1,9 @@
+Gottingen 8K(GOE08K,)
+Epaisseur| 0.1485 
+Leading edge radius| 0.0683
+Cambrure| 0.0613 
+Trailing edge angle|[deg] 46.4850
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 8K airfoil

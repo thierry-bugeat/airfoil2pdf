@@ -1,0 +1,9 @@
+NASA/Langley RC(4)-10(RC410,)
+Epaisseur| 0.0998 
+Leading edge radius| 0.0247
+Cambrure| 0.0213 
+Trailing edge angle|[deg] 12.8288
+Développeur|
+Groupe de développement|
+Categorie| [Rotorcraft]
+Commentaires| NASA/Langley RC(4)-10 rotorcraft airfoil

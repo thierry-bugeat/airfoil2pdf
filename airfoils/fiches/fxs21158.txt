@@ -1,0 +1,9 @@
+Wortmann FX S 02/1-158(FXS21158,)
+Epaisseur| 0.1578 
+Leading edge radius| 0.0150
+Cambrure| 0.0350 
+Trailing edge angle|[deg] 31.1753
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Subnsonic]
+Commentaires| Wortmann FX S 02/1-158 airfoil

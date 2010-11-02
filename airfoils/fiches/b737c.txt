@@ -1,0 +1,9 @@
+Boeing 737-c(B737C,)
+Epaisseur| 0.1000 
+Leading edge radius| 0.0100
+Cambrure| 0.0145 
+Trailing edge angle|[deg] 11.2016
+Développeur|
+Groupe de développement| Boeing Inc.
+Categorie| [Transonic]
+Commentaires| continued

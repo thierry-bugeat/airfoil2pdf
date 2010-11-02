@@ -1,0 +1,9 @@
+USA-28(USA28,)
+Epaisseur| 0.1317 
+Leading edge radius| 0.0473
+Cambrure| 0.0375 
+Trailing edge angle|[deg] 30.7054
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| USA-28 airfoil

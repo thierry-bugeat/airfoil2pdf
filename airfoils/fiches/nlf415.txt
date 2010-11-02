@@ -1,0 +1,11 @@
+NASA/Langley-DFVLR/Somers(NASA)-Horstmann(DFVLR) NLF(2)-0415
+natural(NLF415,)
+Epaisseur| 0.1502 
+Leading edge radius| 0.0083
+Cambrure| 0.0296 
+Trailing edge angle|[deg] 8.7206
+Développeur|
+Groupe de développement| NASA/Langley
+Categorie| [Subnsonic]
+Commentaires| NASA/Langley-DFVLR/Somers(NASA)-Horstmann(DFVLR)
+NLF(2)-0415 natural laminar flow airfoil

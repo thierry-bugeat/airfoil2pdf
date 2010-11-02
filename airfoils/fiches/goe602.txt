@@ -1,0 +1,9 @@
+Gottingen 602(GOE602,)
+Epaisseur| 0.0995 
+Leading edge radius| 0.0380
+Cambrure| 0.0348 
+Trailing edge angle|[deg] 13.2069
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 602 airfoil

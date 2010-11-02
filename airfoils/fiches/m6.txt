@@ -1,0 +1,9 @@
+NACA/Munk M-6(M6,)
+Epaisseur| 0.1201 
+Leading edge radius| 0.0452
+Cambrure| 0.0221 
+Trailing edge angle|[deg] 16.8969
+Développeur|
+Groupe de développement| NACA/Munk
+Categorie| [Subnsonic]
+Commentaires| NACA/Munk M-6 airfoil

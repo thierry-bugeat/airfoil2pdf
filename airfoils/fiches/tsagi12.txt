@@ -1,0 +1,9 @@
+TSAGI 12%(TSAGI12,)
+Epaisseur| 0.1190 
+Leading edge radius| 0.0436
+Cambrure| 0.0199 
+Trailing edge angle|[deg] 20.8446
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| TSAGI 12% airfoil

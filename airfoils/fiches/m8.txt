@@ -1,0 +1,9 @@
+NACA/Munk M-8(M8,)
+Epaisseur| 0.1172 
+Leading edge radius| 0.0380
+Cambrure| 0.0804 
+Trailing edge angle|[deg] 8.1247
+Développeur|
+Groupe de développement| NACA/Munk
+Categorie| [Subnsonic]
+Commentaires| NACA/Munk M-8 airfoil

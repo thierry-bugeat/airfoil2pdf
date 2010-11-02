@@ -1,0 +1,9 @@
+NPL 9510(NPL9510,)
+Epaisseur| 0.1109 
+Leading edge radius| 0.0229
+Cambrure| 0.0163 
+Trailing edge angle|[deg] 5.7010
+Développeur|
+Groupe de développement|
+Categorie| [Transonic]
+Commentaires| NPL 9510 transonic airfoil

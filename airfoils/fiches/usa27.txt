@@ -1,0 +1,9 @@
+USA-27(USA27,)
+Epaisseur| 0.1107 
+Leading edge radius| 0.0381
+Cambrure| 0.0509 
+Trailing edge angle|[deg] 23.6923
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| USA-27 airfoil

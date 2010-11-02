@@ -1,0 +1,9 @@
+NACA/Munk M-21(M21,)
+Epaisseur| 0.1195 
+Leading edge radius| 0.0411
+Cambrure| 0.0604 
+Trailing edge angle|[deg] 16.8396
+Développeur|
+Groupe de développement| NACA/Munk
+Categorie| [Subnsonic]
+Commentaires| NACA/Munk M-21 airfoil

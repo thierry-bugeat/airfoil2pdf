@@ -1,0 +1,9 @@
+Gottingen 222(GOE222,)
+Epaisseur| 0.1858 
+Leading edge radius| 0.0478
+Cambrure| 0.0719 
+Trailing edge angle|[deg] 13.6367
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 222 (MVA H.33) airfoil

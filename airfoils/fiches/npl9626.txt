@@ -1,0 +1,9 @@
+NPL 9626(NPL9626,)
+Epaisseur| 0.1207 
+Leading edge radius| 0.0153
+Cambrure| 0.0073 
+Trailing edge angle|[deg] 16.1520
+Développeur|
+Groupe de développement|
+Categorie| [Transonic] [Rotorcraft]
+Commentaires| NPL 9626 rotorcraft airfoil

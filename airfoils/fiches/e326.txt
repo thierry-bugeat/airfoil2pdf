@@ -1,0 +1,9 @@
+Eppler E326(E326,)
+Epaisseur| 0.1288 
+Leading edge radius| 0.0085
+Cambrure| 0.0215 
+Trailing edge angle|[deg] 7.3455
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic] [Flying wing]
+Commentaires| Eppler E326 flying wing airfoil

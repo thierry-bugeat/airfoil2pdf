@@ -1,0 +1,9 @@
+AQUILA(AQUILASM,)
+Epaisseur| 0.0939 
+Leading edge radius| 0.0078
+Cambrure| 0.0399 
+Trailing edge angle|[deg] 10.2447
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed] [Modelplane]
+Commentaires| AQUILA R/C sailplane airfoil

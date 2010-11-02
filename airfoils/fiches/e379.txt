@@ -1,0 +1,9 @@
+Eppler E379(E379,)
+Epaisseur| 0.0222 
+Leading edge radius| 0.0100
+Cambrure| 0.0805 
+Trailing edge angle|[deg] 1.1345
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Ultralight]
+Commentaires| Eppler E379 ultralight airfoil

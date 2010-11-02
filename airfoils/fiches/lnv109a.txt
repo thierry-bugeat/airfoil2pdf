@@ -1,0 +1,9 @@
+Douglas/Liebeck LNV109A(LNV109A,)
+Epaisseur| 0.1299 
+Leading edge radius| 0.0365
+Cambrure| 0.0598 
+Trailing edge angle|[deg] 7.3397
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| Douglas/Liebeck LNV109A high lift airfoil

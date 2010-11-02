@@ -1,0 +1,9 @@
+ONERA/Aerospatiale OAF095(OAF095,)
+Epaisseur| 0.0000 
+Leading edge radius| 0.0000
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 0.0000
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| ONERA/Aerospatiale OAF095 Fenestron airfoil

@@ -1,0 +1,9 @@
+Eppler E639(E639,)
+Epaisseur| 0.1256 
+Leading edge radius| 0.0164
+Cambrure| 0.0480 
+Trailing edge angle|[deg] 9.4597
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E639 airfoil

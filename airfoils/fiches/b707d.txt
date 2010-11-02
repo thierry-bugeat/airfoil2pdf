@@ -1,0 +1,9 @@
+Boeing 707-d(B707D,)
+Epaisseur| 0.0897 
+Leading edge radius| 0.0182
+Cambrure| 0.0179 
+Trailing edge angle|[deg] 10.9953
+Développeur|
+Groupe de développement| Boeing Inc.
+Categorie| [Transonic]
+Commentaires| continued

@@ -1,0 +1,9 @@
+CLARK YH(CLARKYH,)
+Epaisseur| 0.1190 
+Leading edge radius| 0.0753
+Cambrure| 0.0247 
+Trailing edge angle|[deg] 16.8797
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| CLARK YH airfoil

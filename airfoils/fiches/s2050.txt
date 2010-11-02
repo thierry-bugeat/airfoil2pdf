@@ -1,0 +1,9 @@
+Selig S2050(S2050,)
+Epaisseur| 0.0893 
+Leading edge radius| 0.0066
+Cambrure| 0.0129 
+Trailing edge angle|[deg] 2.0741
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S2050 low Reynolds number airfoil

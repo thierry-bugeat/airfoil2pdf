@@ -1,0 +1,9 @@
+Eppler E377 (modified)(E377M,)
+Epaisseur| 0.0378 
+Leading edge radius| 0.0110
+Cambrure| 0.0920 
+Trailing edge angle|[deg] 3.3633
+Développeur| 7
+Groupe de développement| Eppler group
+Categorie| [Ultralight]
+Commentaires| Eppler E377 (modified) ultralight airfoil

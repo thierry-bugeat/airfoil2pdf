@@ -1,0 +1,9 @@
+Gottingen 375(GOE375,)
+Epaisseur| 0.0650 
+Leading edge radius| 0.0293
+Cambrure| 0.0449 
+Trailing edge angle|[deg] 11.4078
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 375 airfoil

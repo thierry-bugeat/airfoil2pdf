@@ -1,0 +1,9 @@
+Gottingen 629(GOE629,)
+Epaisseur| 0.1364 
+Leading edge radius| 0.0607
+Cambrure| 0.0278 
+Trailing edge angle|[deg] 18.0027
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 629 airfoil

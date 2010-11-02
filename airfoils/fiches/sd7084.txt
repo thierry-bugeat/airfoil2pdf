@@ -1,0 +1,9 @@
+Selig/Donovan SD7084(SD7084,)
+Epaisseur| 0.0963 
+Leading edge radius| 0.0052
+Cambrure| 0.0230 
+Trailing edge angle|[deg] 5.4203
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig/Donovan SD7084 low Reynolds number airfoil
