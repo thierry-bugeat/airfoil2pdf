@@ -1,0 +1,9 @@
+Gottingen 199(GOE199,)
+Epaisseur| 0.0733 
+Leading edge radius| 0.0331
+Cambrure| 0.0518 
+Trailing edge angle|[deg] 12.9090
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 199 (L.F.G. 5406) airfoil

@@ -1,0 +1,9 @@
+USA-27MOD(USA27M2,)
+Epaisseur| 0.1329 
+Leading edge radius| 0.0450
+Cambrure| 0.0505 
+Trailing edge angle|[deg] 28.2589
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| USA-27MOD airfoil

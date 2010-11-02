@@ -1,0 +1,9 @@
+Lockheed-Georgia C-141-a(C141A,)
+Epaisseur| 0.1299 
+Leading edge radius| 0.0226
+Cambrure| 0.0109 
+Trailing edge angle|[deg] 23.3370
+Développeur|
+Groupe de développement| Lockheed Inc.
+Categorie| [Transonic]
+Commentaires| Lockheed-Georgia C-141 transonic wing airfoilS

@@ -1,0 +1,9 @@
+Gottingen 504(GOE504,)
+Epaisseur| 0.1800 
+Leading edge radius| 0.0438
+Cambrure| 0.0541 
+Trailing edge angle|[deg] 21.6468
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 504 airfoil

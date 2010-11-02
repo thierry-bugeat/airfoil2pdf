@@ -1,0 +1,9 @@
+NACA-NASA/AMES/Hicks 63(1)-212 MOD A(NACA64212MA,)
+Epaisseur| 0.1197 
+Leading edge radius| 0.0180
+Cambrure| 0.0245 
+Trailing edge angle|[deg] 3.9535
+Développeur|
+Groupe de développement| NACA
+Categorie| [Subnsonic]
+Commentaires| NACA-NASA/AMES/Hicks 63(1)-212 MOD A airfoil

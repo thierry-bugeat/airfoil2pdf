@@ -1,0 +1,9 @@
+Gottingen 121(GOE121,)
+Epaisseur| 0.0665 
+Leading edge radius| 0.0376
+Cambrure| 0.0460 
+Trailing edge angle|[deg] 10.4796
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 121 (MVA H.1) airfoil

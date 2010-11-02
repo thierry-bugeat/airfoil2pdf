@@ -1,0 +1,9 @@
+Gottingen 535(GOE535,)
+Epaisseur| 0.1605 
+Leading edge radius| 0.0505
+Cambrure| 0.0575 
+Trailing edge angle|[deg] 16.7307
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 535 airfoil

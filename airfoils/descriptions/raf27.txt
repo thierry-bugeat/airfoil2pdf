@@ -1,0 +1,9 @@
+RAF-27(RAF27,)
+Epaisseur| 0.0976 
+Leading edge radius| 0.0450
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 15.2696
+Développeur|
+Groupe de développement| RAF
+Categorie| [Subnsonic]
+Commentaires| RAF-27 airfoil

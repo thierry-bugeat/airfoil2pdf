@@ -1,0 +1,9 @@
+Curtiss CR-1(CR1,)
+Epaisseur| 0.1221 
+Leading edge radius| 0.0155
+Cambrure| 0.0471 
+Trailing edge angle|[deg] 19.4294
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| Curtiss CR-1 general aviation airfoil

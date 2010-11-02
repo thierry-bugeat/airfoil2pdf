@@ -1,0 +1,9 @@
+University of Illinois/Chen high lift(CHEN,)
+Epaisseur| 0.1248 
+Leading edge radius| 0.0316
+Cambrure| 0.0779 
+Trailing edge angle|[deg] 70.0684
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| University of Illinois/Chen high lift airfoil

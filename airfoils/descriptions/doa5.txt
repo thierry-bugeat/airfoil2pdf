@@ -1,0 +1,9 @@
+Dornier A-5(DOA5,)
+Epaisseur| 0.1621 
+Leading edge radius| 0.0449
+Cambrure| 0.0255 
+Trailing edge angle|[deg] 23.8642
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| Dornier A-5 airfoil (reconstruction) (DO 228 wing)

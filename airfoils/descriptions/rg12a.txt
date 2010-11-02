@@ -1,0 +1,8 @@
+RG 12A(RG12A,)
+Epaisseur| 0.0899 
+Leading edge radius| 0.0052
+Cambrure| 0.0172 
+Trailing edge angle|[deg] 5.5807
+Développeur|
+Groupe de développement|
+Commentaires| RG 12A airfoil

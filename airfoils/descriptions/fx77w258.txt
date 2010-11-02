@@ -1,0 +1,8 @@
+Wortmann FX 77-W-258(FX77W258,)
+Epaisseur| 0.0000 
+Leading edge radius| 0.0000
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 0.0000
+Développeur|
+Groupe de développement| Wortmann group
+Commentaires| Wortmann FX 77-W-258 wind turbine airfoil

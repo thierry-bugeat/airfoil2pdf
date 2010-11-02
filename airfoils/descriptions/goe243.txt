@@ -1,0 +1,9 @@
+Gottingen 243(GOE243,)
+Epaisseur| 0.1904 
+Leading edge radius| 0.0534
+Cambrure| 0.0840 
+Trailing edge angle|[deg] 6.2110
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 243 (MVA PR.3) airfoil

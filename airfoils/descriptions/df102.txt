@@ -1,0 +1,9 @@
+David Fraser DF 102(DF102,)
+Epaisseur| 0.1100 
+Leading edge radius| 0.0079
+Cambrure| 0.0229 
+Trailing edge angle|[deg] 8.6404
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed]
+Commentaires| David Fraser DF 102 low Reynolds number airfoil

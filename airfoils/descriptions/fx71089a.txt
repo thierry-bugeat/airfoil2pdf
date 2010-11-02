@@ -1,0 +1,9 @@
+Wortmann FX 71-089A(FX71089A,)
+Epaisseur| 0.0894 
+Leading edge radius| 0.0211
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 9.9238
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Subnsonic]
+Commentaires| Wortmann FX 71-089A airfoil

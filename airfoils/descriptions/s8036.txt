@@ -1,0 +1,9 @@
+Selig S8036(S8036,)
+Epaisseur| 0.1601 
+Leading edge radius| 0.0167
+Cambrure| 0.0189 
+Trailing edge angle|[deg] 12.9949
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S8036 low Reynolds number airfoil

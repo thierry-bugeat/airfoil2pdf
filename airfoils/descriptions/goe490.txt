@@ -1,0 +1,9 @@
+Gottingen 490(GOE490,)
+Epaisseur| 0.0881 
+Leading edge radius| 0.0388
+Cambrure| 0.0384 
+Trailing edge angle|[deg] 17.5271
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 490 airfoil

@@ -1,0 +1,9 @@
+Gottingen 155(GOE155,)
+Epaisseur| 0.0702 
+Leading edge radius| 0.0326
+Cambrure| 0.0528 
+Trailing edge angle|[deg] 6.3313
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 155 (SSW D.1) airfoil

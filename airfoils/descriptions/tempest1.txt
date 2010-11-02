@@ -1,0 +1,9 @@
+Hawker Tempest 37.5%(TEMPEST1,)
+Epaisseur| 0.1450 
+Leading edge radius| 0.0119
+Cambrure| 0.0101 
+Trailing edge angle|[deg] 22.9933
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| Hawker Tempest 37.5% semispan airfoil (NPL?)

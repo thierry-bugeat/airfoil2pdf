@@ -1,0 +1,9 @@
+Gottingen 572(GOE572,)
+Epaisseur| 0.1860 
+Leading edge radius| 0.0388
+Cambrure| 0.0832 
+Trailing edge angle|[deg] 40.7668
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 572 airfoil

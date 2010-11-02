@@ -1,0 +1,9 @@
+Martin Hepperle MH20(MH20,)
+Epaisseur| 0.0902 
+Leading edge radius| 0.0070
+Cambrure| 0.0201 
+Trailing edge angle|[deg] 4.6239
+Développeur|
+Groupe de développement| Martin Hepperle
+Categorie| [Low Speed]
+Commentaires| Martin Hepperle MH 20 low Reynolds number airfoil

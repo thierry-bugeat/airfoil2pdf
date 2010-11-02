@@ -1,0 +1,9 @@
+Gottingen 567(GOE567,)
+Epaisseur| 0.1478 
+Leading edge radius| 0.0542
+Cambrure| 0.0526 
+Trailing edge angle|[deg] 10.1186
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 567 airfoil

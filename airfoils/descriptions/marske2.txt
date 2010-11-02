@@ -1,0 +1,9 @@
+Marske Pioneer IA(MARSKE2,)
+Epaisseur| 0.1205 
+Leading edge radius| 0.0416
+Cambrure| 0.0269 
+Trailing edge angle|[deg] 15.4014
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| Marske Pioneer IA airfoil (NACA 23112/43012A hybrid)

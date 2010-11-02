@@ -1,0 +1,9 @@
+Gottingen 620(GOE620,)
+Epaisseur| 0.1750 
+Leading edge radius| 0.0524
+Cambrure| 0.0590 
+Trailing edge angle|[deg] 21.7213
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 620 airfoil

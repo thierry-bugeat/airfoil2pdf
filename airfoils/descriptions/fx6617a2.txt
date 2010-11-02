@@ -1,0 +1,9 @@
+Wortmann FX 66-17AII-182(FX6617A2,)
+Epaisseur| 0.1820 
+Leading edge radius| 0.0115
+Cambrure| 0.0380 
+Trailing edge angle|[deg] 16.8281
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Subnsonic]
+Commentaires| Wortmann FX 66-17AII-182 airfoil

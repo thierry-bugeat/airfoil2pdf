@@ -1,0 +1,9 @@
+RAF-32 MOD(RAF32MD,)
+Epaisseur| 0.1016 
+Leading edge radius| 0.0384
+Cambrure| 0.0396 
+Trailing edge angle|[deg] 12.6741
+Développeur|
+Groupe de développement| RAF
+Categorie| [Subnsonic]
+Commentaires| RAF-32 MOD airfoil

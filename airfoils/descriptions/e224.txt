@@ -1,0 +1,9 @@
+Eppler E224(E224,)
+Epaisseur| 0.1017 
+Leading edge radius| 0.0054
+Cambrure| 0.0177 
+Trailing edge angle|[deg] 4.9963
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Eppler E224 low Reynolds number airfoil

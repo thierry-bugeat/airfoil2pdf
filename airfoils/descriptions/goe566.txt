@@ -1,0 +1,9 @@
+Gottingen 566(GOE566,)
+Epaisseur| 0.0865 
+Leading edge radius| 0.0377
+Cambrure| 0.0255 
+Trailing edge angle|[deg] 11.7516
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 566 airfoil

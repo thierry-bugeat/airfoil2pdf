@@ -1,0 +1,9 @@
+Eppler E428(E428,)
+Epaisseur| 0.1117 
+Leading edge radius| 0.0196
+Cambrure| 0.0049 
+Trailing edge angle|[deg] 8.0846
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E428 airfoil

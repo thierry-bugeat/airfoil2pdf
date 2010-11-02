@@ -1,0 +1,10 @@
+NASA/Langley/Somers NLF(1)-0215F(NLF0215F,)
+Epaisseur| 0.1498 
+Leading edge radius| 0.0172
+Cambrure| 0.0396 
+Trailing edge angle|[deg] 6.2454
+Développeur|
+Groupe de développement| NASA/Langley
+Categorie| [Subnsonic]
+Commentaires| NASA/Langley/Somers NLF(1)-0215F natural laminar flow
+airfoil

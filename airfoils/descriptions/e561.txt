@@ -1,0 +1,9 @@
+Eppler E561(E561,)
+Epaisseur| 0.1690 
+Leading edge radius| 0.0226
+Cambrure| 0.0507 
+Trailing edge angle|[deg] 7.8268
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E561 general aviation airfoil

@@ -1,0 +1,9 @@
+Eppler E850(E850,)
+Epaisseur| 0.0799 
+Leading edge radius| 0.0027
+Cambrure| 0.0183 
+Trailing edge angle|[deg] 6.0219
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Propeller]
+Commentaires| Eppler E850 propeller airfoil

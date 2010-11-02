@@ -1,0 +1,9 @@
+Eppler E171(E171,)
+Epaisseur| 0.1225 
+Leading edge radius| 0.0049
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 6.3256
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Eppler E171 low Reynolds number airfoil

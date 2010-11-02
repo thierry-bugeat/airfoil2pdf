@@ -1,0 +1,9 @@
+NACA 66,2-(1.8)12 A=.6(P51HTIP,)
+Epaisseur| 0.1200 
+Leading edge radius| 0.0157
+Cambrure| 0.0133 
+Trailing edge angle|[deg] 2.6872
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| NACA 66,2-(1.8)12 A=.6 P-51H tip airfoil

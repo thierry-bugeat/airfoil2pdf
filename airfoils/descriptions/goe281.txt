@@ -1,0 +1,9 @@
+Gottingen 281(GOE281,)
+Epaisseur| 0.0804 
+Leading edge radius| 0.0329
+Cambrure| 0.0455 
+Trailing edge angle|[deg] 10.6515
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 281 (DAIMLER XII) airfoil

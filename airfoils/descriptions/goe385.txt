@@ -1,0 +1,9 @@
+Gottingen 385(GOE385,)
+Epaisseur| 0.0989 
+Leading edge radius| 0.0343
+Cambrure| 0.0414 
+Trailing edge angle|[deg] 10.0155
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 385 airfoil

@@ -1,0 +1,9 @@
+Boeing-Vertol VR-1(VR1,)
+Epaisseur| 0.1097 
+Leading edge radius| 0.0262
+Cambrure| 0.0153 
+Trailing edge angle|[deg] 12.6741
+Développeur|
+Groupe de développement| Boeing Inc.
+Categorie| [Rotorcraft]
+Commentaires| Boeing-Vertol VR-1 rotorcraft airfoil

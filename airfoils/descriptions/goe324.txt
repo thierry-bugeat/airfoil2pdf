@@ -1,0 +1,9 @@
+Gottingen 324(GOE324,)
+Epaisseur| 0.1314 
+Leading edge radius| 0.0462
+Cambrure| 0.0595 
+Trailing edge angle|[deg] 8.3482
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 324 (Hansa-Brandenburg) airfoil

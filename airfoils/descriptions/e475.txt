@@ -1,0 +1,9 @@
+Eppler E475(E475,)
+Epaisseur| 0.1500 
+Leading edge radius| 0.0142
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 8.4570
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic] [Aerobatic]
+Commentaires| Eppler E475 aerobatic aircraft airfoil

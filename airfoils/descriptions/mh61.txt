@@ -1,0 +1,9 @@
+Martin Hepperle MH61(MH61,)
+Epaisseur| 0.1026 
+Leading edge radius| 0.0071
+Cambrure| 0.0144 
+Trailing edge angle|[deg] 4.0910
+Développeur|
+Groupe de développement| Martin Hepperle
+Categorie| [Low Speed]
+Commentaires| Martin Hepperle MH 61 low Reynolds number airfoil

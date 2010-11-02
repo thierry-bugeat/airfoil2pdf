@@ -1,0 +1,9 @@
+NACA 6-H-15(NACA6H15,)
+Epaisseur| 0.1558 
+Leading edge radius| 0.0382
+Cambrure| 0.0451 
+Trailing edge angle|[deg] 11.2187
+Développeur|
+Groupe de développement| NACA
+Categorie| [Subnsonic] [Rotorcraft]
+Commentaires| NACA 6-H-15 rotorcraft airfoil

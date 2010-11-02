@@ -1,0 +1,9 @@
+NACA 0012(NACA0012,)
+Epaisseur| 0.1200 
+Leading edge radius| 0.0172
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 15.9744
+Développeur|
+Groupe de développement| NACA
+Categorie| [Subnsonic] [Symmetric]
+Commentaires| NACA 0012 airfoil

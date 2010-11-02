@@ -1,0 +1,10 @@
+Mcdonnell/Douglas DSMA-523(sharp TE)(DSMA523A,)
+Epaisseur| 0.1100 
+Leading edge radius| 0.0258
+Cambrure| 0.0227 
+Trailing edge angle|[deg] 4.0509
+Développeur|
+Groupe de développement| Mcdonnell/Douglas Inc.
+Categorie| [Transonic]
+Commentaires| Mcdonnell/Douglas DSMA-523 transonic airfoil with sharp
+trailing edge

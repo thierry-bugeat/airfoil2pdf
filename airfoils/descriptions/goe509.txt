@@ -1,0 +1,9 @@
+Gottingen 509(GOE509,)
+Epaisseur| 0.1106 
+Leading edge radius| 0.0397
+Cambrure| 0.0518 
+Trailing edge angle|[deg] 22.3172
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 509 airfoil

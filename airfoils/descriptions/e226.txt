@@ -1,0 +1,9 @@
+Eppler E226(E226,)
+Epaisseur| 0.1019 
+Leading edge radius| 0.0089
+Cambrure| 0.0096 
+Trailing edge angle|[deg] 5.5463
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Eppler E226 low Reynolds number airfoil

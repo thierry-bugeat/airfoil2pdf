@@ -1,0 +1,9 @@
+Eppler E397(E397,)
+Epaisseur| 0.1352 
+Leading edge radius| 0.0051
+Cambrure| 0.0530 
+Trailing edge angle|[deg] 5.0364
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed] [Human-Powered Aircraft]
+Commentaires| Eppler E397 human powered aircraft airfoil

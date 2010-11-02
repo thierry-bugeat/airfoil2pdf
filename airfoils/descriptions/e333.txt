@@ -1,0 +1,9 @@
+Eppler E333(E333,)
+Epaisseur| 0.1177 
+Leading edge radius| 0.0096
+Cambrure| 0.0350 
+Trailing edge angle|[deg] 7.3225
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic] [Flying wing]
+Commentaires| Eppler E333 flying wing airfoil

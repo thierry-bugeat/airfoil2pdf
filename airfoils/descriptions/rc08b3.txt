@@ -1,0 +1,9 @@
+NASA/Langley RC-08(B)3(RC08B3,)
+Epaisseur| 0.0800 
+Leading edge radius| 0.0169
+Cambrure| 0.0109 
+Trailing edge angle|[deg] 14.7368
+Développeur|
+Groupe de développement|
+Categorie| [Rotorcraft]
+Commentaires| NASA/Langley RC-08(B)3 rotorcraft airfoil

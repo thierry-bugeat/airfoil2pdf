@@ -1,0 +1,9 @@
+Eppler E856(E856,)
+Epaisseur| 0.1818 
+Leading edge radius| 0.0128
+Cambrure| 0.0418 
+Trailing edge angle|[deg] 11.5854
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Propeller]
+Commentaires| Eppler E856 propeller airfoil

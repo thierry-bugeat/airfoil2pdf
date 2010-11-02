@@ -1,0 +1,9 @@
+Selig S1223(S1223,)
+Epaisseur| 0.1214 
+Leading edge radius| 0.0316
+Cambrure| 0.0869 
+Trailing edge angle|[deg] 3.2315
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S1223 high lift low Reynolds number airfoil

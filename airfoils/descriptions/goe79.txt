@@ -1,0 +1,9 @@
+Gottingen 79(GOE79,)
+Epaisseur| 0.0617 
+Leading edge radius| 0.0409
+Cambrure| 0.0599 
+Trailing edge angle|[deg] 9.5342
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 79 (Pfalz 11) airfoil

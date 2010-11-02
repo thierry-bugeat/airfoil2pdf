@@ -1,0 +1,9 @@
+Gottingen 480(GOE480,)
+Epaisseur| 0.1175 
+Leading edge radius| 0.0712
+Cambrure| 0.0550 
+Trailing edge angle|[deg] 14.6279
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 480 airfoil

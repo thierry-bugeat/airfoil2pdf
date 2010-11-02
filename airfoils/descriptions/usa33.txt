@@ -1,0 +1,9 @@
+USA-33(USA33,)
+Epaisseur| 0.1420 
+Leading edge radius| 0.0549
+Cambrure| 0.0486 
+Trailing edge angle|[deg] 22.5406
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| USA-33 airfoil

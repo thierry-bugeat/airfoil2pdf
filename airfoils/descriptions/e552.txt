@@ -1,0 +1,9 @@
+Eppler E552(E552,)
+Epaisseur| 0.1847 
+Leading edge radius| 0.0125
+Cambrure| 0.0256 
+Trailing edge angle|[deg] 8.6748
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E552 general aviation airfoil

@@ -1,0 +1,9 @@
+Eppler STE 87(-3)-914(STE87391,)
+Epaisseur| 0.1457 
+Leading edge radius| 0.0200
+Cambrure| 0.0413 
+Trailing edge angle|[deg] 5.6896
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler STE 87(-3)-914 airfoil

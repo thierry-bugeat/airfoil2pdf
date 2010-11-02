@@ -1,0 +1,9 @@
+RAE6-9CK(RAE69CK,)
+Epaisseur| 0.1211 
+Leading edge radius| 0.0105
+Cambrure| 0.0126 
+Trailing edge angle|[deg] 8.6633
+Développeur|
+Groupe de développement|
+Categorie| [Transonic]
+Commentaires| RAE6-9CK transonic airfoil

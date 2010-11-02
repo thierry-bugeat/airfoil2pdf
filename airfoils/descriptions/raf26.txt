@@ -1,0 +1,9 @@
+RAF-26(RAF26,)
+Epaisseur| 0.0662 
+Leading edge radius| 0.0445
+Cambrure| 0.0214 
+Trailing edge angle|[deg] 17.4756
+Développeur|
+Groupe de développement| RAF
+Categorie| [Subnsonic]
+Commentaires| RAF-26 airfoil

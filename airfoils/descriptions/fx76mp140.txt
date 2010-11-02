@@ -1,0 +1,9 @@
+Wortmann FX 76MP-140(FX76MP140,)
+Epaisseur| 0.1411 
+Leading edge radius| 0.0202
+Cambrure| 0.0707 
+Trailing edge angle|[deg] 105.0100
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Low Speed] [Human-Powered Aircraft]
+Commentaires| Human-Powered Aircraft(Musclair) airfoil

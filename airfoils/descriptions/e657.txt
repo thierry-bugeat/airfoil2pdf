@@ -1,0 +1,9 @@
+Eppler E657(E657,)
+Epaisseur| 0.1557 
+Leading edge radius| 0.0099
+Cambrure| 0.0465 
+Trailing edge angle|[deg] 4.6067
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Sailplane]
+Commentaires| Eppler E657 sailplane airfoil

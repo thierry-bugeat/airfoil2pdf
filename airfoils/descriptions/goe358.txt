@@ -1,0 +1,9 @@
+Gottingen 358(GOE358,)
+Epaisseur| 0.1087 
+Leading edge radius| 0.0713
+Cambrure| 0.0562 
+Trailing edge angle|[deg] 9.1847
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 358 airfoil

@@ -1,0 +1,9 @@
+Gottingen 389(GOE389,)
+Epaisseur| 0.1033 
+Leading edge radius| 0.0386
+Cambrure| 0.0397 
+Trailing edge angle|[deg] 14.4274
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 389 airfoil

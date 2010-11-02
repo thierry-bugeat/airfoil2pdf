@@ -1,0 +1,9 @@
+Wortmann FX 71-120(FX71120,)
+Epaisseur| 0.1199 
+Leading edge radius| 0.0263
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 8.3883
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Subnsonic]
+Commentaires| Wortmann FX 71-120 airfoil

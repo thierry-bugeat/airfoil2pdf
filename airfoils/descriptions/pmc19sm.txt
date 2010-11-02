@@ -1,0 +1,9 @@
+PMC19(PMC19SM,)
+Epaisseur| 0.0919 
+Leading edge radius| 0.0058
+Cambrure| 0.0213 
+Trailing edge angle|[deg] 14.9717
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| PMC19

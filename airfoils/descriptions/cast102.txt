@@ -1,0 +1,9 @@
+CAST 10-2/DOA 2(CAST102,)
+Epaisseur| 0.1218 
+Leading edge radius| 0.0124
+Cambrure| 0.0154 
+Trailing edge angle|[deg] 14.4560
+Développeur|
+Groupe de développement|
+Categorie| [Transonic]
+Commentaires| CAST 10-2/DOA 2 transonic airfoil

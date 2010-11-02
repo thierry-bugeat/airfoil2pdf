@@ -1,0 +1,9 @@
+Boeing 707-e(B707E,)
+Epaisseur| 0.0901 
+Leading edge radius| 0.0076
+Cambrure| 0.0178 
+Trailing edge angle|[deg] 12.8918
+Développeur|
+Groupe de développement| Boeing Inc.
+Categorie| [Transonic]
+Commentaires| continued

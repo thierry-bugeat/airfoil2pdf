@@ -1,0 +1,9 @@
+Gottingen 265(GOE265,)
+Epaisseur| 0.0766 
+Leading edge radius| 0.0355
+Cambrure| 0.0726 
+Trailing edge angle|[deg] 9.1675
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 265 airfoil

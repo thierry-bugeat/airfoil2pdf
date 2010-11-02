@@ -1,0 +1,9 @@
+Eppler E338(E338,)
+Epaisseur| 0.1333 
+Leading edge radius| 0.0123
+Cambrure| 0.0373 
+Trailing edge angle|[deg] 7.7179
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic] [Flying wing]
+Commentaires| Eppler E338 flying wing airfoil

@@ -1,0 +1,9 @@
+Eppler E638(E638,)
+Epaisseur| 0.1236 
+Leading edge radius| 0.0205
+Cambrure| 0.0442 
+Trailing edge angle|[deg] 9.5113
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E638 airfoil

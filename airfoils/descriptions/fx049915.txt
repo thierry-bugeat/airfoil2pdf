@@ -1,0 +1,9 @@
+Wortmann FX 049-915(FX049915,)
+Epaisseur| 0.1472 
+Leading edge radius| 0.0659
+Cambrure| 0.0582 
+Trailing edge angle|[deg] 24.8669
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Subnsonic]
+Commentaires| Wortmann FX 049-915 airfoil

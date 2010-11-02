@@ -1,0 +1,9 @@
+Eppler E193(E193,)
+Epaisseur| 0.1023 
+Leading edge radius| 0.0087
+Cambrure| 0.0354 
+Trailing edge angle|[deg] 5.5406
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Eppler E193 low Reynolds number airfoil

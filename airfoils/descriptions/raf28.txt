@@ -1,0 +1,9 @@
+RAF-28(RAF28,)
+Epaisseur| 0.0982 
+Leading edge radius| 0.0398
+Cambrure| 0.0193 
+Trailing edge angle|[deg] 15.1665
+Développeur|
+Groupe de développement| RAF
+Categorie| [Subnsonic]
+Commentaires| RAF-28 airfoil

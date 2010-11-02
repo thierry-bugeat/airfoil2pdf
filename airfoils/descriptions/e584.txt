@@ -1,0 +1,9 @@
+Eppler E584(E584,)
+Epaisseur| 0.1661 
+Leading edge radius| 0.0091
+Cambrure| 0.0452 
+Trailing edge angle|[deg] 7.4773
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Sailplane]
+Commentaires| Eppler E584 sailplane airfoil

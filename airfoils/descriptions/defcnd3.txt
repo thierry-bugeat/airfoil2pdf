@@ -1,0 +1,9 @@
+Rutan DEFIANT canard BL145(DEFCND3,)
+Epaisseur| 0.1148 
+Leading edge radius| 0.0118
+Cambrure| 0.0238 
+Trailing edge angle|[deg] 27.5770
+Développeur|
+Groupe de développement| Rutan(Burt Rutan)
+Categorie| [Subnsonic]
+Commentaires| Rutan DEFIANT canard BL145 airfoil

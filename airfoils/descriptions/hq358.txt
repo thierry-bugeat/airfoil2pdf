@@ -1,0 +1,9 @@
+Quabeck HQ 3.5/8(HQ358,)
+Epaisseur| 0.0797 
+Leading edge radius| 0.0081
+Cambrure| 0.0350 
+Trailing edge angle|[deg] 5.5578
+Développeur|
+Groupe de développement| Quabeck(Helmut Quabeck)
+Categorie| [Low Speed] [Modelplane]
+Commentaires| Quabeck HQ 3.5/8 R/C sailplane airfoil

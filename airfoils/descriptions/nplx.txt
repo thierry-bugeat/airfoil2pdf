@@ -1,0 +1,9 @@
+NPL ARC CP 1372(NPLX,)
+Epaisseur| 0.1067 
+Leading edge radius| 0.0158
+Cambrure| 0.0108 
+Trailing edge angle|[deg] 10.7890
+Développeur|
+Groupe de développement|
+Categorie| [Transonic]
+Commentaires| NPL transonic airfoil FROM ARC CP 1372

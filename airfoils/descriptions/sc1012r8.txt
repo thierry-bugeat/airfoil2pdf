@@ -1,0 +1,9 @@
+Sikorsky SC1012 R8(SC1012R8,)
+Epaisseur| 0.1200 
+Leading edge radius| 0.0260
+Cambrure| 0.0271 
+Trailing edge angle|[deg] 8.8638
+Développeur|
+Groupe de développement| Sikorsky Inc.
+Categorie| [Rotorcraft]
+Commentaires| Sikorsky SC1012 R8 rotorcraft airfoil

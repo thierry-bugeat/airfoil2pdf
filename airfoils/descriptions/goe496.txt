@@ -1,0 +1,9 @@
+Gottingen 496(GOE496,)
+Epaisseur| 0.0995 
+Leading edge radius| 0.0408
+Cambrure| 0.0500 
+Trailing edge angle|[deg] 8.6862
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 496 airfoil

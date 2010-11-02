@@ -1,0 +1,9 @@
+Eppler E393(E393,)
+Epaisseur| 0.1153 
+Leading edge radius| 0.0066
+Cambrure| 0.0400 
+Trailing edge angle|[deg] 3.5180
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E393 airfoil

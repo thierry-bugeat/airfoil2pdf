@@ -1,0 +1,9 @@
+Selig S4061(S4061,)
+Epaisseur| 0.0963 
+Leading edge radius| 0.0099
+Cambrure| 0.0390 
+Trailing edge angle|[deg] 2.1601
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S4061 low Reynolds number airfoil

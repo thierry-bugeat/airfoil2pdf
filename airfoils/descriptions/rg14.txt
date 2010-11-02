@@ -1,0 +1,8 @@
+RG 14(RG14,)
+Epaisseur| 0.0848 
+Leading edge radius| 0.0057
+Cambrure| 0.0158 
+Trailing edge angle|[deg] 5.6495
+Développeur|
+Groupe de développement|
+Commentaires| RG 14 airfoil

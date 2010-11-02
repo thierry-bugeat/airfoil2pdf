@@ -1,0 +1,9 @@
+Gottingen 517(GOE517,)
+Epaisseur| 0.0700 
+Leading edge radius| 0.0952
+Cambrure| 0.0465 
+Trailing edge angle|[deg] 12.1813
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 517 airfoil

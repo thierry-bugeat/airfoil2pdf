@@ -1,0 +1,9 @@
+Selig S7075(S7075,)
+Epaisseur| 0.0900 
+Leading edge radius| 0.0069
+Cambrure| 0.0305 
+Trailing edge angle|[deg] 3.4321
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S7075 low Reynolds number airfoil

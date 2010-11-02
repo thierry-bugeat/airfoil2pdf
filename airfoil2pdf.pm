@@ -4,7 +4,9 @@ BEGIN{
 	# Installation des modules sous LINUX DEBIAN a partir d'un terminal :
 	# apt-get install perl-modules
 	# Le module Pdf::Create doit être récuperé sur le site search.cpan.org et compilé.
-	@Modules=("strict", "Math::Trig", "Data::Dumper", "PDF::Create");
+	# Le module Math::Bezier doit être récuperé sur le site search.cpan.org et compilé.
+	# Le module Math::CatmullRom doit être récuperé sur le site search.cpan.org et compilé.
+	@Modules=("strict", "Math::Trig", "Math::Bezier", "Math::CatmullRom", "Data::Dumper", "PDF::Create");
 	system('clear');
 	foreach (@Modules){
 		print 'Loading module '.$_.' ... ';
@@ -31,10 +33,16 @@ sub new{
 	$this->{hachures_coffrage}=1;
 	$this->{corde_max} = 0;
 	$this->{coins_decoupe} = 1;
+	$this->{smooth} = ''; # Reechantillonage des coordonnees du fichier dat par courbe de Bezier ou courbe Splice ( Cattmull-Rom )
+	                      # '' ou 'bezier' ou 'splice' ou 'catmullrom'
 	
 	$this->{dpi} = 150;
 	$this->{imprimante} = 'A4'; # A4 ou A3
 	$this->{orientation} = 'paysage'; # portrait ou paysage
+	
+	# --- Profil ---
+	$this->{calage_emplanture} = 0;
+	$this->{calage_saumon} = 0;
 	
 	# --- Divers ---
 	$this->{datetime}=_datetime();
@@ -46,6 +54,7 @@ sub new{
 	$this->{dat_dossier} = '';
 	#$this->{dat_coordonnees_x} = '';
 	#$this->{dat_coordonnees_y} = '';
+	$this->{dat_calage} = 0; # Stocke le calage temporaire de chaque nervure.
 	
 	# --- PDF ---
 	$this->{pdf_dossier_de_sauvegarde}='/tmp/';
@@ -194,6 +203,36 @@ sub setDpi{
 	$this->{pdf_largeur} = 0; $this->{pdf_hauteur}=0; _pdf_get_dimensions($this);
 }
 
+sub setSmooth{
+	# $type = bezier / splice ou catmullrom ( 'splice' et 'catmullrom' sont equivalents )
+	my ($this, $type)=@_;
+	$this->{smooth}=$type;
+}
+sub setCalageEmplanture{
+	my ($this, $degres)=@_;
+	
+	# Definition du calage de l'emplanture entre -2 et +2 degres.
+	# En calant l'emplanture on cale automatiquement le saumon au meme angle si celui-ci n'a pas
+	# ete defini precedemment.
+	
+	if(!(defined($degres))){ $degres = 0; }
+	if($degres > 2){ $degres = 2; }
+	if($degres < -2){ $degres = -2; }
+	
+	$this->{calage_emplanture} = $degres;
+	if($this->{calage_saumon} == 0){ $this->{calage_saumon} = $degres;}
+}
+sub setCalageSaumon{
+	my ($this, $degres)=@_;
+	
+	# Definition du calage du saumon entre -2 et +2 degres.
+	
+	if(!(defined($degres))){ $degres = 0; }
+	if($degres > 2){ $degres = 2; }
+	if($degres < -2){ $degres = -2; }
+	
+	$this->{calage_saumon} = $degres;
+}
 # ========================
 # --- Methodes privees ---
 # ========================
@@ -320,6 +359,8 @@ sub _pdf_creer_les_pages_contenant_les_nervures{
 				# Le numero de la nervure en cours est egalement utilisé.
 				_effet_mixage_dats($this, $n);
 				###
+				_effet_rotation_dat($this, $n);
+				###
 			
 				$MinY = _min_y($this);
 				$MaxY = _max_y($this);
@@ -444,6 +485,9 @@ sub _pdf_entete_page{
 }
 sub _pdf_dessine_nervure{
 	my($this, $no_nervure, $HauteurNervure_mm, $ref_page, $x_offset, $y_axe, $MinY, $MaxY)=@_;
+	
+	# $MinY : Valeur originelle mini du fichier dat sur l'axe Y.
+	# $MaxY : Valeur originelle maxi du fichier dat sur l'axe Y.
 
 	my($ppc) = _dpi2ppc($this->{dpi}); # Convertion des dpi en pixels par cm ($ppc)
 	my($profil_corde_mm) = $this->{cordes_des_nervures_en_mm}[$no_nervure]; # Corde en mm
@@ -475,30 +519,98 @@ sub _pdf_dessine_nervure{
 	$$ref_page->line($this->{pdf_marges} , $y_axe , $this->{pdf_largeur} - $this->{pdf_marges} , $y_axe);
 	my($HauteurNervure_mm_arrondi) = sprintf("%.1f", $HauteurNervure_mm); # Arrondir à 1 chiffre après la virgule
 	
-	# --- Nom du/des profil(s) / corde ---
+	# --- Nom du/des profil(s) / corde / calage ---
 	my($taille_typo) = ($profil_corde_mm/10) * (($this->{dpi})/150);
 	my($interligne) = $taille_typo;
 	my($x_axe) = $this->{pdf_marges} + _mm2pixels((($profil_corde_mm*33)/100), $this->{dpi}); # On place le texte à 33 % de la corde.
 	$$ref_page->stringc($this->{font1}, $taille_typo, $x_axe , $y_axe + ($interligne/2) + $MaxY_pixels - ($HauteurTotaleNervure_en_pixels / 2) , "Nervure $no_nervure / www.boonga.com");
-	$$ref_page->stringc($this->{font1}, $taille_typo, $x_axe , $y_axe - ($interligne/2) + $MaxY_pixels - ($HauteurTotaleNervure_en_pixels / 2) , "$this->{dat_emplanture} - $this->{dat_saumon} / Corde = $profil_corde_mm mm / Hauteur = $HauteurNervure_mm_arrondi mm");
+	$$ref_page->stringc($this->{font1}, $taille_typo, $x_axe , $y_axe - ($interligne/2) + $MaxY_pixels - ($HauteurTotaleNervure_en_pixels / 2) , "$this->{dat_emplanture} - $this->{dat_saumon} / Corde = $profil_corde_mm mm / Hauteur = $HauteurNervure_mm_arrondi mm / Calage = $this->{dat_calage} degre(s)");
 	
-	for(my($i)=0; $i <= $#{$this->{dat_coordonnees_x}}; $i++){
+	# ---/ Recuperation des coordonnees du profil dans les tableaux @_dcx @_dcy \---
+	
+		# A ce niveau on reechantillonne ou non les coordonnees
+		# en fonction de la variable $this->{setSmooth}
+	
+		# !!! A FAIRE !!!
+		# Le reechantillonnage par courbe de Bezier modifie les
+		# dimensions des nervures. Il faut ajouter un filtre de
+		# de type 'resize' pour que les coordonnees x aillent bien
+		# de 0 à 1, et que la hauteur soit egalement respectee.
+		# Attention : Il n'est pas dit que le redimensionnement soit
+		# le meme sur les deux axes x et y.
+		# !!! A FAIRE !!!
+
+		my(@_dcx);
+		my(@_dcy);
+		my(@_coordonnees);
+	
+		for(my($i)=0; $i <= $#{$this->{dat_coordonnees_x}}; $i++){
+			if($this->{smooth} eq ''){
+				push @_dcx,$this->{dat_coordonnees_x}[$i];
+				push @_dcy,$this->{dat_coordonnees_y}[$i];
+			} else {
+				push @_coordonnees,$this->{dat_coordonnees_x}[$i];
+				push @_coordonnees,$this->{dat_coordonnees_y}[$i];
+			}
+		}
+		
+		if( ($this->{smooth} eq 'splice') || ($this->{smooth} eq 'catmullrom') ){
+			my($_nbReechantillonnages) = 100;
+			my($catmullrom) = Math::CatmullRom->new(@_coordonnees);
+			for(my($i)=0; $i <= $_nbReechantillonnages; $i++){
+				my($_x, $_y) = $catmullrom->point(($i/$_nbReechantillonnages));
+				push @_dcx,$_x;
+				push @_dcy,$_y;
+			}
+		} # splice / catmullrom
+		
+		elsif($this->{smooth} eq 'bezier'){
+			my($_nbReechantillonnages) = 100;
+			my($bezier) = Math::Bezier->new(@_coordonnees);
+			for(my($i)=0; $i <= $_nbReechantillonnages; $i++){
+				my($_x, $_y) = $bezier->point(($i/$_nbReechantillonnages));
+				push @_dcx,$_x;
+				push @_dcy,$_y;
+			}
+			# ---/ Filtre "resize x" et "resize y" \---
+				# La courbe de Bezier deforme/rapetisse le profil.
+				# On re-etire le profil pour que la valeur @_dcx mini 
+				# revienne a 0 et la valeur maxi a 1.
+				# Pour l'axe y on se base sur les valeurs maxi 
+				# et mini du fichier dat.
+				my($_min_x) = _min(@_dcx);
+				my($_max_x) = 1 - $_min_x;
+				my($_min_y) = _min(@_dcy);
+				my($_max_y) = _max(@_dcy);
+				for(my($i)=0; $i < $#_dcx; $i++){
+					$_dcx[$i] = ( $_dcx[$i] - $_min_x ) / $_max_x;
+					$_dcy[$i] = $_dcy[$i] * ( $MaxY / $_max_y );
+				}
+			# ---\ Filtre "resize x" et "resize y" /---
+		} # bezier
+		
+	# Variables en sortie : @_dcx @_dcy	
+	# ---\ Recuperation des coordonnees du profil dans les tableaux @_dcx @_dcy /---
+	
+	my($_nbPoints) = $#_dcx;
+		
+	for(my($i)=0; $i <= $_nbPoints; $i++){
 		
 		# --- creer le contour (Version PDF)
-		my($x0) = ($this->{dat_coordonnees_x}[$i-1] * $profil_corde_pixels) + $this->{pdf_marges} - $x_offset;
-		my($y0) = $y_axe + ($this->{dat_coordonnees_y}[$i-1] * $profil_corde_pixels);
-		my($x1) = ($this->{dat_coordonnees_x}[$i] * $profil_corde_pixels) + $this->{pdf_marges} - $x_offset;
-		my($y1) = $y_axe + ($this->{dat_coordonnees_y}[$i] * $profil_corde_pixels);
-		#print "===$this->{dat_coordonnees_x}[$i+1]===\n";
+		my($x0) = ($_dcx[$i-1] * $profil_corde_pixels) + $this->{pdf_marges} - $x_offset;
+		my($y0) = $y_axe + ($_dcy[$i-1] * $profil_corde_pixels);
+		my($x1) = ($_dcx[$i] * $profil_corde_pixels) + $this->{pdf_marges} - $x_offset;
+		my($y1) = $y_axe + ($_dcy[$i] * $profil_corde_pixels);
+		#print "===$_dcx[$i+1]===\n";
 		
 		# Premier point du profil
 		if($i == 0){$x0 = $x1; $y0 = $y1;} 
 		
 		# Si nous ne sommes pas sur le dernier point du profil ... sinon ...
 		my($x2, $y2)=0;
-		if($i != $#{$this->{dat_coordonnees_x}}){
-			$x2 = ($this->{dat_coordonnees_x}[$i+1] * $profil_corde_pixels) + $this->{pdf_marges} - $x_offset;
-			$y2 = $y_axe + ($this->{dat_coordonnees_y}[$i+1] * $profil_corde_pixels);
+		if($i != $_nbPoints){
+			$x2 = ($_dcx[$i+1] * $profil_corde_pixels) + $this->{pdf_marges} - $x_offset;
+			$y2 = $y_axe + ($_dcy[$i+1] * $profil_corde_pixels);
 		} else {
 			$x2 = $x1; $y2 = $y1;
 		}
@@ -519,7 +631,7 @@ sub _pdf_dessine_nervure{
 			#print "$x1,$y1,$x_coffrage,$y_coffrage<hr>";
 			if($x1 && $y1 && $x_coffrage && $y_coffrage){
 				# Hachures du coffrage :
-				if( (!$this->{hachures_coffrage}) && (($i==0)||($i==$#{$this->{dat_coordonnees_x}})) ){$$ref_page->line($x1 , $y1 ,$x_coffrage , $y_coffrage);}
+				if( (!$this->{hachures_coffrage}) && (($i==0)||($i==$_nbPoints)) ){$$ref_page->line($x1 , $y1 ,$x_coffrage , $y_coffrage);}
 				if($this->{hachures_coffrage}){$$ref_page->line($x1 , $y1 ,$x_coffrage , $y_coffrage);}
 				# Dessin du coffrage :
 				if(($x_coffrage_precedent) && ($y_coffrage_precedent)){
@@ -814,7 +926,24 @@ sub _date_generation{
 	$this->{date_generation} = $_datetime;
 }
 
+sub _max{
+	# Fonction : Retourne la valeur maxi de la liste passee en parametre.
+	my $max = shift; $_ > $max and $max = $_ for @_; $max
+}
+sub _min{
+	# Fonction : Retourne la valeur mini de la liste passee en parametre.
+	my $min = shift; $_ < $min and $min = $_ for @_; $min 
+}
 # --- Methodes de calcul ---
+sub _get_distance_entre_2_points{
+	# Fonction : Retourne la distance entre les 2 points passes en parametre.
+	my($x1, $y1, $x2, $y2) = @_;
+	my($d)=0;
+	
+	$d = sqrt( (($x2 - $x1)**2) + (($y2 - $y1)**2) );
+	
+	return $d;
+}
 sub _get_coordonnees_point_de_coffrage{
 	# Fonction :
 	# Calcule les coordonnees d'un point de coffrage par rapport a 3 points consecutifs du profil.
@@ -871,8 +1000,8 @@ sub _angle_entre_2_points{
 	
 	# 0° a 3h
 	# 90° a 6h
-	# 180° ( ou -180° ) ->a 9h
-	# 270° ( ou - 90° ) -> a 12h
+	# 180°  ou -180° ->a 9h
+	# - 90° -> a 12h
 	# 360° a 3h
 	# etc...
 	
@@ -991,6 +1120,60 @@ sub _effet_mixage_dats{
 		#print "$#{$this->{dat_coordonnees_x}} points x\n";
 		#print "$#daty points y\n";
 		$this->{dat_coordonnees_y} = ( 0 => [@daty] );
+	}
+	
+	return;
+}
+sub _effet_rotation_dat{
+	my($this, $no_nervure)=@_;
+	
+	# Fonction : "Rotate" le profil à partir de ses coordonnées, du calage de l'emplanture, du
+	# calage du saumon, et du numéro de la nervure en cours.
+	
+	if( ($this->{calage_emplanture} == 0) && ($this->{calage_saumon} == 0) ){ return; }
+	
+	my($_centre_x) = 1; # Centre de rotation positionne au bord de fuite.
+	my($_centre_y) = 0; # Centre de rotation positionne au bord de fuite.
+	
+	my($_angle, $_angle_final, $_ptx, $_pty, $_dx, $_dy, $_hypothenuse) = 0;
+	my($_angle_rotation) = 0;
+	
+	# --- Premiere nervure ---
+	if($no_nervure == 0){ 
+		$_angle_rotation = $this->{calage_emplanture}; 
+	}
+	
+	# --- Derniere nervure ---
+	elsif($no_nervure == -1+$this->{nb_nervures}){
+		$_angle_rotation = $this->{calage_saumon};
+	}
+	
+	# --- Nervures intermediaires ---
+	else{
+		my($_angle_total) = abs($this->{calage_emplanture}) + abs($this->{calage_saumon});
+		my($_angle_step) = $_angle_total / ($this->{nb_nervures} - 1);
+		$_angle_rotation = $this->{calage_emplanture} - ($_angle_step * $no_nervure);
+	}
+	
+	# --- Stockage temporaire du calage de la nervure ---
+	$this->{dat_calage} = $_angle_rotation;
+	
+	# --- Rotation de la nervure ---
+	
+	for(my($i)=0; $i <= $#{$this->{dat_coordonnees_x}}; $i++){
+		$_ptx = $this->{dat_coordonnees_x}[$i];
+		$_pty = $this->{dat_coordonnees_y}[$i];
+		$_angle = _angle_entre_2_points($_centre_x, $_centre_y, $_ptx, $_pty);
+		$_angle_final = $_angle + $_angle_rotation;
+		$_hypothenuse = _get_distance_entre_2_points($_centre_x, $_centre_y, $_ptx, $_pty);
+		# cos alpha = adjacent / hypothenuse <==> adjacent = cos alpha * hypothenuse
+		$_dx = cos(deg2rad($_angle_final)) * ($_hypothenuse);
+		# sin alpha = oppose / hypothenuse <==> oppose = sin alpha * hypothenuse
+		$_dy = sin(deg2rad($_angle_final)) * ($_hypothenuse);
+		# Memorisation des coordonnees finales de ce point.
+		$this->{dat_coordonnees_x}[$i] = $_centre_x + $_dx;
+		$this->{dat_coordonnees_y}[$i] = $_centre_y - $_dy;
+		# print "$_ptx, $_pty / $this->{dat_coordonnees_x}[$i], $this->{dat_coordonnees_y}[$i]\n";
 	}
 	
 	return;

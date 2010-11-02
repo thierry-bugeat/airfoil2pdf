@@ -1,0 +1,9 @@
+NACA/Munk M-3(M3,)
+Epaisseur| 0.1190 
+Leading edge radius| 0.0485
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 17.0688
+Développeur|
+Groupe de développement| NACA/Munk
+Categorie| [Subnsonic]
+Commentaires| NACA/Munk M-3 airfoil

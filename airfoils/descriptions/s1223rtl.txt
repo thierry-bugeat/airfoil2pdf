@@ -1,0 +1,9 @@
+Richard T. LaSalle S1223RTL(S1223RTL,)
+Epaisseur| 0.1351 
+Leading edge radius| 0.0259
+Cambrure| 0.0848 
+Trailing edge angle|[deg] 7.9757
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed]
+Commentaires| Richard T. LaSalle modification of the S1223 -> S1223RTL

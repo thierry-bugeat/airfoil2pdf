@@ -1,0 +1,9 @@
+Eppler E555(E555,)
+Epaisseur| 0.1604 
+Leading edge radius| 0.0111
+Cambrure| 0.0259 
+Trailing edge angle|[deg] 8.9039
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E555 general aviation airfoil

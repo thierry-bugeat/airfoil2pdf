@@ -1,0 +1,9 @@
+NASA/Langley Whitcomb integral supercritical(WHITCOMB,)
+Epaisseur| 0.1096 
+Leading edge radius| 0.0389
+Cambrure| 0.0238 
+Trailing edge angle|[deg] 0.1146
+Développeur|
+Groupe de développement| NASA/Langley
+Categorie| [Transonic]
+Commentaires| NASA/Langley Whitcomb integral supercritical airfoil

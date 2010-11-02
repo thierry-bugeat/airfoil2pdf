@@ -1,0 +1,9 @@
+NASA/Langley 10-64C(RC1064C,)
+Epaisseur| 0.1000 
+Leading edge radius| 0.0207
+Cambrure| 0.0100 
+Trailing edge angle|[deg] 17.8600
+Développeur|
+Groupe de développement| NASA/AMES
+Categorie| [Rotorcraft]
+Commentaires| NASA/Langley 10-64C rotorcraft airfoil

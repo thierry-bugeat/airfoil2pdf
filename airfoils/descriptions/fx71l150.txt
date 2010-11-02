@@ -1,0 +1,9 @@
+Wortmann FX 71-L-150/30(FX71L150,)
+Epaisseur| 0.1500 
+Leading edge radius| 0.0278
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 9.5285
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Subnsonic]
+Commentaires| Wortmann FX 71-L-150/30 airfoil

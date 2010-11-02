@@ -1,0 +1,9 @@
+Selig S5010(S5010,)
+Epaisseur| 0.0983 
+Leading edge radius| 0.0063
+Cambrure| 0.0221 
+Trailing edge angle|[deg] 3.2831
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S5010 low Reynolds number airfoil

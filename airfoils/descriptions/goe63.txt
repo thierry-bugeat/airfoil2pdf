@@ -1,0 +1,9 @@
+Gottingen 63(GOE63,)
+Epaisseur| 0.0826 
+Leading edge radius| 0.0446
+Cambrure| 0.0669 
+Trailing edge angle|[deg] 7.1793
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 63 airfoil

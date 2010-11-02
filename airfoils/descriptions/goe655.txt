@@ -1,0 +1,9 @@
+Gottingen 655(GOE655,)
+Epaisseur| 0.1390 
+Leading edge radius| 0.0430
+Cambrure| 0.0439 
+Trailing edge angle|[deg] 16.0260
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 655 airfoil

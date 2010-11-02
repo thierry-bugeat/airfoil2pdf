@@ -1,0 +1,9 @@
+Gottingen 188(GOE188,)
+Epaisseur| 0.0894 
+Leading edge radius| 0.1149
+Cambrure| 0.0432 
+Trailing edge angle|[deg] 12.5079
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 188 (Schatte-Lanz 3U10) airfoil

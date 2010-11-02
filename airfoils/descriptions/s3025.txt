@@ -1,0 +1,9 @@
+Selig S3025(S3025,)
+Epaisseur| 0.0939 
+Leading edge radius| 0.0086
+Cambrure| 0.0359 
+Trailing edge angle|[deg] 4.9848
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S3025 low Reynolds number airfoil

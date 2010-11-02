@@ -1,0 +1,9 @@
+Gottingen 229(GOE229,)
+Epaisseur| 0.1942 
+Leading edge radius| 0.0455
+Cambrure| 0.0593 
+Trailing edge angle|[deg] 15.5160
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 229 (MVA H.39) airfoil

@@ -1,0 +1,9 @@
+Gottingen 114(GOE114,)
+Epaisseur| 0.0956 
+Leading edge radius| 0.0860
+Cambrure| 0.0350 
+Trailing edge angle|[deg] 11.3563
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 114 (MVA MK.1) airfoil

@@ -1,0 +1,9 @@
+Gottingen 804(GOE804,)
+Epaisseur| 0.0600 
+Leading edge radius| 0.0763
+Cambrure| 0.0625 
+Trailing edge angle|[deg] 4.8072
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 804 (EA 8) airfoil

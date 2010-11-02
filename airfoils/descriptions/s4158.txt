@@ -1,0 +1,9 @@
+Selig S4158(S4158,)
+Epaisseur| 0.1086 
+Leading edge radius| 0.0078
+Cambrure| 0.3705 
+Trailing edge angle|[deg] 4.0500
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S4158 low Reynolds number airfoil

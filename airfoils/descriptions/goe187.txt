@@ -1,0 +1,9 @@
+Gottingen 187(GOE187,)
+Epaisseur| 0.0828 
+Leading edge radius| 0.0488
+Cambrure| 0.0484 
+Trailing edge angle|[deg] 13.2127
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 187 (Schatte-Lanz 2U10) airfoil

@@ -1,0 +1,9 @@
+RAF-38(RAF38,)
+Epaisseur| 0.1265 
+Leading edge radius| 0.0771
+Cambrure| 0.0252 
+Trailing edge angle|[deg] 15.7968
+Développeur|
+Groupe de développement| RAF
+Categorie| [Subnsonic]
+Commentaires| RAF-38 airfoil

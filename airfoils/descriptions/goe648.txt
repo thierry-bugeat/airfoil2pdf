@@ -1,0 +1,9 @@
+Gottingen 648(GOE648,)
+Epaisseur| 0.1518 
+Leading edge radius| 0.0496
+Cambrure| 0.0392 
+Trailing edge angle|[deg] 19.3606
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 648 airfoil

@@ -1,0 +1,9 @@
+Gottingen 322(GOE322,)
+Epaisseur| 0.1307 
+Leading edge radius| 0.0399
+Cambrure| 0.0602 
+Trailing edge angle|[deg] 13.7914
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 322 (Hansa-Brandenburg IV.1) airfoil

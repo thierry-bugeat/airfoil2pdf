@@ -1,0 +1,9 @@
+Selig S2027(S2027,)
+Epaisseur| 0.1450 
+Leading edge radius| 0.0083
+Cambrure| 0.0274 
+Trailing edge angle|[deg] 4.0337
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S2027 low Reynolds number airfoil

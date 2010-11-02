@@ -1,0 +1,9 @@
+Hawker Tempest 61%(TEMPEST2,)
+Epaisseur| 0.1200 
+Leading edge radius| 0.0090
+Cambrure| 0.0093 
+Trailing edge angle|[deg] 19.0971
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| Hawker Tempest 61% semispan airfoil (NPL?)

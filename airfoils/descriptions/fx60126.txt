@@ -1,0 +1,9 @@
+Wortmann FX 60-126(FX60126,)
+Epaisseur| 0.1259 
+Leading edge radius| 0.0095
+Cambrure| 0.0356 
+Trailing edge angle|[deg] 6.5204
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Subnsonic]
+Commentaires| Wortmann FX 60-126 airfoil

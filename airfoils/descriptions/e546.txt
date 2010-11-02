@@ -1,0 +1,9 @@
+Eppler E546(E546,)
+Epaisseur| 0.1628 
+Leading edge radius| 0.0048
+Cambrure| 0.0178 
+Trailing edge angle|[deg] 9.3623
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E546 general aviation airfoil

@@ -1,0 +1,9 @@
+Eppler E195(E195,)
+Epaisseur| 0.1182 
+Leading edge radius| 0.0076
+Cambrure| 0.0316 
+Trailing edge angle|[deg] 5.9761
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Eppler E195 low Reynolds number airfoil

@@ -1,0 +1,9 @@
+Selig/Donovan SD7043(SD7043,)
+Epaisseur| 0.0914 
+Leading edge radius| 0.0094
+Cambrure| 0.0352 
+Trailing edge angle|[deg] 2.5325
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig/Donovan SD7043 low Reynolds number airfoil

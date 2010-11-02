@@ -1,0 +1,9 @@
+Gottingen 525(GOE525,)
+Epaisseur| 0.1649 
+Leading edge radius| 0.0396
+Cambrure| 0.0970 
+Trailing edge angle|[deg] 7.5116
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 525 airfoil

@@ -1,0 +1,9 @@
+Gottingen 587(GOE587,)
+Epaisseur| 0.0580 
+Leading edge radius| 0.0423
+Cambrure| 0.0297 
+Trailing edge angle|[deg] 11.5052
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 587 airfoil

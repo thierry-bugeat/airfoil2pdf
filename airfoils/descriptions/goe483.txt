@@ -1,0 +1,9 @@
+Gottingen 483(GOE483,)
+Epaisseur| 0.0545 
+Leading edge radius| 0.0412
+Cambrure| 0.0583 
+Trailing edge angle|[deg] 6.1995
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 483 airfoil

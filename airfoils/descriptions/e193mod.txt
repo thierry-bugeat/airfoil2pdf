@@ -1,0 +1,10 @@
+Eppler E193MOD(E193MOD,)
+Epaisseur| 0.1187 
+Leading edge radius| 0.0075
+Cambrure| 0.0414 
+Trailing edge angle|[deg] 6.6300
+Développeur| Dale Folkening
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Modified from E193 by a factor of 1.19, effectively
+adding camber and thickness.

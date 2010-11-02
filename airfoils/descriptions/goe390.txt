@@ -1,0 +1,9 @@
+Gottingen 390(GOE390,)
+Epaisseur| 0.2032 
+Leading edge radius| 0.0603
+Cambrure| 0.0690 
+Trailing edge angle|[deg] 22.0765
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 390 airfoil

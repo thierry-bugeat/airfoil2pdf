@@ -1,0 +1,9 @@
+Selig S1046(S1046,)
+Epaisseur| 0.1699 
+Leading edge radius| 0.0111
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 4.8932
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S1046 airfoil

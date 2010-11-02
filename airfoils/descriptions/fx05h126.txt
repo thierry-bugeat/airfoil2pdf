@@ -1,0 +1,9 @@
+Wortmann FX 05-H-126(FX05H126,)
+Epaisseur| 0.1261 
+Leading edge radius| 0.0199
+Cambrure| 0.0440 
+Trailing edge angle|[deg] 11.9120
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Rotorcraft]
+Commentaires| Wortmann FX 05-H-126 rotorcraft airfoil

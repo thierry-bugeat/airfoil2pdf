@@ -1,0 +1,9 @@
+Gottingen 448(GOE448,)
+Epaisseur| 0.1289 
+Leading edge radius| 0.0389
+Cambrure| 0.1052 
+Trailing edge angle|[deg] 17.4297
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 448 airfoil

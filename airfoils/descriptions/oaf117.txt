@@ -1,0 +1,9 @@
+ONERA/Aerospatiale OAF117(OAF117,)
+Epaisseur| 0.1147 
+Leading edge radius| 0.0176
+Cambrure| 0.0203 
+Trailing edge angle|[deg] 0.0917
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| ONERA/Aerospatiale OAF117 Fenestron airfoil

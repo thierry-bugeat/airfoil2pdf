@@ -1,0 +1,9 @@
+Eppler E266(E266,)
+Epaisseur| 0.1732 
+Leading edge radius| 0.0171
+Cambrure| 0.0306 
+Trailing edge angle|[deg] 15.4071
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E266 general purpose airfoil

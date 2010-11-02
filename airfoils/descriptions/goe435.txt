@@ -1,0 +1,9 @@
+Gottingen 435(GOE435,)
+Epaisseur| 0.2621 
+Leading edge radius| 0.1128
+Cambrure| 0.0469 
+Trailing edge angle|[deg] 14.1294
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 435 airfoil

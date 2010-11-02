@@ -1,0 +1,10 @@
+DFVLR/Braunschweig Horstmann and(HQ300GD2,)
+Epaisseur| 0.1659 
+Leading edge radius| 0.0114
+Cambrure| 0.0387 
+Trailing edge angle|[deg] 0.3896
+Développeur|
+Groupe de développement| Quabeck(Helmut Quabeck)
+Categorie| [Low Speed] [Modelplane]
+Commentaires| DFVLR/Braunschweig Horstmann and Quast HQ-300 GD(MOD 2)
+sailplane airfoil

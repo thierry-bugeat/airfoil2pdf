@@ -1,0 +1,9 @@
+Gottingen 478(GOE478,)
+Epaisseur| 0.1335 
+Leading edge radius| 0.0538
+Cambrure| 0.0430 
+Trailing edge angle|[deg] 18.5356
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 478 airfoil

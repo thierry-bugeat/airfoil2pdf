@@ -1,0 +1,9 @@
+Archer A18 F1C(original)(A18,)
+Epaisseur| 0.0735 
+Leading edge radius| 0.0048
+Cambrure| 0.0384 
+Trailing edge angle|[deg] 9.1962
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed] [Modelplane]
+Commentaires| Archer A18 F1C free flight airfoil (original)

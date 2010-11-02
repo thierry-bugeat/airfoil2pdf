@@ -1,0 +1,9 @@
+Wortmann FX 60-160(FX60160,)
+Epaisseur| 0.1560 
+Leading edge radius| 0.0301
+Cambrure| 0.0308 
+Trailing edge angle|[deg] 13.7570
+Développeur|
+Groupe de développement| Wortmann group
+Categorie| [Subnsonic]
+Commentaires| Wortmann FX 60-160 airfoil

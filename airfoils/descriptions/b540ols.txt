@@ -1,0 +1,9 @@
+Bell AH-1 rotor blade(B540OLS,)
+Epaisseur| 0.0971 
+Leading edge radius| 0.0277
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 7.4486
+Développeur|
+Groupe de développement|
+Categorie| [Rotorcraft]
+Commentaires| Bell AH-1 rotor blade airfoil (operational loads survey)

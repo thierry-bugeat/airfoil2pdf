@@ -1,0 +1,9 @@
+Quabeck HQ 2.0/12(HQ2012,)
+Epaisseur| 0.1197 
+Leading edge radius| 0.0145
+Cambrure| 0.0199 
+Trailing edge angle|[deg] 8.6690
+Développeur|
+Groupe de développement| Quabeck(Helmut Quabeck)
+Categorie| [Low Speed] [Modelplane]
+Commentaires| Quabeck HQ 2.0/12 R/C sailplane airfoil

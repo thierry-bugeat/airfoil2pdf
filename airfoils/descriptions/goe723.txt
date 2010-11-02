@@ -1,0 +1,9 @@
+Gottingen 723(GOE723,)
+Epaisseur| 0.1157 
+Leading edge radius| 0.0453
+Cambrure| 0.0449 
+Trailing edge angle|[deg] 19.7044
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 723 airfoil

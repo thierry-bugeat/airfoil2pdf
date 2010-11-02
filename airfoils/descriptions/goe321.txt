@@ -1,0 +1,9 @@
+Gottingen 321(GOE321,)
+Epaisseur| 0.1116 
+Leading edge radius| 0.0395
+Cambrure| 0.0515 
+Trailing edge angle|[deg] 9.7920
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 321 (Hansa-Brandenburg III.1) airfoil

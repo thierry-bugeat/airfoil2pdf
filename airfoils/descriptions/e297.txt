@@ -1,0 +1,9 @@
+Eppler E297(E297,)
+Epaisseur| 0.0000 
+Leading edge radius| 0.0000
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 0.0000
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E297 tailplane airfoil

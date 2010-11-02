@@ -1,0 +1,9 @@
+NACA/Munk M-9(M9,)
+Epaisseur| 0.1040 
+Leading edge radius| 0.0414
+Cambrure| 0.0718 
+Trailing edge angle|[deg] 7.7179
+Développeur|
+Groupe de développement| NACA/Munk
+Categorie| [Subnsonic]
+Commentaires| NACA/Munk M-9 airfoil

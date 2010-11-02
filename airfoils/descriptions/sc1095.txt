@@ -1,0 +1,9 @@
+Sikorsky/Balch SC1095(SC1095,)
+Epaisseur| 0.0950 
+Leading edge radius| 0.0070
+Cambrure| 0.0081 
+Trailing edge angle|[deg] 6.8584
+Développeur|
+Groupe de développement| Sikorsky Inc.
+Categorie| [Rotorcraft]
+Commentaires| Sikorsky/Balch SC1095 rotorcraft airfoil

@@ -1,0 +1,9 @@
+Gottingen 613(GOE613,)
+Epaisseur| 0.1030 
+Leading edge radius| 0.0369
+Cambrure| 0.0410 
+Trailing edge angle|[deg] 17.0229
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 613 airfoil

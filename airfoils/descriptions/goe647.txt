@@ -1,0 +1,9 @@
+Gottingen 647(GOE647,)
+Epaisseur| 0.1631 
+Leading edge radius| 0.0464
+Cambrure| 0.0534 
+Trailing edge angle|[deg] 19.0054
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 647 airfoil

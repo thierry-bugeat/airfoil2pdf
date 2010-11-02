@@ -1,0 +1,9 @@
+Althaus AH 79-100B(AH79100B,)
+Epaisseur| 0.1004 
+Leading edge radius| 0.0087
+Cambrure| 0.0642 
+Trailing edge angle|[deg] 8.0273
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| Althaus AH 79-100B airfoil

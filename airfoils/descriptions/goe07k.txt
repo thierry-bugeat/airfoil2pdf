@@ -1,0 +1,9 @@
+Gottingen 7K(GOE07K,)
+Epaisseur| 0.1100 
+Leading edge radius| 0.0756
+Cambrure| 0.0454 
+Trailing edge angle|[deg] 36.0856
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 7K airfoil

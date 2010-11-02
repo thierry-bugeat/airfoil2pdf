@@ -1,0 +1,9 @@
+NACA 66(4)-021(NACA66021,)
+Epaisseur| 0.2100 
+Leading edge radius| 0.0333
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 10.1587
+Développeur|
+Groupe de développement| NACA
+Categorie| [Subnsonic] [Symmetric]
+Commentaires| NACA 66(4)-021 airfoil

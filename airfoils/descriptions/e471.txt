@@ -1,0 +1,9 @@
+Eppler E471(E471,)
+Epaisseur| 0.0626 
+Leading edge radius| 0.0033
+Cambrure| 0.0470 
+Trailing edge angle|[deg] 2.5153
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E471 airfoil

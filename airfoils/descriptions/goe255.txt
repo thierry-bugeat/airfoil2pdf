@@ -1,0 +1,9 @@
+Gottingen 255(GOE255,)
+Epaisseur| 0.1861 
+Leading edge radius| 0.0595
+Cambrure| 0.0485 
+Trailing edge angle|[deg] 18.0485
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 255 (MVA CA.6) airfoil

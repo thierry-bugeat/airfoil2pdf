@@ -1,0 +1,9 @@
+Gottingen 426(GOE426,)
+Epaisseur| 0.1360 
+Leading edge radius| 0.0442
+Cambrure| 0.0455 
+Trailing edge angle|[deg] 8.8237
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 426 airfoil

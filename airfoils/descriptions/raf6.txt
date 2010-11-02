@@ -1,0 +1,9 @@
+RAF-6(RAF6,)
+Epaisseur| 0.0998 
+Leading edge radius| 0.1082
+Cambrure| 0.0459 
+Trailing edge angle|[deg] 21.3087
+Développeur|
+Groupe de développement| RAF
+Categorie| [Subnsonic]
+Commentaires| RAF-6 airfoil

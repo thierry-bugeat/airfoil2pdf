@@ -1,0 +1,9 @@
+Eppler E549(E549,)
+Epaisseur| 0.1811 
+Leading edge radius| 0.0083
+Cambrure| 0.0206 
+Trailing edge angle|[deg] 9.1446
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E549 general aviation airfoil

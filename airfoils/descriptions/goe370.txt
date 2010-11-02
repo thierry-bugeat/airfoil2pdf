@@ -1,0 +1,9 @@
+Gottingen 370(GOE370,)
+Epaisseur| 0.0465 
+Leading edge radius| 0.0342
+Cambrure| 0.0574 
+Trailing edge angle|[deg] 11.2245
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 370 airfoil

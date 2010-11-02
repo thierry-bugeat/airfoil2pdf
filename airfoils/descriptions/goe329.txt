@@ -1,0 +1,9 @@
+Gottingen 329(GOE329,)
+Epaisseur| 0.1016 
+Leading edge radius| 0.0409
+Cambrure| 0.0553 
+Trailing edge angle|[deg] 10.7776
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 329 (Pfalz 58) airfoil

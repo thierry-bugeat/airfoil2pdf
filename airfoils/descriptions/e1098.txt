@@ -1,0 +1,9 @@
+Eppler E1098(E1098,)
+Epaisseur| 0.1896 
+Leading edge radius| 0.0105
+Cambrure| 0.0372 
+Trailing edge angle|[deg] 5.8729
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E1098 general aviation airfoil

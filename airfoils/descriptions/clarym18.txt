@@ -1,0 +1,9 @@
+CLARK YM18(CLARYM18,)
+Epaisseur| 0.1800 
+Leading edge radius| 0.0597
+Cambrure| 0.0356 
+Trailing edge angle|[deg] 24.0819
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| CLARK YM18 airfoil

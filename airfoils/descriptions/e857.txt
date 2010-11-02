@@ -1,0 +1,9 @@
+Eppler E857(E857,)
+Epaisseur| 0.2038 
+Leading edge radius| 0.0220
+Cambrure| 0.0467 
+Trailing edge angle|[deg] 13.3445
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Propeller]
+Commentaires| Eppler E857 propeller airfoil

@@ -1,0 +1,9 @@
+NACA/Munk M-10(M10,)
+Epaisseur| 0.0619 
+Leading edge radius| 0.0361
+Cambrure| 0.0191 
+Trailing edge angle|[deg] 8.7664
+Développeur|
+Groupe de développement| NACA/Munk
+Categorie| [Subnsonic]
+Commentaires| NACA/Munk M-10 airfoil

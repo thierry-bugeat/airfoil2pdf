@@ -1,0 +1,9 @@
+Selig S8035(S8035,)
+Epaisseur| 0.1400 
+Leading edge radius| 0.0101
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 4.0967
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig S8035 low Reynolds number airfoil

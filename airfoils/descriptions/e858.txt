@@ -1,0 +1,9 @@
+Eppler E858(E858,)
+Epaisseur| 0.2274 
+Leading edge radius| 0.0327
+Cambrure| 0.0473 
+Trailing edge angle|[deg] 15.0519
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Propeller]
+Commentaires| Eppler E858 propeller airfoil

@@ -1,0 +1,9 @@
+AH21(AH21,)
+Epaisseur| 0.0700 
+Leading edge radius| 0.0132
+Cambrure| 0.0176 
+Trailing edge angle|[deg] 8.5831
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires|

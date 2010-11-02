@@ -1,0 +1,9 @@
+RAF-19(RAF19,)
+Epaisseur| 0.1050 
+Leading edge radius| 0.0552
+Cambrure| 0.1014 
+Trailing edge angle|[deg] 26.0758
+Développeur|
+Groupe de développement| RAF
+Categorie| [Subnsonic]
+Commentaires| RAF-19 airfoil

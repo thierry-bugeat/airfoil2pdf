@@ -1,0 +1,9 @@
+NACA 66-018(NACA66-018,)
+Epaisseur| 0.0000 
+Leading edge radius| 0.0000
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 0.0000
+Développeur|
+Groupe de développement| NACA
+Categorie| [Subnsonic] [Symmetric]
+Commentaires| NACA 66-018

@@ -1,0 +1,10 @@
+ARA-D 10%(ARAD10,)
+Epaisseur| 0.1000 
+Leading edge radius| 0.0186
+Cambrure| 0.0399 
+Trailing edge angle|[deg] 10.4338
+Développeur|
+Groupe de développement|
+Categorie| [Propeller]
+Commentaires| Aeronautical Research Association/Bocci-Dowty Rotol
+ARA-D 10% thick propeller airfoil

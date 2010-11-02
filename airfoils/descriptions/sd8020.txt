@@ -1,0 +1,9 @@
+Selig/Donovan SD8020(SD8020,)
+Epaisseur| 0.1010 
+Leading edge radius| 0.0060
+Cambrure| 0.0000 
+Trailing edge angle|[deg] 7.8611
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed] [Symmetric]
+Commentaires| Selig/Donovan SD8020 low Reynolds number airfoil

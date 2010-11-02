@@ -1,0 +1,9 @@
+Dale House DH4009(DH4009SM,)
+Epaisseur| 0.0894 
+Leading edge radius| 0.0045
+Cambrure| 0.0019 
+Trailing edge angle|[deg] 43.5170
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires| Dale House DH4009 (smoothed)

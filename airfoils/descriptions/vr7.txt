@@ -1,0 +1,9 @@
+Boeing-Vertol VR-7(VR7,)
+Epaisseur| 0.1203 
+Leading edge radius| 0.0183
+Cambrure| 0.0313 
+Trailing edge angle|[deg] 12.3188
+Développeur|
+Groupe de développement| Boeing Inc.
+Categorie| [Rotorcraft]
+Commentaires| Boeing-Vertol VR-7 rotorcraft airfoil

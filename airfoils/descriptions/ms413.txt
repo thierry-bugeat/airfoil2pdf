@@ -1,0 +1,9 @@
+MS413(MS413,)
+Epaisseur| 0.1314 
+Leading edge radius| 0.0180
+Cambrure| 0.0176 
+Trailing edge angle|[deg] 4.1999
+Développeur|
+Groupe de développement|
+Categorie| [Subnsonic]
+Commentaires|

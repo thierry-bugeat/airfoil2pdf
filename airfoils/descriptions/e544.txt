@@ -1,0 +1,9 @@
+Eppler E544(E544,)
+Epaisseur| 0.1751 
+Leading edge radius| 0.0068
+Cambrure| 0.0187 
+Trailing edge angle|[deg] 9.8837
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E544 general aviation airfoil

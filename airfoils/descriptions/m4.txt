@@ -1,0 +1,9 @@
+NACA/Munk M-4(M4,)
+Epaisseur| 0.0628 
+Leading edge radius| 0.0347
+Cambrure| 0.0221 
+Trailing edge angle|[deg] 8.3195
+Développeur|
+Groupe de développement| NACA/Munk
+Categorie| [Subnsonic]
+Commentaires| NACA/Munk M-4 airfoil

@@ -1,0 +1,9 @@
+Davis 3R(DAVISSM,)
+Epaisseur| 0.0587 
+Leading edge radius| 0.0065
+Cambrure| 0.0591 
+Trailing edge angle|[deg] 35.8851
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed] [Modelplane]
+Commentaires| Davis 3R F1B free flight airfoil (smoothed)

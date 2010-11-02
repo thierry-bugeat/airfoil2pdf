@@ -1,0 +1,9 @@
+Quabeck HQ 3.5/14(HQ3514,)
+Epaisseur| 0.1400 
+Leading edge radius| 0.0269
+Cambrure| 0.0350 
+Trailing edge angle|[deg] 8.2049
+Développeur|
+Groupe de développement| Quabeck(Helmut Quabeck)
+Categorie| [Low Speed] [Modelplane]
+Commentaires| Quabeck HQ 3.5/14 R/C sailplane airfoil

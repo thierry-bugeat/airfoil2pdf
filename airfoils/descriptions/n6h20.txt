@@ -1,0 +1,9 @@
+NACA 6-H-20(NACA6H20,)
+Epaisseur| 0.1995 
+Leading edge radius| 0.0415
+Cambrure| 0.0612 
+Trailing edge angle|[deg] 18.1746
+Développeur|
+Groupe de développement| NACA
+Categorie| [Subnsonic] [Rotorcraft]
+Commentaires| NACA 6-H-20 rotorcraft airfoil

@@ -1,0 +1,9 @@
+Gottingen 495(GOE495,)
+Epaisseur| 0.0690 
+Leading edge radius| 0.0365
+Cambrure| 0.0500 
+Trailing edge angle|[deg] 7.3970
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 495 airfoil

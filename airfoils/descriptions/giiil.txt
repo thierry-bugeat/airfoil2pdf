@@ -1,0 +1,9 @@
+Grumman/Gulfstream GIII-l(GIIIL,)
+Epaisseur| 0.0855 
+Leading edge radius| 0.0212
+Cambrure| 0.0158 
+Trailing edge angle|[deg] 10.6630
+Développeur|
+Groupe de développement| Grumman Inc.
+Categorie| [Transonic]
+Commentaires| continued

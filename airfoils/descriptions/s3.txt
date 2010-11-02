@@ -1,0 +1,8 @@
+Republic S-3(S3,)
+Epaisseur| 0.1100 
+Leading edge radius| 0.0454
+Cambrure| 0.0183 
+Trailing edge angle|[deg] 8.1992
+Développeur|
+Groupe de développement|
+Commentaires| Republic S-3 airfoil (P-47 wing airfoil)

@@ -1,0 +1,9 @@
+Eppler E174(E174,)
+Epaisseur| 0.0892 
+Leading edge radius| 0.0082
+Cambrure| 0.0383 
+Trailing edge angle|[deg] 3.4837
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Low Speed]
+Commentaires| Eppler E174 low Reynolds number airfoil

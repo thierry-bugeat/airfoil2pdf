@@ -1,0 +1,9 @@
+Saratov(SARATOV,)
+Epaisseur| 0.0920 
+Leading edge radius| 0.0423
+Cambrure| 0.0975 
+Trailing edge angle|[deg] 9.1561
+Développeur|
+Groupe de développement|
+Categorie| [Low Speed] [Modelplane]
+Commentaires| Saratov R/C sailplane airfoil

@@ -1,0 +1,9 @@
+Gottingen 670(GOE670,)
+Epaisseur| 0.0900 
+Leading edge radius| 0.0415
+Cambrure| 0.0339 
+Trailing edge angle|[deg] 15.9114
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 670 airfoil

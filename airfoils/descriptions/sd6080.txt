@@ -1,0 +1,9 @@
+Selig/Donovan SD6080(SD6080,)
+Epaisseur| 0.0919 
+Leading edge radius| 0.0090
+Cambrure| 0.0374 
+Trailing edge angle|[deg] 3.0138
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig/Donovan SD6080 low Reynolds number airfoil

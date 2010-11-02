@@ -1,0 +1,9 @@
+Eppler E559(E559,)
+Epaisseur| 0.1606 
+Leading edge radius| 0.0275
+Cambrure| 0.0431 
+Trailing edge angle|[deg] 7.7924
+Développeur|
+Groupe de développement| Eppler group
+Categorie| [Subnsonic]
+Commentaires| Eppler E559 general aviation airfoil

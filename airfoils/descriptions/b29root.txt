@@ -1,0 +1,9 @@
+Boeing B-29 root(B29ROOT,)
+Epaisseur| 0.2200 
+Leading edge radius| 0.0504
+Cambrure| 0.0174 
+Trailing edge angle|[deg] 24.9643
+Développeur|
+Groupe de développement| Boeing Inc.
+Categorie| [Subnsonic]
+Commentaires| Boeing B-29 root airfoil

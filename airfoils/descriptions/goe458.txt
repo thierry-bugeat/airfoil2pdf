@@ -1,0 +1,9 @@
+Gottingen 458(GOE458,)
+Epaisseur| 0.0720 
+Leading edge radius| 0.0593
+Cambrure| 0.0520 
+Trailing edge angle|[deg] 10.1301
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 458 airfoil

@@ -1,0 +1,9 @@
+Gottingen 54(GOE54,)
+Epaisseur| 0.0648 
+Leading edge radius| 0.0354
+Cambrure| 0.0348 
+Trailing edge angle|[deg] 4.1254
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 54 airfoil

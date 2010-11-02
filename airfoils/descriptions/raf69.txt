@@ -1,0 +1,9 @@
+RAF-69(RAF69,)
+Epaisseur| 0.2064 
+Leading edge radius| 0.1040
+Cambrure| 0.0172 
+Trailing edge angle|[deg] 22.1281
+Développeur|
+Groupe de développement| RAF
+Categorie| [Subnsonic]
+Commentaires| RAF-69 airfoil

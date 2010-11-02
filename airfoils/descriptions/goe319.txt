@@ -1,0 +1,9 @@
+Gottingen 319(GOE319,)
+Epaisseur| 0.1025 
+Leading edge radius| 0.0412
+Cambrure| 0.0576 
+Trailing edge angle|[deg] 13.7627
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 319 (Hansa-Brandenburg II) airfoil

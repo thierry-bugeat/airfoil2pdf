@@ -1,0 +1,8 @@
+RG 12A-1.8/9.0(RG12A189,)
+Epaisseur| 0.0899 
+Leading edge radius| 0.0166
+Cambrure| 0.0180 
+Trailing edge angle|[deg] 5.5807
+Développeur|
+Groupe de développement|
+Commentaires| RG 12A-1.8/9.0 airfoil

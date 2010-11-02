@@ -1,0 +1,9 @@
+Selig/Donovan SD6060(SD6060,)
+Epaisseur| 0.1037 
+Leading edge radius| 0.0054
+Cambrure| 0.0187 
+Trailing edge angle|[deg] 3.6842
+Développeur|
+Groupe de développement| UIUC LSATs(Selig group)
+Categorie| [Low Speed]
+Commentaires| Selig/Donovan SD6060 low Reynolds number airfoil

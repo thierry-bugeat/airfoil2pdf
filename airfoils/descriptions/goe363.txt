@@ -1,0 +1,9 @@
+Gottingen 363(GOE363,)
+Epaisseur| 0.1107 
+Leading edge radius| 0.0370
+Cambrure| 0.0572 
+Trailing edge angle|[deg] 12.2615
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 363 airfoil

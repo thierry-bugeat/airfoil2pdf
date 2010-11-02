@@ -1,0 +1,9 @@
+Gottingen 462(GOE462,)
+Epaisseur| 0.1100 
+Leading edge radius| 0.0361
+Cambrure| 0.1337 
+Trailing edge angle|[deg] 5.9073
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 462 airfoil

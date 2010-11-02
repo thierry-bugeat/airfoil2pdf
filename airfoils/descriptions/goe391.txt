@@ -1,0 +1,9 @@
+Gottingen 391(GOE391,)
+Epaisseur| 0.0510 
+Leading edge radius| 0.0340
+Cambrure| 0.0321 
+Trailing edge angle|[deg] 11.9178
+Développeur|
+Groupe de développement| Gottingen Univ. group
+Categorie| [Subnsonic]
+Commentaires| Gottingen 391 airfoil
