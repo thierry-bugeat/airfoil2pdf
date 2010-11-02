@@ -1,9 +1,0 @@
-Gottingen 55(GOE55,)
-Epaisseur| 0.0616 
-Leading edge radius| 0.0390
-Cambrure| 0.0204 
-Trailing edge angle|[deg] 2.5612
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 55 airfoil

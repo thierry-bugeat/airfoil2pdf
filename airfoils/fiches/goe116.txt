@@ -1,9 +1,0 @@
-Gottingen 116(GOE116,)
-Epaisseur| 0.0932 
-Leading edge radius| 0.0837
-Cambrure| 0.0408 
-Trailing edge angle|[deg] 10.3192
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 116 (MVA MK.3) airfoil

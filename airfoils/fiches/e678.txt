@@ -1,9 +1,0 @@
-Eppler E678(E678,)
-Epaisseur| 0.1508 
-Leading edge radius| 0.0162
-Cambrure| 0.0509 
-Trailing edge angle|[deg] 4.7900
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Sailplane]
-Commentaires| Eppler E678 sailplane airfoil

@@ -1,9 +1,0 @@
-P-51D root (BL17.5)(P51DROOT,)
-Epaisseur| 0.1651 
-Leading edge radius| 0.0382
-Cambrure| 0.0126 
-Trailing edge angle|[deg] 9.2993
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| P-51D root (BL17.5) airfoil

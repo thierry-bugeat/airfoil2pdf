@@ -1,9 +1,0 @@
-NASA/AMES/Kennelly A-03(AMES03,)
-Epaisseur| 0.0000 
-Leading edge radius| 0.0000
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 0.0000
-Développeur|
-Groupe de développement| NASA/AMES
-Categorie| [Transonic] [Rotorcraft]
-Commentaires| NASA/AMES/Kennelly A-03 transonic rotorcraft airfoil

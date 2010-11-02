@@ -1,9 +1,0 @@
-Eppler E197(E197,)
-Epaisseur| 0.1349 
-Leading edge radius| 0.0069
-Cambrure| 0.0279 
-Trailing edge angle|[deg] 6.5777
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E197 low Reynolds number airfoil

@@ -1,9 +1,0 @@
-Gottingen 599(GOE599,)
-Epaisseur| 0.0998 
-Leading edge radius| 0.0449
-Cambrure| 0.0153 
-Trailing edge angle|[deg] 14.9488
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 599 airfoil

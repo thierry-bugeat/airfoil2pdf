@@ -1,9 +1,0 @@
-Eppler E332(E332,)
-Epaisseur| 0.1153 
-Leading edge radius| 0.0087
-Cambrure| 0.0309 
-Trailing edge angle|[deg] 7.2767
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic] [Flying wing]
-Commentaires| Eppler E332 flying wing airfoil

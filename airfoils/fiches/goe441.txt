@@ -1,9 +1,0 @@
-Gottingen 441(GOE441,)
-Epaisseur| 0.1599 
-Leading edge radius| 0.0508
-Cambrure| 0.0773 
-Trailing edge angle|[deg] 9.1904
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 441 airfoil

@@ -1,9 +1,0 @@
-NACA 63(1)-212(NACA63212,)
-Epaisseur| 0.1200 
-Leading edge radius| 0.0218
-Cambrure| 0.0110 
-Trailing edge angle|[deg] 3.0998
-Développeur|
-Groupe de développement| NACA
-Categorie| [Subnsonic]
-Commentaires| NACA 63(1)-212 airfoil

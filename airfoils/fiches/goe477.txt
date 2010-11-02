@@ -1,9 +1,0 @@
-Gottingen 477(GOE477,)
-Epaisseur| 0.1005 
-Leading edge radius| 0.0721
-Cambrure| 0.0488 
-Trailing edge angle|[deg] 12.7772
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 477 airfoil

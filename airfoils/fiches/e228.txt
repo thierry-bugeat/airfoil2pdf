@@ -1,9 +1,0 @@
-Eppler E228(E228,)
-Epaisseur| 0.1007 
-Leading edge radius| 0.0046
-Cambrure| 0.0027 
-Trailing edge angle|[deg] 5.1510
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E228 low Reynolds number airfoil

@@ -1,9 +1,0 @@
-Gottingen 628(GOE628,)
-Epaisseur| 0.1678 
-Leading edge radius| 0.0588
-Cambrure| 0.0564 
-Trailing edge angle|[deg] 16.2208
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 628 airfoil

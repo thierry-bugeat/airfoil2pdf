@@ -1,9 +1,0 @@
-Gottingen 101(GOE101,)
-Epaisseur| 0.0690 
-Leading edge radius| 0.0322
-Cambrure| 0.0396 
-Trailing edge angle|[deg] 7.1793
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 101 airfoil

@@ -1,9 +1,0 @@
-CLARK X(CLARKX,)
-Epaisseur| 0.1170 
-Leading edge radius| 0.0454
-Cambrure| 0.0328 
-Trailing edge angle|[deg] 15.7796
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| CLARK X airfoil

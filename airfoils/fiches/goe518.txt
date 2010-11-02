@@ -1,9 +1,0 @@
-Gottingen 518(GOE518,)
-Epaisseur| 0.1800 
-Leading edge radius| 0.0382
-Cambrure| 0.0730 
-Trailing edge angle|[deg] 30.1382
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 518 airfoil

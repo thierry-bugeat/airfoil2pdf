@@ -1,9 +1,0 @@
-Wortmann FX 61-184(FX61184,)
-Epaisseur| 0.1837 
-Leading edge radius| 0.0154
-Cambrure| 0.0309 
-Trailing edge angle|[deg] 25.3081
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX 61-184 airfoil

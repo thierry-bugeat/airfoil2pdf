@@ -1,9 +1,0 @@
-Gottingen 310(GOE310,)
-Epaisseur| 0.0814 
-Leading edge radius| 0.0345
-Cambrure| 0.0481 
-Trailing edge angle|[deg] 18.8736
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 310 (MVA H.42) airfoil

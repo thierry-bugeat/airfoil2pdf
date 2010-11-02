@@ -1,9 +1,0 @@
-Gottingen 278(GOE278,)
-Epaisseur| 0.0744 
-Leading edge radius| 0.0326
-Cambrure| 0.0426 
-Trailing edge angle|[deg] 12.1584
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 278 (DAIMLER IX) airfoil

@@ -1,9 +1,0 @@
-Eppler E201(E201,)
-Epaisseur| 0.1188 
-Leading edge radius| 0.0079
-Cambrure| 0.0307 
-Trailing edge angle|[deg] 5.9875
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E201 low Reynolds number airfoil

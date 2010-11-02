@@ -1,9 +1,0 @@
-RAE(NPL) 5213(RAE5213,)
-Epaisseur| 0.0995 
-Leading edge radius| 0.0131
-Cambrure| 0.0144 
-Trailing edge angle|[deg] 6.8355
-Développeur|
-Groupe de développement|
-Categorie| [Transonic]
-Commentaires| RAE(NPL) 5213 transonic airfoil

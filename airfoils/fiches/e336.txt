@@ -1,9 +1,0 @@
-Eppler E336(E336,)
-Epaisseur| 0.1281 
-Leading edge radius| 0.0091
-Cambrure| 0.0283 
-Trailing edge angle|[deg] 7.9070
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic] [Flying wing]
-Commentaires| Eppler E336 flying wing airfoil

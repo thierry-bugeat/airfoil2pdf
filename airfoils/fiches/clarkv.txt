@@ -1,9 +1,0 @@
-CLARK V(CLARKV,)
-Epaisseur| 0.1164 
-Leading edge radius| 0.0414
-Cambrure| 0.0339 
-Trailing edge angle|[deg] 19.6357
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| CLARK V airfoil

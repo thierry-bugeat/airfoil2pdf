@@ -1,9 +1,0 @@
-Gottingen 510(GOE510,)
-Epaisseur| 0.1374 
-Leading edge radius| 0.0503
-Cambrure| 0.0585 
-Trailing edge angle|[deg] 25.0731
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 510 airfoil

@@ -1,8 +1,0 @@
-SG6040(SG6040,)
-Epaisseur| 0.1600 
-Leading edge radius| 0.0159
-Cambrure| 0.0252 
-Trailing edge angle|[deg] 5.8807
-Développeur|
-Groupe de développement|
-Commentaires|

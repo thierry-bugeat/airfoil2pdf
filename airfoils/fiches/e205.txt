@@ -1,9 +1,0 @@
-Eppler E205(E205,)
-Epaisseur| 0.1048 
-Leading edge radius| 0.0061
-Cambrure| 0.0298 
-Trailing edge angle|[deg] 6.1938
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E205 low Reynolds number airfoil

@@ -1,8 +1,0 @@
-RG 15A 2.5/13.0(RG15A213,)
-Epaisseur| 0.1300 
-Leading edge radius| 0.0237
-Cambrure| 0.0250 
-Trailing edge angle|[deg] 7.5517
-Développeur|
-Groupe de développement|
-Commentaires| RG 15A 2.5/13.0 airfoil

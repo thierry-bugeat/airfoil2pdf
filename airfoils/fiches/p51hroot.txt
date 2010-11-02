@@ -1,9 +1,0 @@
-NACA 66,2-(1.8)15.5 A=.6(P51HROOT,)
-Epaisseur| 0.1550 
-Leading edge radius| 0.0204
-Cambrure| 0.0133 
-Trailing edge angle|[deg] 3.2430
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| NACA 66,2-(1.8)15.5 A=.6 P-51H root airfoil

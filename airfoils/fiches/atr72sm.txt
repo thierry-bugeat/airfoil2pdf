@@ -1,9 +1,0 @@
-ATR 72(ATR72SM,)
-Epaisseur| 0.1453 
-Leading edge radius| 0.0174
-Cambrure| 0.0286 
-Trailing edge angle|[deg] 11.8318
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| ATR 72 wing airfoil (from NTSB report)

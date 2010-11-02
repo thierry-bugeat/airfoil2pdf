@@ -1,9 +1,0 @@
-Wortmann FX 61-163(FX61163,)
-Epaisseur| 0.1635 
-Leading edge radius| 0.0085
-Cambrure| 0.0256 
-Trailing edge angle|[deg] 12.5366
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX 61-163 airfoil

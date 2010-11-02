@@ -1,9 +1,0 @@
-Gottingen 316(GOE316,)
-Epaisseur| 0.0908 
-Leading edge radius| 0.0351
-Cambrure| 0.0424 
-Trailing edge angle|[deg] 8.4570
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 316 (Hansa-Brandenburg IV.5) airfoil

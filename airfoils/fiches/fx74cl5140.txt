@@ -1,9 +1,0 @@
-Wortmann FX 74-CL5-140(FX74CL5140,)
-Epaisseur| 0.1405 
-Leading edge radius| 0.0182
-Cambrure| 0.0980 
-Trailing edge angle|[deg] 342.6357
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX 74-CL5-140 high lift airfoil

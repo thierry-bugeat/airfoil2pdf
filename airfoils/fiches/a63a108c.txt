@@ -1,9 +1,0 @@
-A63A108C(A63A108C,)
-Epaisseur| 0.0774 
-Leading edge radius| 0.0195
-Cambrure| 0.0049 
-Trailing edge angle|[deg] 2.5039
-Développeur|
-Groupe de développement| NASA/AMES
-Categorie| [Subnsonic]
-Commentaires| NASA/AMES modification of the NACA 63A-108 airfoil

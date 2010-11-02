@@ -1,9 +1,0 @@
-Eppler E327(E327,)
-Epaisseur| 0.1312 
-Leading edge radius| 0.0090
-Cambrure| 0.0261 
-Trailing edge angle|[deg] 7.3340
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic] [Flying wing]
-Commentaires| Eppler E327 flying wing airfoil

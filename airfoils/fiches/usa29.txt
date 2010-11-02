@@ -1,9 +1,0 @@
-USA-29(USA29,)
-Epaisseur| 0.1321 
-Leading edge radius| 0.0471
-Cambrure| 0.0555 
-Trailing edge angle|[deg] 25.0216
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| USA-29 airfoil

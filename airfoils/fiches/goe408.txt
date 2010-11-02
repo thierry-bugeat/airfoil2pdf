@@ -1,9 +1,0 @@
-Gottingen 408(GOE408,)
-Epaisseur| 0.0775 
-Leading edge radius| 0.0383
-Cambrure| 0.0415 
-Trailing edge angle|[deg] 37.8103
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 408 airfoil

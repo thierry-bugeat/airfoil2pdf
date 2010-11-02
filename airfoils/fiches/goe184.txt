@@ -1,9 +1,0 @@
-Gottingen 184(GOE184,)
-Epaisseur| 0.0831 
-Leading edge radius| 0.0355
-Cambrure| 0.0529 
-Trailing edge angle|[deg] 7.8038
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 184 (MVA H.29) airfoil

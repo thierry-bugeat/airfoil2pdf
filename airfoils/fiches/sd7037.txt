@@ -1,9 +1,0 @@
-Selig/Donovan SD7037(SD7037,)
-Epaisseur| 0.0921 
-Leading edge radius| 0.0097
-Cambrure| 0.0299 
-Trailing edge angle|[deg] 3.1972
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig/Donovan SD7037 low Reynolds number airfoil

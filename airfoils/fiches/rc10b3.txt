@@ -1,9 +1,0 @@
-NASA/Langley RC-10(B)3(RC10B3,)
-Epaisseur| 0.0997 
-Leading edge radius| 0.0185
-Cambrure| 0.0168 
-Trailing edge angle|[deg] 18.8965
-Développeur|
-Groupe de développement|
-Categorie| [Rotorcraft]
-Commentaires| NASA/Langley RC-10(B)3 rotorcraft airfoil

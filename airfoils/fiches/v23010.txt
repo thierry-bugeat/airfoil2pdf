@@ -1,9 +1,0 @@
-Boeing-Vertol V23010-1.58(V23010,)
-Epaisseur| 0.1018 
-Leading edge radius| 0.0387
-Cambrure| 0.0175 
-Trailing edge angle|[deg] 10.6400
-Développeur|
-Groupe de développement| Boeing Inc.
-Categorie| [Rotorcraft]
-Commentaires| Boeing-Vertol V23010-1.58 rotorcraft airfoil

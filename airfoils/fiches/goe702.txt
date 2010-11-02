@@ -1,9 +1,0 @@
-Gottingen 702(GOE702,)
-Epaisseur| 0.1675 
-Leading edge radius| 0.0575
-Cambrure| 0.0511 
-Trailing edge angle|[deg] 12.7371
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 702 airfoil

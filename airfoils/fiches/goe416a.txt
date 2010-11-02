@@ -1,9 +1,0 @@
-Gottingen 416A(GOE416A,)
-Epaisseur| 0.1170 
-Leading edge radius| 0.0696
-Cambrure| 0.0133 
-Trailing edge angle|[deg] 8.9612
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 416A airfoil

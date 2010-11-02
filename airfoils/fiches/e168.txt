@@ -1,9 +1,0 @@
-Eppler E168(E168,)
-Epaisseur| 0.1244 
-Leading edge radius| 0.0074
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 5.9245
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E168 low Reynolds number airfoil

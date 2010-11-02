@@ -1,9 +1,0 @@
-Wortmann FX 63-137(smoothed)(FX63137SM,)
-Epaisseur| 0.1368 
-Leading edge radius| 0.0181
-Cambrure| 0.0583 
-Trailing edge angle|[deg] 371.2842
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Low Speed] [Human-Powered Aircraft]
-Commentaires| Wortmann FX 63-137 airfoil (smoothed)

@@ -1,9 +1,0 @@
-Eppler E374(E374,)
-Epaisseur| 0.1092 
-Leading edge radius| 0.0050
-Cambrure| 0.0226 
-Trailing edge angle|[deg] 8.6346
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E374 low Reynolds number airfoil

@@ -1,9 +1,0 @@
-Quabeck HQ 2.0/9(HQ2090SM,)
-Epaisseur| 0.0897 
-Leading edge radius| 0.0044
-Cambrure| 0.0194 
-Trailing edge angle|[deg] 5.6208
-Développeur|
-Groupe de développement| Quabeck(Helmut Quabeck)
-Categorie| [Low Speed] [Modelplane]
-Commentaires| Quabeck HQ 2.0/9 R/C sailplane airfoil (smoothed)

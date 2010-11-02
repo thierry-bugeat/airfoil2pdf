@@ -1,9 +1,0 @@
-Gottingen 290(GOE290,)
-Epaisseur| 0.1760 
-Leading edge radius| 0.0572
-Cambrure| 0.0387 
-Trailing edge angle|[deg] 16.9427
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 290 (MVA 290) airfoil

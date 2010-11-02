@@ -1,9 +1,0 @@
-RAF-30(RAF30,)
-Epaisseur| 0.1264 
-Leading edge radius| 0.0488
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 17.3381
-Développeur|
-Groupe de développement| RAF
-Categorie| [Subnsonic]
-Commentaires| RAF-30 airfoil

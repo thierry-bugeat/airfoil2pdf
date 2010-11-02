@@ -1,9 +1,0 @@
-Gottingen 147(GOE147,)
-Epaisseur| 0.0755 
-Leading edge radius| 0.0447
-Cambrure| 0.0376 
-Trailing edge angle|[deg] 5.9130
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 147 (MVA H.6) airfoil

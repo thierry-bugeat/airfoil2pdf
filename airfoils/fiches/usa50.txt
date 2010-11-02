@@ -1,9 +1,0 @@
-USA-50(USA50,)
-Epaisseur| 0.0704 
-Leading edge radius| 0.0511
-Cambrure| 0.0195 
-Trailing edge angle|[deg] 17.5844
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| USA-50 airfoil

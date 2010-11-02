@@ -1,9 +1,0 @@
-Martin Hepperle MH32(MH32,)
-Epaisseur| 0.0871 
-Leading edge radius| 0.0007
-Cambrure| 0.0239 
-Trailing edge angle|[deg] 4.8702
-Développeur|
-Groupe de développement| Martin Hepperle
-Categorie| [Low Speed]
-Commentaires| Martin Hepperle MH 32 low Reynolds number airfoil

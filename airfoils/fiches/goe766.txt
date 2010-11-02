@@ -1,9 +1,0 @@
-Gottingen 766(GOE766,)
-Epaisseur| 0.1201 
-Leading edge radius| 0.0472
-Cambrure| 0.0149 
-Trailing edge angle|[deg] 14.4617
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 766 airfoil

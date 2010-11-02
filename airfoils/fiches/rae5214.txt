@@ -1,9 +1,0 @@
-RAE 5214(RAE5214,)
-Epaisseur| 0.0967 
-Leading edge radius| 0.0131
-Cambrure| 0.0144 
-Trailing edge angle|[deg] 6.8355
-Développeur|
-Groupe de développement|
-Categorie| [Transonic]
-Commentaires| RAE 5214 transonic airfoil

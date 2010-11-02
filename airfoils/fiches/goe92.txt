@@ -1,9 +1,0 @@
-Gottingen 92(GOE92,)
-Epaisseur| 0.0877 
-Leading edge radius| 0.0309
-Cambrure| 0.0555 
-Trailing edge angle|[deg] 12.1412
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 92 airfoil

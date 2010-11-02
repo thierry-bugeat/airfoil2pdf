@@ -1,9 +1,0 @@
-Gottingen 422(GOE422,)
-Epaisseur| 0.1707 
-Leading edge radius| 0.0511
-Cambrure| 0.0651 
-Trailing edge angle|[deg] 19.1945
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 422 airfoil

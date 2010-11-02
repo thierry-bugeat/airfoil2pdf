@@ -1,9 +1,0 @@
-NACA 64-110(NACA64110,)
-Epaisseur| 0.0998 
-Leading edge radius| 0.0203
-Cambrure| 0.0055 
-Trailing edge angle|[deg] 3.4264
-Développeur|
-Groupe de développement| NACA
-Categorie| [Subnsonic]
-Commentaires| NACA 64-110 airfoil

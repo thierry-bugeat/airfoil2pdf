@@ -1,9 +1,0 @@
-Eppler E420(E420,)
-Epaisseur| 0.1433 
-Leading edge radius| 0.0261
-Cambrure| 0.1064 
-Trailing edge angle|[deg] 7.2251
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E420 high lift airfoil

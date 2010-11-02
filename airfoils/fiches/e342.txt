@@ -1,9 +1,0 @@
-Eppler E342g(E342,)
-Epaisseur| 0.1426 
-Leading edge radius| 0.0134
-Cambrure| 0.0348 
-Trailing edge angle|[deg] 1.0829
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic] [Flying wing]
-Commentaires| Eppler E342 flying wing airfoil

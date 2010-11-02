@@ -1,9 +1,0 @@
-USA-45M(USA45M,)
-Epaisseur| 0.1163 
-Leading edge radius| 0.0405
-Cambrure| 0.0333 
-Trailing edge angle|[deg] 12.9090
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| USA-45M airfoil

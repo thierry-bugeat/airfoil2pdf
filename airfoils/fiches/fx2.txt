@@ -1,9 +1,0 @@
-Wortmann FX 2(FX2,)
-Epaisseur| 0.2045 
-Leading edge radius| 0.0676
-Cambrure| 0.0377 
-Trailing edge angle|[deg] 21.3259
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX 2 airfoil

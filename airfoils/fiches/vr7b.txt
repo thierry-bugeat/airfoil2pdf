@@ -1,9 +1,0 @@
-Boeing-Vertol VR-7(tab)(VR7B,)
-Epaisseur| 0.0000 
-Leading edge radius| 0.0000
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 0.0000
-Développeur|
-Groupe de développement| Boeing Inc.
-Categorie| [Rotorcraft]
-Commentaires| Boeing-Vertol VR-7 rotorcraft airfoil with tab

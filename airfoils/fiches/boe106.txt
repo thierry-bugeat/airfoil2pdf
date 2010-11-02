@@ -1,9 +1,0 @@
-Boeing 106(BOE106,)
-Epaisseur| 0.1306 
-Leading edge radius| 0.0429
-Cambrure| 0.0333 
-Trailing edge angle|[deg] 16.9656
-Développeur| 2
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| Boeing 106 airfoil

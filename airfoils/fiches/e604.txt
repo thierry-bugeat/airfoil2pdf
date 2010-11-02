@@ -1,9 +1,0 @@
-Eppler E604(E604,)
-Epaisseur| 0.1881 
-Leading edge radius| 0.0074
-Cambrure| 0.0337 
-Trailing edge angle|[deg] 5.8271
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic] [Sailplane]
-Commentaires| Eppler E604 sailplane airfoil

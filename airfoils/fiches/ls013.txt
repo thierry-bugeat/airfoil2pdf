@@ -1,9 +1,0 @@
-NASA/Langley LS(1)-0013(LS013,)
-Epaisseur| 0.1286 
-Leading edge radius| 0.0338
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 7.8669
-Développeur|
-Groupe de développement| NASA/Langley
-Categorie| [Subnsonic]
-Commentaires| NASA/Langley LS(1)-0013 general aviation airfoil

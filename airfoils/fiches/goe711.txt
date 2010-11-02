@@ -1,9 +1,0 @@
-Gottingen 711(GOE711,)
-Epaisseur| 0.1485 
-Leading edge radius| 0.0358
-Cambrure| 0.0631 
-Trailing edge angle|[deg] 20.2029
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 711 airfoil

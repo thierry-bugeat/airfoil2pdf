@@ -1,9 +1,0 @@
-Eppler E625(E625,)
-Epaisseur| 0.1300 
-Leading edge radius| 0.0128
-Cambrure| 0.0288 
-Trailing edge angle|[deg] 17.1891
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E625 airfoil

@@ -1,9 +1,0 @@
-Gottingen 133(GOE133,)
-Epaisseur| 0.0790 
-Leading edge radius| 0.0401
-Cambrure| 0.0429 
-Trailing edge angle|[deg] 9.0071
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 133 (MVA H.11) airfoil

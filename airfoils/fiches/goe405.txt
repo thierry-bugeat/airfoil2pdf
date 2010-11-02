@@ -1,9 +1,0 @@
-Gottingen 405(GOE405,)
-Epaisseur| 0.1110 
-Leading edge radius| 0.0376
-Cambrure| 0.0654 
-Trailing edge angle|[deg] 15.6421
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 405 airfoil

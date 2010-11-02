@@ -1,9 +1,0 @@
-DFVLR R-4(DFVLRR4,)
-Epaisseur| 0.0000 
-Leading edge radius| 0.0000
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 0.0000
-Développeur|
-Groupe de développement|
-Categorie| [Transonic]
-Commentaires| DFVLR R-4 transonic airfoil

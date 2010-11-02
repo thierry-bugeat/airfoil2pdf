@@ -1,9 +1,0 @@
-Gottingen 228(GOE228,)
-Epaisseur| 0.1790 
-Leading edge radius| 0.0459
-Cambrure| 0.0700 
-Trailing edge angle|[deg] 10.9724
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 228 (MVA H.38) airfoil

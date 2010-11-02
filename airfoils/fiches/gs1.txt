@@ -1,9 +1,0 @@
-Gluharoff/Sikorsky GS-1(GS1,)
-Epaisseur| 0.1390 
-Leading edge radius| 0.0520
-Cambrure| 0.0414 
-Trailing edge angle|[deg] 11.7917
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| Gluharoff/Sikorsky GS-1 airfoil

@@ -1,9 +1,0 @@
-Gottingen 617(GOE617,)
-Epaisseur| 0.1385 
-Leading edge radius| 0.0477
-Cambrure| 0.0218 
-Trailing edge angle|[deg] 22.2255
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 617 airfoil

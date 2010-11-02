@@ -1,9 +1,0 @@
-R140 Quickee 500(R140,)
-Epaisseur| 0.1200 
-Leading edge radius| 0.0015
-Cambrure| 0.0047 
-Trailing edge angle|[deg] 19.3893
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| R140 Quickee 500 airfoil (original)

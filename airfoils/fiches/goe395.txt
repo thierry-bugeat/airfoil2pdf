@@ -1,9 +1,0 @@
-Gottingen 395(GOE395,)
-Epaisseur| 0.0611 
-Leading edge radius| 0.0349
-Cambrure| 0.0698 
-Trailing edge angle|[deg] 4.8129
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 395 airfoil

@@ -1,9 +1,0 @@
-USA-35(USA35,)
-Epaisseur| 0.1820 
-Leading edge radius| 0.0604
-Cambrure| 0.0643 
-Trailing edge angle|[deg] 18.7017
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| USA-35 airfoil

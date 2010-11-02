@@ -1,8 +1,0 @@
-Eppler E864(E864,)
-Epaisseur| 0.3883 
-Leading edge radius| 0.1033
-Cambrure| 0.0005 
-Trailing edge angle|[deg] 35.1058
-Développeur|
-Groupe de développement| Eppler group
-Commentaires| Eppler E864 strut airfoil

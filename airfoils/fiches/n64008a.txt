@@ -1,9 +1,0 @@
-NACA 64-008A(NACA64008A,)
-Epaisseur| 0.0800 
-Leading edge radius| 0.0173
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 9.6030
-Développeur|
-Groupe de développement| NACA
-Categorie| [Subnsonic] [Symmetric]
-Commentaires| NACA 64-008A airfoil

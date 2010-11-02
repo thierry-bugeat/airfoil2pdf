@@ -1,9 +1,0 @@
-Sikorsky/Velkoff SC1094 R8(SC1094R8,)
-Epaisseur| 0.0940 
-Leading edge radius| 0.0011
-Cambrure| 0.0215 
-Trailing edge angle|[deg] 6.9157
-Développeur|
-Groupe de développement| Sikorsky Inc.
-Categorie| [Rotorcraft]
-Commentaires| Sikorsky/Velkoff SC1094 R8 rotorcraft airfoil

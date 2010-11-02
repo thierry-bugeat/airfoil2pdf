@@ -1,9 +1,0 @@
-NACA/Munk M-1(M1,)
-Epaisseur| 0.0616 
-Leading edge radius| 0.0386
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 8.8524
-Développeur|
-Groupe de développement| NACA/Munk
-Categorie| [Subnsonic]
-Commentaires| NACA/Munk M-1 airfoil

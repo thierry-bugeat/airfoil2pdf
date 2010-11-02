@@ -1,9 +1,0 @@
-Eppler E432(E432,)
-Epaisseur| 0.1599 
-Leading edge radius| 0.0126
-Cambrure| 0.0447 
-Trailing edge angle|[deg] 5.9761
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Sailplane]
-Commentaires| Eppler E432 sailplane airfoil

@@ -1,9 +1,0 @@
-RAF-31(RAF31,)
-Epaisseur| 0.1274 
-Leading edge radius| 0.0456
-Cambrure| 0.0207 
-Trailing edge angle|[deg] 19.2059
-Développeur|
-Groupe de développement| RAF
-Categorie| [Subnsonic]
-Commentaires| RAF-31 airfoil

@@ -1,9 +1,0 @@
-Wortmann FX M2(FXM2,)
-Epaisseur| 0.0840 
-Leading edge radius| 0.0097
-Cambrure| 0.0478 
-Trailing edge angle|[deg] 1.6215
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX M2 airfoil

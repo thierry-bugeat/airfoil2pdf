@@ -1,9 +1,0 @@
-NACA/Munk M-25(M25,)
-Epaisseur| 0.0627 
-Leading edge radius| 0.0306
-Cambrure| 0.0823 
-Trailing edge angle|[deg] 8.8868
-Développeur|
-Groupe de développement| NACA/Munk
-Categorie| [Subnsonic]
-Commentaires| NACA/Munk M-25 airfoil

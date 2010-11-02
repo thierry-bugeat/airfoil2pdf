@@ -1,9 +1,0 @@
-Gottingen 233(GOE233,)
-Epaisseur| 0.1164 
-Leading edge radius| 0.0381
-Cambrure| 0.0821 
-Trailing edge angle|[deg] 4.5551
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 233 (MVA CA4) airfoil

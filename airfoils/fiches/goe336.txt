@@ -1,9 +1,0 @@
-Gottingen 336(GOE336,)
-Epaisseur| 0.0895 
-Leading edge radius| 0.0358
-Cambrure| 0.0541 
-Trailing edge angle|[deg] 19.9107
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 336 (MVA H.44) airfoil

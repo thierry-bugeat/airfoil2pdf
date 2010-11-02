@@ -1,9 +1,0 @@
-Gottingen 507(GOE507,)
-Epaisseur| 0.0865 
-Leading edge radius| 0.0700
-Cambrure| 0.0292 
-Trailing edge angle|[deg] 11.3219
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 507 airfoil

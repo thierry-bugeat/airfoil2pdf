@@ -1,9 +1,0 @@
-Selig S4233(S4233,)
-Epaisseur| 0.1366 
-Leading edge radius| 0.0109
-Cambrure| 0.0323 
-Trailing edge angle|[deg] 4.0681
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig S4233 low Reynolds number airfoil

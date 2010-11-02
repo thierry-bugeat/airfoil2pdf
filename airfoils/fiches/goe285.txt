@@ -1,9 +1,0 @@
-Gottingen 285(GOE285,)
-Epaisseur| 0.1173 
-Leading edge radius| 0.0440
-Cambrure| 0.0367 
-Trailing edge angle|[deg] 17.4813
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 285 airfoil

@@ -1,9 +1,0 @@
-NACA/Munk M-26(M26,)
-Epaisseur| 0.0830 
-Leading edge radius| 0.0329
-Cambrure| 0.0825 
-Trailing edge angle|[deg] 10.3765
-Développeur|
-Groupe de développement| NACA/Munk
-Categorie| [Subnsonic]
-Commentaires| NACA/Munk M-26 airfoil

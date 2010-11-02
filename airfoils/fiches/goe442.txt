@@ -1,9 +1,0 @@
-Gottingen 442(GOE442,)
-Epaisseur| 0.0771 
-Leading edge radius| 0.0401
-Cambrure| 0.0433 
-Trailing edge angle|[deg] 11.7172
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 442 airfoil

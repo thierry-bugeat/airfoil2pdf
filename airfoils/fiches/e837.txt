@@ -1,9 +1,0 @@
-Eppler E837(E837,)
-Epaisseur| 0.1611 
-Leading edge radius| 0.0244
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 5.7010
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Hydrofoil]
-Commentaires| Eppler E837 hydrofoil

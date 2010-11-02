@@ -1,9 +1,0 @@
-Gottingen 431(GOE431,)
-Epaisseur| 0.1180 
-Leading edge radius| 0.0491
-Cambrure| 0.0722 
-Trailing edge angle|[deg] 10.1301
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 431 airfoil

@@ -1,9 +1,0 @@
-Gottingen 423(GOE423,)
-Epaisseur| 0.1694 
-Leading edge radius| 0.0548
-Cambrure| 0.0506 
-Trailing edge angle|[deg] 23.4402
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 423 airfoil

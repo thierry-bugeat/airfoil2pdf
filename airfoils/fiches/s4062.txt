@@ -1,9 +1,0 @@
-Selig S4062(S4062,)
-Epaisseur| 0.0955 
-Leading edge radius| 0.0083
-Cambrure| 0.0415 
-Trailing edge angle|[deg] 2.3263
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig S4062 low Reynolds number airfoil

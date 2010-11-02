@@ -1,9 +1,0 @@
-Gottingen 29B(GOE29B,)
-Epaisseur| 0.0942 
-Leading edge radius| 0.0443
-Cambrure| 0.0655 
-Trailing edge angle|[deg] 8.7607
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 29B airfoil

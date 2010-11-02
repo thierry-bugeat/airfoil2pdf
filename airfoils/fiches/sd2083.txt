@@ -1,9 +1,0 @@
-Selig/Donovan SD2083(SD2083,)
-Epaisseur| 0.0896 
-Leading edge radius| 0.0049
-Cambrure| 0.0281 
-Trailing edge angle|[deg] 6.5662
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig/Donovan SD2083 low Reynolds number airfoil

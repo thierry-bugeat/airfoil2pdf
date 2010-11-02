@@ -1,9 +1,0 @@
-Boeing-Vertol V43015-2.48(V43015,)
-Epaisseur| 0.1503 
-Leading edge radius| 0.0327
-Cambrure| 0.0368 
-Trailing edge angle|[deg] 20.3461
-Développeur|
-Groupe de développement| Boeing Inc.
-Categorie| [Rotorcraft]
-Commentaires| Boeing-Vertol V43015-2.48 rotorcraft airfoil

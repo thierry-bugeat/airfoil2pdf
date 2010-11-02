@@ -1,9 +1,0 @@
-Gottingen 797(GOE797,)
-Epaisseur| 0.1600 
-Leading edge radius| 0.0530
-Cambrure| 0.0486 
-Trailing edge angle|[deg] 20.6785
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 797 airfoil

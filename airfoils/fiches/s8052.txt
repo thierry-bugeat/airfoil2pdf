@@ -1,9 +1,0 @@
-Selig S8052(S8052,)
-Epaisseur| 0.1189 
-Leading edge radius| 0.0089
-Cambrure| 0.0160 
-Trailing edge angle|[deg] 3.7816
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig S8052 low Reynolds number airfoil

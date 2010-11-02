@@ -1,9 +1,0 @@
-USA-48(USA48,)
-Epaisseur| 0.1490 
-Leading edge radius| 0.0471
-Cambrure| 0.0288 
-Trailing edge angle|[deg] 22.5807
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| USA-48 airfoil

@@ -1,9 +1,0 @@
-Deflt University DU 86-084/18(DU8608418,)
-Epaisseur| 0.0845 
-Leading edge radius| 0.0033
-Cambrure| 0.0112 
-Trailing edge angle|[deg] 6.0276
-Développeur|
-Groupe de développement|
-Commentaires| Deflt University DU 86-084/18 low Reynolds number
-airfoil du8608418.gif

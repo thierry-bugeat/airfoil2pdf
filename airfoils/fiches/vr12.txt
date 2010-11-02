@@ -1,9 +1,0 @@
-Boeing-Vertol/Dadone VR-12(VR12,)
-Epaisseur| 0.1057 
-Leading edge radius| 0.0074
-Cambrure| 0.0228 
-Trailing edge angle|[deg] 12.6913
-Développeur|
-Groupe de développement| Boeing Inc.
-Categorie| [Rotorcraft]
-Commentaires| Boeing-Vertol/Dadone VR-12 rotorcraft airfoil

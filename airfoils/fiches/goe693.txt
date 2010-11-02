@@ -1,9 +1,0 @@
-Gottingen 693(GOE693,)
-Epaisseur| 0.1200 
-Leading edge radius| 0.0449
-Cambrure| 0.0361 
-Trailing edge angle|[deg] 16.5416
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 693 airfoil

@@ -1,9 +1,0 @@
-CLARK Y(CLARKYSM,)
-Epaisseur| 0.1172 
-Leading edge radius| 0.0127
-Cambrure| 0.0352 
-Trailing edge angle|[deg] 18.5527
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| CLARK Y airfoil (smoothed)

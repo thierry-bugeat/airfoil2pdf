@@ -1,9 +1,0 @@
-Gottingen 344(GOE344,)
-Epaisseur| 0.0720 
-Leading edge radius| 0.0392
-Cambrure| 0.0271 
-Trailing edge angle|[deg] 17.7162
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 344 (Pfalz 71) airfoil

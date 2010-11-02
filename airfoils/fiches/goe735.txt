@@ -1,9 +1,0 @@
-Gottingen 735(GOE735,)
-Epaisseur| 0.2010 
-Leading edge radius| 0.0593
-Cambrure| 0.0438 
-Trailing edge angle|[deg] 16.4671
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 735 airfoil

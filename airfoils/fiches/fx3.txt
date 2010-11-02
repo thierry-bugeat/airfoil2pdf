@@ -1,9 +1,0 @@
-Wortmann FX 3(FX3,)
-Epaisseur| 0.1998 
-Leading edge radius| 0.0641
-Cambrure| 0.0416 
-Trailing edge angle|[deg] 1.9710
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX 3 airfoil

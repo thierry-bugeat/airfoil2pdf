@@ -1,9 +1,0 @@
-Wortmann FX 60-100(FX60100SM,)
-Epaisseur| 0.0998 
-Leading edge radius| 0.0071
-Cambrure| 0.0348 
-Trailing edge angle|[deg] 2.6127
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX 60-100 airfoil (smoothed)

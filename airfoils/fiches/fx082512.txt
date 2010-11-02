@@ -1,9 +1,0 @@
-Wortmann FX 082-512(FX082512,)
-Epaisseur| 0.1180 
-Leading edge radius| 0.0724
-Cambrure| 0.0416 
-Trailing edge angle|[deg] 12.9262
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX 082-512 airfoil

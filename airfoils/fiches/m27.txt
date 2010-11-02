@@ -1,9 +1,0 @@
-NACA/Munk M-27(M27,)
-Epaisseur| 0.1195 
-Leading edge radius| 0.0376
-Cambrure| 0.0837 
-Trailing edge angle|[deg] 16.7937
-Développeur|
-Groupe de développement| NACA/Munk
-Categorie| [Subnsonic]
-Commentaires| NACA/Munk M-27 airfoil

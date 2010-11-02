@@ -1,9 +1,0 @@
-Gottingen 367(GOE367,)
-Epaisseur| 0.1630 
-Leading edge radius| 0.0523
-Cambrure| 0.0460 
-Trailing edge angle|[deg] 20.7644
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 367 airfoil

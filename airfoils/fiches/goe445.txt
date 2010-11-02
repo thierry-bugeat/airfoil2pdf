@@ -1,9 +1,0 @@
-Gottingen 445(GOE445,)
-Epaisseur| 0.0640 
-Leading edge radius| 0.0535
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 11.1729
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 445 airfoil

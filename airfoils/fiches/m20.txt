@@ -1,9 +1,0 @@
-NACA/Munk M-20(M20,)
-Epaisseur| 0.0815 
-Leading edge radius| 0.0342
-Cambrure| 0.0606 
-Trailing edge angle|[deg] 11.0182
-Développeur|
-Groupe de développement| NACA/Munk
-Categorie| [Subnsonic]
-Commentaires| NACA/Munk M-20 airfoil

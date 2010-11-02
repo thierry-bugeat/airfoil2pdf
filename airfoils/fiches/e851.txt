@@ -1,9 +1,0 @@
-Eppler E851(E851,)
-Epaisseur| 0.0903 
-Leading edge radius| 0.0032
-Cambrure| 0.0235 
-Trailing edge angle|[deg] 6.1365
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Propeller]
-Commentaires| Eppler E851 propeller airfoil

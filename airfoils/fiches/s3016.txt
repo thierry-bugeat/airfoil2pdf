@@ -1,9 +1,0 @@
-Selig S3016(S3016,)
-Epaisseur| 0.0952 
-Leading edge radius| 0.0052
-Cambrure| 0.0209 
-Trailing edge angle|[deg] 4.3546
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig S3016 low Reynolds number airfoil

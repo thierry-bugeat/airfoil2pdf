@@ -1,9 +1,0 @@
-Eppler E551(E551,)
-Epaisseur| 0.1827 
-Leading edge radius| 0.0162
-Cambrure| 0.0280 
-Trailing edge angle|[deg] 8.9383
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E551 general aviation airfoil

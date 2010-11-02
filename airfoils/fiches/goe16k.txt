@@ -1,9 +1,0 @@
-Gottingen 16K(GOE16K,)
-Epaisseur| 0.1815 
-Leading edge radius| 0.0816
-Cambrure| 0.0409 
-Trailing edge angle|[deg] 68.8022
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 16K airfoil

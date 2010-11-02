@@ -1,9 +1,0 @@
-Eppler E542(E542,)
-Epaisseur| 0.1688 
-Leading edge radius| 0.0042
-Cambrure| 0.0193 
-Trailing edge angle|[deg] 10.1645
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E542 general aviation airfoil

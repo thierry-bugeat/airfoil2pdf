@@ -1,9 +1,0 @@
-Gottingen 610 B(GOE610B,)
-Epaisseur| 0.0780 
-Leading edge radius| 0.0464
-Cambrure| 0.0530 
-Trailing edge angle|[deg] 14.5305
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 610 B airfoil

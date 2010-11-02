@@ -1,9 +1,0 @@
-Eppler E169(E169,)
-Epaisseur| 0.1440 
-Leading edge radius| 0.0093
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 5.9703
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E169 low Reynolds number airfoil

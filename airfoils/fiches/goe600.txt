@@ -1,9 +1,0 @@
-Gottingen 600(GOE600,)
-Epaisseur| 0.1311 
-Leading edge radius| 0.0518
-Cambrure| 0.0188 
-Trailing edge angle|[deg] 14.5649
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 600 airfoil

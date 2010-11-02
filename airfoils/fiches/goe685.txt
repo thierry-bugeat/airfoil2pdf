@@ -1,9 +1,0 @@
-Gottingen 685(GOE685,)
-Epaisseur| 0.1312 
-Leading edge radius| 0.0508
-Cambrure| 0.0420 
-Trailing edge angle|[deg] 11.7401
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 685 airfoil

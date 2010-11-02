@@ -1,9 +1,0 @@
-Gottingen 217(GOE217,)
-Epaisseur| 0.1903 
-Leading edge radius| 0.0499
-Cambrure| 0.0633 
-Trailing edge angle|[deg] 10.3650
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 217 (MVA MK.12) airfoil

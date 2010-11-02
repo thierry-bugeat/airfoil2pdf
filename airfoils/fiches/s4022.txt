@@ -1,9 +1,0 @@
-Selig S4022(S4022,)
-Epaisseur| 0.1127 
-Leading edge radius| 0.0051
-Cambrure| 0.0434 
-Trailing edge angle|[deg] 7.5400
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig S4022 low Reynolds number airfoil

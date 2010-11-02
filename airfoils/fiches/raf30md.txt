@@ -1,9 +1,0 @@
-RAF-30 MOD(RAF30MD,)
-Epaisseur| 0.0760 
-Leading edge radius| 0.0411
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 9.3795
-Développeur|
-Groupe de développement| RAF
-Categorie| [Subnsonic]
-Commentaires| RAF-30 MOD airfoil

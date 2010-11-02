@@ -1,9 +1,0 @@
-Eppler E209(E209,)
-Epaisseur| 0.1369 
-Leading edge radius| 0.0074
-Cambrure| 0.0199 
-Trailing edge angle|[deg] 6.8413
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E209 low Reynolds number airfoil

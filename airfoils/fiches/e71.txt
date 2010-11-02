@@ -1,9 +1,0 @@
-Eppler E71(E71,)
-Epaisseur| 0.0516 
-Leading edge radius| 0.0029
-Cambrure| 0.0461 
-Trailing edge angle|[deg] 1.5470
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E71 low Reynolds number airfoil

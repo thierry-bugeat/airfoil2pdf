@@ -1,9 +1,0 @@
-Boeing-Vertol/Dadone VR-15(VR15,)
-Epaisseur| 0.0796 
-Leading edge radius| 0.0064
-Cambrure| 0.0129 
-Trailing edge angle|[deg] 11.1844
-Développeur|
-Groupe de développement| Boeing Inc.
-Categorie| [Transonic] [Rotorcraft]
-Commentaires| Boeing-Vertol/Dadone VR-15 transonic rotorcraft airfoil

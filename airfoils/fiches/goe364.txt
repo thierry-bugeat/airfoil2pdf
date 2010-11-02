@@ -1,9 +1,0 @@
-Gottingen 364(GOE364,)
-Epaisseur| 0.1080 
-Leading edge radius| 0.0325
-Cambrure| 0.0651 
-Trailing edge angle|[deg] 14.9201
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 364 airfoil

@@ -1,9 +1,0 @@
-Gottingen 380(GOE380,)
-Epaisseur| 0.0655 
-Leading edge radius| 0.0600
-Cambrure| 0.0560 
-Trailing edge angle|[deg] 12.1699
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 380 airfoil

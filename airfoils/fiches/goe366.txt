@@ -1,9 +1,0 @@
-Gottingen 366(GOE366,)
-Epaisseur| 0.1315 
-Leading edge radius| 0.0555
-Cambrure| 0.0725 
-Trailing edge angle|[deg] 18.4382
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 366 airfoil

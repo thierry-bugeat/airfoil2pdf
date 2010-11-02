@@ -1,9 +1,0 @@
-Rutan AMSOIL racer wing(AMSOIL2,)
-Epaisseur| 0.1176 
-Leading edge radius| 0.0282
-Cambrure| 0.0097 
-Trailing edge angle|[deg] 9.5858
-Développeur| 4
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| Rutan AMSOIL racer wing airfoil

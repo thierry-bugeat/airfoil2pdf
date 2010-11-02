@@ -1,9 +1,0 @@
-Gottingen 741(GOE741,)
-Epaisseur| 0.1533 
-Leading edge radius| 0.0509
-Cambrure| 0.0482 
-Trailing edge angle|[deg] 11.4823
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 741 airfoil

@@ -1,9 +1,0 @@
-Gottingen 330(GOE330,)
-Epaisseur| 0.1020 
-Leading edge radius| 0.0354
-Cambrure| 0.0576 
-Trailing edge angle|[deg] 15.6478
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 330 (Pfalz 59) airfoil

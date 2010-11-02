@@ -1,9 +1,0 @@
-Gottingen 650(GOE650,)
-Epaisseur| 0.1345 
-Leading edge radius| 0.0519
-Cambrure| 0.0442 
-Trailing edge angle|[deg] 18.2147
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 650 airfoil

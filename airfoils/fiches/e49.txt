@@ -1,9 +1,0 @@
-Eppler E49(E49,)
-Epaisseur| 0.0723 
-Leading edge radius| 0.0106
-Cambrure| 0.0677 
-Trailing edge angle|[deg] 7.5231
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E49 low Reynolds number airfoil

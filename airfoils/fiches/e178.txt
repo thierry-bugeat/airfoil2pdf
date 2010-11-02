@@ -1,9 +1,0 @@
-Eppler E178(E178,)
-Epaisseur| 0.0869 
-Leading edge radius| 0.0037
-Cambrure| 0.0278 
-Trailing edge angle|[deg] 3.1972
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E178 low Reynolds number airfoil

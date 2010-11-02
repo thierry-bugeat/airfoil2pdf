@@ -1,9 +1,0 @@
-Gottingen 13K(GOE13K,)
-Epaisseur| 0.1480 
-Leading edge radius| 0.0760
-Cambrure| 0.0545 
-Trailing edge angle|[deg] 48.9029
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 13K airfoil

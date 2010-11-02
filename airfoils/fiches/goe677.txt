@@ -1,9 +1,0 @@
-Gottingen 677(GOE677,)
-Epaisseur| 0.1195 
-Leading edge radius| 0.0453
-Cambrure| 0.0222 
-Trailing edge angle|[deg] 17.7162
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 677 (= M 6) airfoil

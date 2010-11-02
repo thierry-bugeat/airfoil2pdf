@@ -1,9 +1,0 @@
-Eppler E818(E818,)
-Epaisseur| 0.0937 
-Leading edge radius| 0.0027
-Cambrure| 0.0280 
-Trailing edge angle|[deg] 3.4665
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Hydrofoil]
-Commentaires| Eppler E818 hydrofoil

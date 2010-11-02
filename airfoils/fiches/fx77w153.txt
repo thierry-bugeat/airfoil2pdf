@@ -1,8 +1,0 @@
-Wortmann FX 77-W-153(FX77W153,)
-Epaisseur| 0.1525 
-Leading edge radius| 0.0384
-Cambrure| 0.0448 
-Trailing edge angle|[deg] 9.5858
-Développeur|
-Groupe de développement| Wortmann group
-Commentaires| Wortmann FX 77-W-153 wind turbine airfoil

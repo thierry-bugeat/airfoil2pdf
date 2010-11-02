@@ -1,9 +1,0 @@
-Eppler E176(E176,)
-Epaisseur| 0.0883 
-Leading edge radius| 0.0055
-Cambrure| 0.0328 
-Trailing edge angle|[deg] 3.1972
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E176 low Reynolds number airfoil

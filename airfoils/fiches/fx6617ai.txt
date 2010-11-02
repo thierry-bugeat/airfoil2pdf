@@ -1,9 +1,0 @@
-Wortmann FX 66-17AII-182(NASA)(FX6617AI,)
-Epaisseur| 0.1885 
-Leading edge radius| 0.0146
-Cambrure| 0.0366 
-Trailing edge angle|[deg] 19.6700
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX 66-17AII-182 airfoil (as tested at NASA)

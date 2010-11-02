@@ -1,9 +1,0 @@
-Gottingen 744(GOE744,)
-Epaisseur| 0.1448 
-Leading edge radius| 0.0481
-Cambrure| 0.0702 
-Trailing edge angle|[deg] 9.6259
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 744 airfoil

@@ -1,9 +1,0 @@
-Gottingen 673(GOE673,)
-Epaisseur| 0.1081 
-Leading edge radius| 0.0494
-Cambrure| 0.0276 
-Trailing edge angle|[deg] 12.3303
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 673 airfoil

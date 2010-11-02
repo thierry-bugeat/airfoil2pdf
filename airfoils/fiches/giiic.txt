@@ -1,9 +1,0 @@
-Grumman/Gulfstream GIII-c(GIIIC,)
-Epaisseur| 0.0993 
-Leading edge radius| 0.0202
-Cambrure| 0.0092 
-Trailing edge angle|[deg] 13.3043
-Développeur|
-Groupe de développement| Grumman Inc.
-Categorie| [Transonic]
-Commentaires| continued

@@ -1,9 +1,0 @@
-NACA 6412(NACA6412,)
-Epaisseur| 0.4238 
-Leading edge radius| 0.0173
-Cambrure| 0.2125 
-Trailing edge angle|[deg] 114.5824
-Développeur|
-Groupe de développement| NACA
-Categorie| [Subnsonic]
-Commentaires| NACA 6412

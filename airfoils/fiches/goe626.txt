@@ -1,9 +1,0 @@
-Gottingen 626(GOE626,)
-Epaisseur| 0.1666 
-Leading edge radius| 0.0562
-Cambrure| 0.0508 
-Trailing edge angle|[deg] 13.4247
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 626 airfoil

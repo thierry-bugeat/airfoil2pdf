@@ -1,9 +1,0 @@
-Eppler E395(E395,)
-Epaisseur| 0.1229 
-Leading edge radius| 0.0051
-Cambrure| 0.0525 
-Trailing edge angle|[deg] 4.8129
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed] [Human-Powered Aircraft]
-Commentaires| Eppler E395 human powered aircraft airfoil

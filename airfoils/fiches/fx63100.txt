@@ -1,9 +1,0 @@
-Wortmann FX 63-100(FX63100,)
-Epaisseur| 0.0993 
-Leading edge radius| 0.0350
-Cambrure| 0.0434 
-Trailing edge angle|[deg] 3.1341
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX 63-100 airfoil

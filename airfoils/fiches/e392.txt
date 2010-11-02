@@ -1,9 +1,0 @@
-Eppler E392(E392,)
-Epaisseur| 0.1015 
-Leading edge radius| 0.0079
-Cambrure| 0.0385 
-Trailing edge angle|[deg] 3.3862
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E392 low Reynolds number airfoil

@@ -1,9 +1,0 @@
-Gottingen 561(GOE561,)
-Epaisseur| 0.2496 
-Leading edge radius| 0.0540
-Cambrure| 0.1025 
-Trailing edge angle|[deg] 53.1486
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 561 airfoil

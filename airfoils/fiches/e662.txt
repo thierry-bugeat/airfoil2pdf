@@ -1,9 +1,0 @@
-Eppler E662(E662,)
-Epaisseur| 0.1502 
-Leading edge radius| 0.0076
-Cambrure| 0.0408 
-Trailing edge angle|[deg] 5.9761
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Sailplane]
-Commentaires| Eppler E662 sailplane airfoil

@@ -1,9 +1,0 @@
-Gottingen 289(GOE289,)
-Epaisseur| 0.1680 
-Leading edge radius| 0.0482
-Cambrure| 0.0612 
-Trailing edge angle|[deg] 21.9218
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 289 (MVA 289) airfoil

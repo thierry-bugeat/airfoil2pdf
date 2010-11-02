@@ -1,9 +1,0 @@
-NACA 64(2)-015(NACA64015,)
-Epaisseur| 0.1496 
-Leading edge radius| 0.0279
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 4.6239
-Développeur|
-Groupe de développement| NACA
-Categorie| [Subnsonic] [Symmetric]
-Commentaires| NACA 64(2)-015 airfoil

@@ -1,9 +1,0 @@
-Gottingen 332(GOE332,)
-Epaisseur| 0.1179 
-Leading edge radius| 0.0400
-Cambrure| 0.0637 
-Trailing edge angle|[deg] 18.9080
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 332 (Pfalz 61) airfoil

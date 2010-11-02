@@ -1,9 +1,0 @@
-Quabeck HQ 0/9(HQ09,)
-Epaisseur| 0.0811 
-Leading edge radius| 0.0105
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 4.9791
-Développeur|
-Groupe de développement| Quabeck(Helmut Quabeck)
-Categorie| [Low Speed] [Modelplane]
-Commentaires| Quabeck HQ 0/9 R/C sailplane airfoil

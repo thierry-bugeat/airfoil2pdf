@@ -1,9 +1,0 @@
-Selig S3014(S3014,)
-Epaisseur| 0.0946 
-Leading edge radius| 0.0054
-Cambrure| 0.0254 
-Trailing edge angle|[deg] 4.7843
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig S3014 low Reynolds number airfoil

@@ -1,9 +1,0 @@
-Gottingen 780(GOE780,)
-Epaisseur| 0.1200 
-Leading edge radius| 0.0461
-Cambrure| 0.0100 
-Trailing edge angle|[deg] 23.7725
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 780 airfoil

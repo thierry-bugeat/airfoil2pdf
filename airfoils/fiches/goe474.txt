@@ -1,9 +1,0 @@
-Gottingen 474(GOE474,)
-Epaisseur| 0.0695 
-Leading edge radius| 0.0398
-Cambrure| 0.0291 
-Trailing edge angle|[deg] 11.9751
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 474 airfoil

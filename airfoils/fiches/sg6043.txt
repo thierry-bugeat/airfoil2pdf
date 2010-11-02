@@ -1,8 +1,0 @@
-SG6043(SG6043,)
-Epaisseur| 0.1002 
-Leading edge radius| 0.0153
-Cambrure| 0.0555 
-Trailing edge angle|[deg] 5.2531
-Développeur|
-Groupe de développement|
-Commentaires|

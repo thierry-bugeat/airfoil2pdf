@@ -1,9 +1,0 @@
-NASA SC(2)-0714(NASASC2-0714,)
-Epaisseur| 0.1394 
-Leading edge radius| 0.0174
-Cambrure| 0.0254 
-Trailing edge angle|[deg] 4.7786
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| NASA SC(2)-0714 (Ref. NASA TP-2890)

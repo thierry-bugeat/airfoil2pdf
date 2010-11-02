@@ -1,9 +1,0 @@
-Selig S3002(S3002,)
-Epaisseur| 0.0995 
-Leading edge radius| 0.0108
-Cambrure| 0.0301 
-Trailing edge angle|[deg] 2.3033
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig S3002 low Reynolds number airfoil

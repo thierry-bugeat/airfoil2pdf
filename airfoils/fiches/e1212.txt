@@ -1,9 +1,0 @@
-Eppler E1212(E1212,)
-Epaisseur| 0.1773 
-Leading edge radius| 0.0257
-Cambrure| 0.0321 
-Trailing edge angle|[deg] 7.1850
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E1212 general aviation airfoil

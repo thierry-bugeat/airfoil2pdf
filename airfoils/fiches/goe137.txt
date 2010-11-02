@@ -1,9 +1,0 @@
-Gottingen 137(GOE137,)
-Epaisseur| 0.0859 
-Leading edge radius| 0.0351
-Cambrure| 0.0442 
-Trailing edge angle|[deg] 9.5800
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 137 (MVA H.15) airfoil

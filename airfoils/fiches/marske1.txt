@@ -1,9 +1,0 @@
-Marske XM-1D(MARSKE1,)
-Epaisseur| 0.1400 
-Leading edge radius| 0.0440
-Cambrure| 0.0303 
-Trailing edge angle|[deg] 12.2673
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| Marske XM-1D airfoil (F14-3.0)

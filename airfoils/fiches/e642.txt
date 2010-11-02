@@ -1,9 +1,0 @@
-Eppler E642(E642,)
-Epaisseur| 0.1508 
-Leading edge radius| 0.0164
-Cambrure| 0.0303 
-Trailing edge angle|[deg] 5.3172
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Sailplane]
-Commentaires| Eppler E642 sailplane airfoil

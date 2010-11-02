@@ -1,9 +1,0 @@
-Gottingen 301(GOE301,)
-Epaisseur| 0.0993 
-Leading edge radius| 0.0350
-Cambrure| 0.0649 
-Trailing edge angle|[deg] 17.3323
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 301 (Friedrichshafen G 13) airfoil

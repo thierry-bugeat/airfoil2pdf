@@ -1,9 +1,0 @@
-Martin Hepperle MH42(MH42,)
-Epaisseur| 0.0894 
-Leading edge radius| 0.0057
-Cambrure| 0.0187 
-Trailing edge angle|[deg] 5.0937
-Développeur|
-Groupe de développement| Martin Hepperle
-Categorie| [Low Speed]
-Commentaires| Martin Hepperle MH 42 low Reynolds number airfoil

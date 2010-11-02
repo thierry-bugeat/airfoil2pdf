@@ -1,9 +1,0 @@
-Gottingen 318(GOE318,)
-Epaisseur| 0.0913 
-Leading edge radius| 0.0358
-Cambrure| 0.0432 
-Trailing edge angle|[deg] 6.1995
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 318 (Hansa-Brandenburg VI.5) airfoil

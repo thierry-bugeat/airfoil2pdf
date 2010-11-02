@@ -1,9 +1,0 @@
-Eppler E417(E417,)
-Epaisseur| 0.1421 
-Leading edge radius| 0.0149
-Cambrure| 0.0313 
-Trailing edge angle|[deg] 5.6495
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E417 general purpose airfoil

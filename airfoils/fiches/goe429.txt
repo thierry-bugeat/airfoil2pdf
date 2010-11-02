@@ -1,9 +1,0 @@
-Gottingen 429(GOE429,)
-Epaisseur| 0.1138 
-Leading edge radius| 0.0551
-Cambrure| 0.0019 
-Trailing edge angle|[deg] 4.6124
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 429 airfoil

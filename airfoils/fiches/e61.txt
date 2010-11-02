@@ -1,9 +1,0 @@
-Eppler E61(E61,)
-Epaisseur| 0.0567 
-Leading edge radius| 0.0032
-Cambrure| 0.0667 
-Trailing edge angle|[deg] 3.1628
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E61 low Reynolds number airfoil

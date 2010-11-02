@@ -1,9 +1,0 @@
-Boeing-Vertol/Dadone VR-14(VR14,)
-Epaisseur| 0.0796 
-Leading edge radius| 0.0052
-Cambrure| 0.0172 
-Trailing edge angle|[deg] 9.5972
-Développeur|
-Groupe de développement| Boeing Inc.
-Categorie| [Rotorcraft]
-Commentaires| Boeing-Vertol/Dadone VR-14 rotorcraft airfoil

@@ -1,9 +1,0 @@
-Selig/Donovan SD8040(SD8040,)
-Epaisseur| 0.1000 
-Leading edge radius| 0.0146
-Cambrure| 0.0264 
-Trailing edge angle|[deg] 3.5180
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig/Donovan SD8040 low Reynolds number airfoil

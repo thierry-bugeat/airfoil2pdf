@@ -1,9 +1,0 @@
-Marske Pioneer IID tip(MARSKE4,)
-Epaisseur| 0.1019 
-Leading edge radius| 0.0440
-Cambrure| 0.0282 
-Trailing edge angle|[deg] 13.8372
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| Marske Pioneer IID tip airfoil (NACA 43012A*.833 hybrid)

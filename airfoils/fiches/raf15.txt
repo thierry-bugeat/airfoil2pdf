@@ -1,9 +1,0 @@
-RAF-15(RAF15,)
-Epaisseur| 0.0649 
-Leading edge radius| 0.0392
-Cambrure| 0.0261 
-Trailing edge angle|[deg] 28.4365
-Développeur|
-Groupe de développement| RAF
-Categorie| [Subnsonic]
-Commentaires| RAF-15 airfoil

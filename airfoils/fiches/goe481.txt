@@ -1,9 +1,0 @@
-Gottingen 481(GOE481,)
-Epaisseur| 0.1362 
-Leading edge radius| 0.0650
-Cambrure| 0.0881 
-Trailing edge angle|[deg] 29.0495
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 481 airfoil

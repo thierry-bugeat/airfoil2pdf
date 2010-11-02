@@ -1,9 +1,0 @@
-Wortmann FX 62-K-153/20(FX62K153,)
-Epaisseur| 0.1527 
-Leading edge radius| 0.0120
-Cambrure| 0.0408 
-Trailing edge angle|[deg] 10.3707
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX 62-K-153/20 airfoil

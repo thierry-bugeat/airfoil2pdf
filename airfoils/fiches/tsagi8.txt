@@ -1,9 +1,0 @@
-TSAGI 8%(TSAGI8,)
-Epaisseur| 0.0795 
-Leading edge radius| 0.0430
-Cambrure| 0.0134 
-Trailing edge angle|[deg] 14.1867
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| TSAGI 8% airfoil

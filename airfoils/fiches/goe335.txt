@@ -1,9 +1,0 @@
-Gottingen 335(GOE335,)
-Epaisseur| 0.0685 
-Leading edge radius| 0.0334
-Cambrure| 0.0480 
-Trailing edge angle|[deg] 9.6431
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 335 (D.F.W.) airfoil

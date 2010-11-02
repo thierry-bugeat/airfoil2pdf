@@ -1,9 +1,0 @@
-Gottingen 675(GOE675,)
-Epaisseur| 0.1492 
-Leading edge radius| 0.0506
-Cambrure| 0.0588 
-Trailing edge angle|[deg] 18.3236
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 675 airfoil

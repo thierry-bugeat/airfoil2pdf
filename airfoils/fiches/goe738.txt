@@ -1,9 +1,0 @@
-Gottingen 738(GOE738,)
-Epaisseur| 0.1544 
-Leading edge radius| 0.0549
-Cambrure| 0.0213 
-Trailing edge angle|[deg] 12.6741
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 738 airfoil

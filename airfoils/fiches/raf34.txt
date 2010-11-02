@@ -1,9 +1,0 @@
-RAF-34(RAF34,)
-Epaisseur| 0.1264 
-Leading edge radius| 0.0442
-Cambrure| 0.0200 
-Trailing edge angle|[deg] 17.3323
-Développeur|
-Groupe de développement| RAF
-Categorie| [Subnsonic]
-Commentaires| RAF-34 airfoil

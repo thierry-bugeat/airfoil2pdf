@@ -1,9 +1,0 @@
-NACA/Munk M-2(M2,)
-Epaisseur| 0.0800 
-Leading edge radius| 0.0409
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 6.7267
-Développeur|
-Groupe de développement| NACA/Munk
-Categorie| [Subnsonic]
-Commentaires| NACA/Munk M-2 airfoil

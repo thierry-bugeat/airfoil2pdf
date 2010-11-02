@@ -1,9 +1,0 @@
-Selig S2091(S2091,)
-Epaisseur| 0.1011 
-Leading edge radius| 0.0109
-Cambrure| 0.0392 
-Trailing edge angle|[deg] 2.3434
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig S2091 low Reynolds number airfoil

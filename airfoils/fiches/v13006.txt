@@ -1,9 +1,0 @@
-Boeing-Vertol V13006-.7(V13006,)
-Epaisseur| 0.0598 
-Leading edge radius| 0.0114
-Cambrure| 0.0091 
-Trailing edge angle|[deg] 8.0158
-Développeur|
-Groupe de développement| Boeing Inc.
-Categorie| [Rotorcraft]
-Commentaires| Boeing-Vertol V13006-.7 rotorcraft airfoil

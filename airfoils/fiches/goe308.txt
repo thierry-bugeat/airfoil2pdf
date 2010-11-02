@@ -1,9 +1,0 @@
-Gottingen 308(GOE308,)
-Epaisseur| 0.0809 
-Leading edge radius| 0.0344
-Cambrure| 0.0504 
-Trailing edge angle|[deg] 17.8423
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 308 (MVA H.40) airfoil

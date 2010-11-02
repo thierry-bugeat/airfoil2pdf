@@ -1,9 +1,0 @@
-USA-34(USA34,)
-Epaisseur| 0.1804 
-Leading edge radius| 0.0497
-Cambrure| 0.0771 
-Trailing edge angle|[deg] 37.2258
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| USA-34 airfoil

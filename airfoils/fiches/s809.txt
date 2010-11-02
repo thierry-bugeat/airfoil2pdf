@@ -1,8 +1,0 @@
-NREL S-809 WIND TURBINE AIRFOIL(S809,)
-Epaisseur| 0.2099 
-Leading edge radius| 0.0123
-Cambrure| 0.0095 
-Trailing edge angle|[deg] 3.6800
-Développeur|
-Groupe de développement|
-Commentaires|

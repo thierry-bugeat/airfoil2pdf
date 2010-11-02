@@ -1,9 +1,0 @@
-Sikorsky DBLN-526(DBLN526,)
-Epaisseur| 0.2599 
-Leading edge radius| 0.0581
-Cambrure| 0.0399 
-Trailing edge angle|[deg] 160.3684
-Développeur|
-Groupe de développement| Sikorsky Inc.
-Categorie| [Rotorcraft]
-Commentaires| Sikorsky DBLN-526 double ended rotorcraft airfoil

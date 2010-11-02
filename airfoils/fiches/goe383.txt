@@ -1,9 +1,0 @@
-Gottingen 383(GOE383,)
-Epaisseur| 0.2023 
-Leading edge radius| 0.0607
-Cambrure| 0.0497 
-Trailing edge angle|[deg] 19.3778
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 383 airfoil

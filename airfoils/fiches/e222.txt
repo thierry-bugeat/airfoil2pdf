@@ -1,9 +1,0 @@
-Eppler E222(E222,)
-Epaisseur| 0.1017 
-Leading edge radius| 0.0065
-Cambrure| 0.0249 
-Trailing edge angle|[deg] 5.5922
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E222 low Reynolds number airfoil

@@ -1,9 +1,0 @@
-Gottingen 703(GOE703,)
-Epaisseur| 0.1940 
-Leading edge radius| 0.0623
-Cambrure| 0.0230 
-Trailing edge angle|[deg] 31.6394
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 703 airfoil

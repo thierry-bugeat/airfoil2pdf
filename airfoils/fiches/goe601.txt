@@ -1,9 +1,0 @@
-Gottingen 601(GOE601,)
-Epaisseur| 0.1607 
-Leading edge radius| 0.0561
-Cambrure| 0.0247 
-Trailing edge angle|[deg] 20.1914
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 601 airfoil

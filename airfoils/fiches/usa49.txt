@@ -1,9 +1,0 @@
-USA-49(USA49,)
-Epaisseur| 0.0725 
-Leading edge radius| 0.0546
-Cambrure| 0.0165 
-Trailing edge angle|[deg] 8.6232
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| USA-49 airfoil

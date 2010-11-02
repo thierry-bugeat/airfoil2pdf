@@ -1,9 +1,0 @@
-NACA/Munk M-17(M17,)
-Epaisseur| 0.0808 
-Leading edge radius| 0.0350
-Cambrure| 0.0411 
-Trailing edge angle|[deg] 11.2875
-Développeur|
-Groupe de développement| NACA/Munk
-Categorie| [Subnsonic]
-Commentaires| NACA/Munk M-17 airfoil

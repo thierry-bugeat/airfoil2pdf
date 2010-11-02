@@ -1,9 +1,0 @@
-Gottingen 401(GOE401,)
-Epaisseur| 0.0710 
-Leading edge radius| 0.0375
-Cambrure| 0.0486 
-Trailing edge angle|[deg] 16.3927
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 401 airfoil

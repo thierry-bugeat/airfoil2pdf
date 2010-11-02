@@ -1,9 +1,0 @@
-Gottingen 421(GOE421,)
-Epaisseur| 0.1902 
-Leading edge radius| 0.0517
-Cambrure| 0.0811 
-Trailing edge angle|[deg] 23.5548
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 421 airfoil

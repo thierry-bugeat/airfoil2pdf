@@ -1,9 +1,0 @@
-Gottingen 565(GOE565,)
-Epaisseur| 0.0840 
-Leading edge radius| 0.0416
-Cambrure| 0.0279 
-Trailing edge angle|[deg] 10.6572
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 565 airfoil

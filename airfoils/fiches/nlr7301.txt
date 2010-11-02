@@ -1,9 +1,0 @@
-NLR NLR-7301(NLR7301,)
-Epaisseur| 0.1652 
-Leading edge radius| 0.0472
-Cambrure| 0.0166 
-Trailing edge angle|[deg] 5.1739
-Développeur|
-Groupe de développement|
-Categorie| [Transonic]
-Commentaires| NLR NLR-7301 transonic airfoil

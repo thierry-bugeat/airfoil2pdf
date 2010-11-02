@@ -1,9 +1,0 @@
-Quabeck HQ 3.0/15(HQ3015,)
-Epaisseur| 0.1498 
-Leading edge radius| 0.0171
-Cambrure| 0.0299 
-Trailing edge angle|[deg] 10.1416
-Développeur|
-Groupe de développement| Quabeck(Helmut Quabeck)
-Categorie| [Low Speed] [Modelplane]
-Commentaires| Quabeck HQ 3.0/15 R/C sailplane airfoil

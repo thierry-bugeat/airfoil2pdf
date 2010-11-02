@@ -1,9 +1,0 @@
-Eppler E328(E328,)
-Epaisseur| 0.1335 
-Leading edge radius| 0.0131
-Cambrure| 0.0299 
-Trailing edge angle|[deg] 7.5918
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic] [Flying wing]
-Commentaires| Eppler E328 flying wing airfoil

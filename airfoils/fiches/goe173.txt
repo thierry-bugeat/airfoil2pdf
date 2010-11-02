@@ -1,9 +1,0 @@
-Gottingen 173(GOE173,)
-Epaisseur| 0.0776 
-Leading edge radius| 0.0314
-Cambrure| 0.0591 
-Trailing edge angle|[deg] 10.8520
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 173 (Albatros 6020) airfoil

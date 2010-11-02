@@ -1,8 +1,0 @@
-Eppler E863(E863,)
-Epaisseur| 0.3573 
-Leading edge radius| 0.0927
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 30.4018
-Développeur|
-Groupe de développement| Eppler group
-Commentaires| Eppler E863 strut airfoil

@@ -1,9 +1,0 @@
-Boeing 103(BOE103,)
-Epaisseur| 0.1272 
-Leading edge radius| 0.0399
-Cambrure| 0.0357 
-Trailing edge angle|[deg] 19.3205
-Développeur| 2
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| Boeing 103 airfoil

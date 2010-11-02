@@ -1,9 +1,0 @@
-Gottingen 81(GOE81,)
-Epaisseur| 0.0743 
-Leading edge radius| 0.0360
-Cambrure| 0.0630 
-Trailing edge angle|[deg] 12.3360
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 81 airfoil

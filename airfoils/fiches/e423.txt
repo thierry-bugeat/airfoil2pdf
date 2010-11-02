@@ -1,9 +1,0 @@
-Eppler E423(E423,)
-Epaisseur| 0.1252 
-Leading edge radius| 0.0265
-Cambrure| 0.0992 
-Trailing edge angle|[deg] 7.5231
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E423 high lift airfoil

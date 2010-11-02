@@ -1,9 +1,0 @@
-LRN1007(LRN1007,)
-Epaisseur| 0.0727 
-Leading edge radius| 0.0006
-Cambrure| 0.0588 
-Trailing edge angle|[deg] 6.2400
-Développeur|
-Groupe de développement| NASA/AMES
-Categorie| [Subnsonic]
-Commentaires|

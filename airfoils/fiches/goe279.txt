@@ -1,9 +1,0 @@
-Gottingen 279(GOE279,)
-Epaisseur| 0.0743 
-Leading edge radius| 0.0326
-Cambrure| 0.0473 
-Trailing edge angle|[deg] 10.6630
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 279 (DAIMLER X) airfoil

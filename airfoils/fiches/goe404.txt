@@ -1,9 +1,0 @@
-Gottingen 404(GOE404,)
-Epaisseur| 0.1319 
-Leading edge radius| 0.0511
-Cambrure| 0.0497 
-Trailing edge angle|[deg] 15.1608
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 404 airfoil

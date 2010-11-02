@@ -1,9 +1,0 @@
-NACA/Munk M-22(M22,)
-Epaisseur| 0.0625 
-Leading edge radius| 0.0314
-Cambrure| 0.0630 
-Trailing edge angle|[deg] 7.3283
-Développeur|
-Groupe de développement| NACA/Munk
-Categorie| [Subnsonic]
-Commentaires| NACA/Munk M-22 airfoil

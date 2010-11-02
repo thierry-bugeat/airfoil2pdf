@@ -1,9 +1,0 @@
-Narramore JN153(JN153,)
-Epaisseur| 0.1757 
-Leading edge radius| 0.0307
-Cambrure| 0.0835 
-Trailing edge angle|[deg] 3.0425
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| Narramore JN153 airfoil

@@ -1,9 +1,0 @@
-Eppler E403(E403,)
-Epaisseur| 0.1497 
-Leading edge radius| 0.0157
-Cambrure| 0.0325 
-Trailing edge angle|[deg] 2.5440
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E403 general purpose airfoil

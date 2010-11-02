@@ -1,9 +1,0 @@
-Gottingen 413(GOE413,)
-Epaisseur| 0.1635 
-Leading edge radius| 0.0597
-Cambrure| 0.0462 
-Trailing edge angle|[deg] 7.6721
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 413 airfoil

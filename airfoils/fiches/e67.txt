@@ -1,9 +1,0 @@
-Eppler E67(E67,)
-Epaisseur| 0.1163 
-Leading edge radius| 0.0096
-Cambrure| 0.0365 
-Trailing edge angle|[deg] 6.9845
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E67 low Reynolds number airfoil

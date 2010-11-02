@@ -1,9 +1,0 @@
-Eppler E341(E341,)
-Epaisseur| 0.0000 
-Leading edge radius| 0.0000
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 0.0000
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic] [Flying wing]
-Commentaires| Eppler E341 flying wing airfoil

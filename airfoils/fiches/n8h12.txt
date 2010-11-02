@@ -1,9 +1,0 @@
-NACA 8-H-12(NACA8H12,)
-Epaisseur| 0.1198 
-Leading edge radius| 0.0327
-Cambrure| 0.0354 
-Trailing edge angle|[deg] 9.8379
-Développeur|
-Groupe de développement| NACA
-Categorie| [Subnsonic] [Rotorcraft]
-Commentaires| NACA 8-H-12 rotorcraft airfoil

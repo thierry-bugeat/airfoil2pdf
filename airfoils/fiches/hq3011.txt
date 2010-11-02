@@ -1,9 +1,0 @@
-Quabeck HQ 3.0/11(HQ3011,)
-Epaisseur| 0.1098 
-Leading edge radius| 0.0115
-Cambrure| 0.0299 
-Trailing edge angle|[deg] 7.5174
-Développeur|
-Groupe de développement| Quabeck(Helmut Quabeck)
-Categorie| [Low Speed] [Modelplane]
-Commentaires| Quabeck HQ 3.0/11 R/C sailplane airfoil

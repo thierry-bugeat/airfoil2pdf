@@ -1,9 +1,0 @@
-AVISTAR(AVISTAR,)
-Epaisseur| 0.1452 
-Leading edge radius| 0.0283
-Cambrure| 0.0228 
-Trailing edge angle|[deg] 41.5985
-Développeur|
-Groupe de développement|
-Categorie| [Modelplane]
-Commentaires|

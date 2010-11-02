@@ -1,9 +1,0 @@
-Gottingen 124(GOE124,)
-Epaisseur| 0.0792 
-Leading edge radius| 0.0359
-Cambrure| 0.0556 
-Trailing edge angle|[deg] 4.3202
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 124 (MVA H.4) airfoil

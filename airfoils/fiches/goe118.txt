@@ -1,9 +1,0 @@
-Gottingen 118(GOE118,)
-Epaisseur| 0.0864 
-Leading edge radius| 0.0517
-Cambrure| 0.0573 
-Trailing edge angle|[deg] 10.5369
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 118 (MVA MK.7) airfoil

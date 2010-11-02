@@ -1,9 +1,0 @@
-Gottingen 226(GOE226,)
-Epaisseur| 0.1392 
-Leading edge radius| 0.0448
-Cambrure| 0.0808 
-Trailing edge angle|[deg] 8.5544
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 226 (MVA H.36) airfoil

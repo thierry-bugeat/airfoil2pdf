@@ -1,9 +1,0 @@
-Eppler E58(E58,)
-Epaisseur| 0.0560 
-Leading edge radius| 0.0352
-Cambrure| 0.0645 
-Trailing edge angle|[deg] 3.7014
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E58 low Reynolds number airfoil

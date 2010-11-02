@@ -1,9 +1,0 @@
-CLARK W(CLARKW,)
-Epaisseur| 0.1122 
-Leading edge radius| 0.0432
-Cambrure| 0.0374 
-Trailing edge angle|[deg] 17.9053
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| CLARK W airfoil

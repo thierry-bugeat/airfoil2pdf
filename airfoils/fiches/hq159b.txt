@@ -1,9 +1,0 @@
-Quabeck HQ 1.5/9(HQ159B,)
-Epaisseur| 0.0895 
-Leading edge radius| 0.0231
-Cambrure| 0.0150 
-Trailing edge angle|[deg] 6.2282
-Développeur|
-Groupe de développement| Quabeck(Helmut Quabeck)
-Categorie| [Low Speed] [Modelplane]
-Commentaires| Quabeck HQ 1.5/9 B R/C sailplane airfoil

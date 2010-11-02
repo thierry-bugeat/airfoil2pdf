@@ -1,9 +1,0 @@
-RAF-33(RAF33,)
-Epaisseur| 0.1264 
-Leading edge radius| 0.0411
-Cambrure| 0.0469 
-Trailing edge angle|[deg] 20.0253
-Développeur|
-Groupe de développement| RAF
-Categorie| [Subnsonic]
-Commentaires| RAF-33 airfoil

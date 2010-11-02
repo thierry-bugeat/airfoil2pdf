@@ -1,9 +1,0 @@
-Selig S2060(S2060,)
-Epaisseur| 0.0800 
-Leading edge radius| 0.0058
-Cambrure| 0.0183 
-Trailing edge angle|[deg] 3.7701
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig S2060 low Reynolds number airfoil

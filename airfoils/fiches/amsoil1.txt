@@ -1,9 +1,0 @@
-Rutan AMSOIL racer canard(AMSOIL1,)
-Epaisseur| 0.1162 
-Leading edge radius| 0.0246
-Cambrure| 0.0208 
-Trailing edge angle|[deg] 9.3394
-Développeur| 4
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| Rutan AMSOIL racer canard airfoil

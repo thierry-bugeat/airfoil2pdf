@@ -1,9 +1,0 @@
-Gottingen 801(GOE801,)
-Epaisseur| 0.0980 
-Leading edge radius| 0.0380
-Cambrure| 0.0610 
-Trailing edge angle|[deg] 11.6485
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 801 (MVA 301) airfoil

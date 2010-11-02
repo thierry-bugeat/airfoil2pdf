@@ -1,8 +1,0 @@
-RG 14 9.5%(RG1495,)
-Epaisseur| 0.0950 
-Leading edge radius| 0.0219
-Cambrure| 0.0158 
-Trailing edge angle|[deg] 6.1193
-Développeur|
-Groupe de développement|
-Commentaires| RG 14 9.5% airfoil

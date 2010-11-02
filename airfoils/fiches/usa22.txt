@@ -1,9 +1,0 @@
-USA-22(USA22,)
-Epaisseur| 0.0911 
-Leading edge radius| 0.0411
-Cambrure| 0.0443 
-Trailing edge angle|[deg] 11.0984
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| USA-22 airfoil

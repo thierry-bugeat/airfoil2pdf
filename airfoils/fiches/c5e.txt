@@ -1,9 +1,0 @@
-Lockheed-Georgia C-5A-e(C5E,)
-Epaisseur| 0.1078 
-Leading edge radius| 0.0368
-Cambrure| 0.0143 
-Trailing edge angle|[deg] 10.4452
-Développeur|
-Groupe de développement| Lockheed Inc.
-Categorie| [Transonic]
-Commentaires| continued

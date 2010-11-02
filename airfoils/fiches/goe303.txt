@@ -1,9 +1,0 @@
-Gottingen 303(GOE303,)
-Epaisseur| 0.0984 
-Leading edge radius| 0.0357
-Cambrure| 0.0588 
-Trailing edge angle|[deg] 17.0745
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 303 (Friedrichshafen G03) airfoil

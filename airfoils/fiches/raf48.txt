@@ -1,9 +1,0 @@
-RAF-48(RAF48,)
-Epaisseur| 0.1496 
-Leading edge radius| 0.0493
-Cambrure| 0.0294 
-Trailing edge angle|[deg] 21.2400
-Développeur|
-Groupe de développement| RAF
-Categorie| [Subnsonic]
-Commentaires| RAF-48 airfoil

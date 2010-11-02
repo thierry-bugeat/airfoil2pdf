@@ -1,9 +1,0 @@
-Eppler E433(E433,)
-Epaisseur| 0.1422 
-Leading edge radius| 0.0096
-Cambrure| 0.0394 
-Trailing edge angle|[deg] 6.4803
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Sailplane]
-Commentaires| Eppler E433 sailplane airfoil

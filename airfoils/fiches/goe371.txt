@@ -1,9 +1,0 @@
-Gottingen 371(GOE371,)
-Epaisseur| 0.0695 
-Leading edge radius| 0.0324
-Cambrure| 0.0461 
-Trailing edge angle|[deg] 10.5369
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 371 airfoil

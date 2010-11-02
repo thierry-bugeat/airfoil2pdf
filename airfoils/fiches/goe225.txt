@@ -1,9 +1,0 @@
-Gottingen 225(GOE225,)
-Epaisseur| 0.1285 
-Leading edge radius| 0.0425
-Cambrure| 0.0763 
-Trailing edge angle|[deg] 8.1075
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 225 (MVA H.35) airfoil

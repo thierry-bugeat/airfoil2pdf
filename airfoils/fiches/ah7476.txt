@@ -1,9 +1,0 @@
-Althaus AH 7-476(AH7476,)
-Epaisseur| 0.0590 
-Leading edge radius| 0.0329
-Cambrure| 0.0620 
-Trailing edge angle|[deg] 7.2080
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| Althaus AH 7-476 airfoil

@@ -1,9 +1,0 @@
-Wortmann FX 67-K-170/17(FX67K170,)
-Epaisseur| 0.1701 
-Leading edge radius| 0.0087
-Cambrure| 0.0507 
-Trailing edge angle|[deg] 16.7937
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX 67-K-170/17 airfoil

@@ -1,9 +1,0 @@
-Gottingen 14K(GOE14K,)
-Epaisseur| 0.1200 
-Leading edge radius| 0.0775
-Cambrure| 0.0270 
-Trailing edge angle|[deg] 48.1753
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 14K airfoil

@@ -1,8 +1,0 @@
-RG 15A-1.8/11.0(RG15A111,)
-Epaisseur| 0.1100 
-Leading edge radius| 0.0207
-Cambrure| 0.0180 
-Trailing edge angle|[deg] 6.5147
-Développeur|
-Groupe de développement|
-Commentaires| RG 15A-1.8/11.0 airfoil

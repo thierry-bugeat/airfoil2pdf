@@ -1,9 +1,0 @@
-Eppler E203(E203,)
-Epaisseur| 0.1365 
-Leading edge radius| 0.0073
-Cambrure| 0.0266 
-Trailing edge angle|[deg] 6.4631
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E203 low Reynolds number airfoil

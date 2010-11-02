@@ -1,9 +1,0 @@
-Eppler E329(E329,)
-Epaisseur| 0.1355 
-Leading edge radius| 0.0132
-Cambrure| 0.0350 
-Trailing edge angle|[deg] 12.9778
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic] [Flying wing]
-Commentaires| Eppler E329 flying wing airfoil

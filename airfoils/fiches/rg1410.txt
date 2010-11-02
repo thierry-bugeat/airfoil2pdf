@@ -1,8 +1,0 @@
-RG 14 10%(RG1410,)
-Epaisseur| 0.1000 
-Leading edge radius| 0.0228
-Cambrure| 0.0158 
-Trailing edge angle|[deg] 6.3714
-Développeur|
-Groupe de développement|
-Commentaires| RG 14 10% airfoil

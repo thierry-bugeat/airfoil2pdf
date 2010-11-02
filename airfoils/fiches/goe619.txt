@@ -1,9 +1,0 @@
-Gottingen 619(GOE619,)
-Epaisseur| 0.1380 
-Leading edge radius| 0.0499
-Cambrure| 0.0455 
-Trailing edge angle|[deg] 16.7823
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 619 airfoil

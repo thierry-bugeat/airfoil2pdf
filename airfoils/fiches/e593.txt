@@ -1,9 +1,0 @@
-Eppler E593(E593,)
-Epaisseur| 0.1130 
-Leading edge radius| 0.0107
-Cambrure| 0.0467 
-Trailing edge angle|[deg] 2.4752
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E593 airfoil

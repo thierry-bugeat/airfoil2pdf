@@ -1,9 +1,0 @@
-Eppler E1200(E1200,)
-Epaisseur| 0.1696 
-Leading edge radius| 0.0237
-Cambrure| 0.0344 
-Trailing edge angle|[deg] 5.7641
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E1200 general aviation airfoil

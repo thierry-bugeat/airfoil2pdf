@@ -1,9 +1,0 @@
-Gottingen 242(GOE242,)
-Epaisseur| 0.1619 
-Leading edge radius| 0.0375
-Cambrure| 0.0751 
-Trailing edge angle|[deg] 2.2976
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 242 (MVA PR.2) airfoil

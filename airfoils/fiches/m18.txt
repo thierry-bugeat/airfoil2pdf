@@ -1,9 +1,0 @@
-NACA/Munk M-18(M18,)
-Epaisseur| 0.1202 
-Leading edge radius| 0.0435
-Cambrure| 0.0411 
-Trailing edge angle|[deg] 17.3495
-Développeur|
-Groupe de développement| NACA/Munk
-Categorie| [Subnsonic]
-Commentaires| NACA/Munk M-18 airfoil

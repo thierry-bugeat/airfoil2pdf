@@ -1,9 +1,0 @@
-Eppler E472(E472,)
-Epaisseur| 0.1210 
-Leading edge radius| 0.0307
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 11.0182
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic] [Aerobatic]
-Commentaires| Eppler E472 aerobatic aircraft airfoil

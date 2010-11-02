@@ -1,9 +1,0 @@
-Quabeck HQ 2.0/10(HQ2010,)
-Epaisseur| 0.0997 
-Leading edge radius| 0.0120
-Cambrure| 0.0200 
-Trailing edge angle|[deg] 6.7668
-Développeur|
-Groupe de développement| Quabeck(Helmut Quabeck)
-Categorie| [Low Speed] [Modelplane]
-Commentaires| Quabeck HQ 2.0/10 R/C sailplane airfoil

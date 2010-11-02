@@ -1,9 +1,0 @@
-Quabeck HQ 3.5/12(HQ3512,)
-Epaisseur| 0.1196 
-Leading edge radius| 0.0116
-Cambrure| 0.0350 
-Trailing edge angle|[deg] 8.2164
-Développeur|
-Groupe de développement| Quabeck(Helmut Quabeck)
-Categorie| [Low Speed] [Modelplane]
-Commentaires| Quabeck HQ 3.5/12 R/C sailplane airfoil

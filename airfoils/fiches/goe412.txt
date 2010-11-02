@@ -1,9 +1,0 @@
-Gottingen 412(GOE412,)
-Epaisseur| 0.1314 
-Leading edge radius| 0.0436
-Cambrure| 0.0511 
-Trailing edge angle|[deg] 16.9599
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 412 airfoil

@@ -1,9 +1,0 @@
-Eppler E434(E434,)
-Epaisseur| 0.1336 
-Leading edge radius| 0.0096
-Cambrure| 0.0431 
-Trailing edge angle|[deg] 6.1995
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Sailplane]
-Commentaires| Eppler E434 sailplane airfoil

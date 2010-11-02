@@ -1,9 +1,0 @@
-Gottingen 9K(GOE09K,)
-Epaisseur| 0.0245 
-Leading edge radius| 0.1552
-Cambrure| 0.0091 
-Trailing edge angle|[deg] 9.0128
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 9K airfoil

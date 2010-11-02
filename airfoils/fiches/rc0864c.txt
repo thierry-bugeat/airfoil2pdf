@@ -1,9 +1,0 @@
-NASA/Langley 08-64C(RC0864C,)
-Epaisseur| 0.0800 
-Leading edge radius| 0.0163
-Cambrure| 0.0100 
-Trailing edge angle|[deg] 14.3586
-Développeur|
-Groupe de développement|
-Categorie| [Rotorcraft]
-Commentaires| NASA/Langley 08-64C rotorcraft airfoil

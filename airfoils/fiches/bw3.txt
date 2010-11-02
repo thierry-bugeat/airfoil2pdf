@@ -1,8 +1,0 @@
-BW-3(BW3,)
-Epaisseur| 0.0502 
-Leading edge radius| 0.0136
-Cambrure| 0.0565 
-Trailing edge angle|[deg] 78.8440
-Développeur| Bergey Windpower Inc.
-Groupe de développement|
-Commentaires|

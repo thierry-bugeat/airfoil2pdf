@@ -1,9 +1,0 @@
-Selig S1016(S1016,)
-Epaisseur| 0.1748 
-Leading edge radius| 0.0171
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 5.8099
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig S1016 HPV airfoil

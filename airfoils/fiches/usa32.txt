@@ -1,9 +1,0 @@
-USA-32(USA32,)
-Epaisseur| 0.1474 
-Leading edge radius| 0.0355
-Cambrure| 0.0934 
-Trailing edge angle|[deg] 34.2636
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| USA-32 airfoil

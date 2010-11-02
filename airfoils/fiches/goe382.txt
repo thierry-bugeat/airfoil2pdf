@@ -1,9 +1,0 @@
-Gottingen 382(GOE382,)
-Epaisseur| 0.2007 
-Leading edge radius| 0.0529
-Cambrure| 0.0603 
-Trailing edge angle|[deg] 19.6357
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 382 airfoil

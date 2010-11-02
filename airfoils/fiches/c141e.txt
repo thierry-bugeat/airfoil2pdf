@@ -1,9 +1,0 @@
-Lockheed-Georgia C-141-e(C141E,)
-Epaisseur| 0.1051 
-Leading edge radius| 0.0211
-Cambrure| 0.0180 
-Trailing edge angle|[deg] 18.3637
-Développeur|
-Groupe de développement| Lockheed Inc.
-Categorie| [Transonic]
-Commentaires| continued

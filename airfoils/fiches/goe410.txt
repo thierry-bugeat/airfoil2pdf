@@ -1,9 +1,0 @@
-Gottingen 410(GOE410,)
-Epaisseur| 0.1610 
-Leading edge radius| 0.0658
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 8.9383
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 410 airfoil

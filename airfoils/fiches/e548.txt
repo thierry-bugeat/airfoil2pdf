@@ -1,9 +1,0 @@
-Eppler E548(E548,)
-Epaisseur| 0.1742 
-Leading edge radius| 0.0067
-Cambrure| 0.0222 
-Trailing edge angle|[deg] 9.0586
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E548 general aviation airfoil

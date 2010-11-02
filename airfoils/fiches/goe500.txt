@@ -1,9 +1,0 @@
-Gottingen 500(GOE500,)
-Epaisseur| 0.1000 
-Leading edge radius| 0.0396
-Cambrure| 0.0600 
-Trailing edge angle|[deg] 8.1304
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 500 airfoil

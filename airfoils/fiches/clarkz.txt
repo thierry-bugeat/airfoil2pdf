@@ -1,9 +1,0 @@
-CLARK Z(CLARKZ,)
-Epaisseur| 0.1175 
-Leading edge radius| 0.0440
-Cambrure| 0.0404 
-Trailing edge angle|[deg] 15.7395
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| CLARK Z airfoil

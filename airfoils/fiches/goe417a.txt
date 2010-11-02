@@ -1,9 +1,0 @@
-Gottingen 417A(GOE417A,)
-Epaisseur| 0.0320 
-Leading edge radius| 0.0539
-Cambrure| 0.0590 
-Trailing edge angle|[deg] 21.7614
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 417A (GEW. PLATTE) airfoil

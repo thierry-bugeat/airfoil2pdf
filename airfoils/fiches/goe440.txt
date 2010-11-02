@@ -1,9 +1,0 @@
-Gottingen 440(GOE440,)
-Epaisseur| 0.1525 
-Leading edge radius| 0.0455
-Cambrure| 0.0970 
-Trailing edge angle|[deg] 5.9360
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 440 airfoil

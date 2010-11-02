@@ -1,9 +1,0 @@
-NACA/Munk M-5(M5,)
-Epaisseur| 0.0821 
-Leading edge radius| 0.0390
-Cambrure| 0.0207 
-Trailing edge angle|[deg] 8.9956
-Développeur|
-Groupe de développement| NACA/Munk
-Categorie| [Subnsonic]
-Commentaires| NACA/Munk M-5 airfoil

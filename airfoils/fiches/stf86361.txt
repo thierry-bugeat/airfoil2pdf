@@ -1,9 +1,0 @@
-Eppler STF 863-615(STF86361,)
-Epaisseur| 0.1468 
-Leading edge radius| 0.0164
-Cambrure| 0.0417 
-Trailing edge angle|[deg] 5.9532
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler STF 863-615 airfoil

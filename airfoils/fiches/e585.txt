@@ -1,9 +1,0 @@
-Eppler E585(E585,)
-Epaisseur| 0.1462 
-Leading edge radius| 0.0106
-Cambrure| 0.0422 
-Trailing edge angle|[deg] 6.0964
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Sailplane]
-Commentaires| Eppler E585 sailplane airfoil

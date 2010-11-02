@@ -1,9 +1,0 @@
-Quabeck HQ 1.5/10(HQ1510,)
-Epaisseur| 0.0996 
-Leading edge radius| 0.0128
-Cambrure| 0.0150 
-Trailing edge angle|[deg] 6.8355
-Développeur|
-Groupe de développement| Quabeck(Helmut Quabeck)
-Categorie| [Low Speed] [Modelplane]
-Commentaires| Quabeck HQ 1.5/10 R/C sailplane airfoil

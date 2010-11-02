@@ -1,9 +1,0 @@
-NLR NLR-7223-43(NL722343,)
-Epaisseur| 0.0861 
-Leading edge radius| 0.0073
-Cambrure| 0.0135 
-Trailing edge angle|[deg] 9.4139
-Développeur|
-Groupe de développement|
-Categorie| [Transonic] [Rotorcraft]
-Commentaires| NLR NLR-7223-43 transonic rotorcraft airfoil

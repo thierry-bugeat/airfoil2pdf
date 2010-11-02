@@ -1,9 +1,0 @@
-Boeing-Vertol VR-5(VR5,)
-Epaisseur| 0.1200 
-Leading edge radius| 0.0151
-Cambrure| 0.0340 
-Trailing edge angle|[deg] 2.8419
-Développeur|
-Groupe de développement| Boeing Inc.
-Categorie| [Rotorcraft]
-Commentaires| Boeing-Vertol VR-5 rotorcraft airfoil

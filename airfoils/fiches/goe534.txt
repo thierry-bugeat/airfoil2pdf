@@ -1,9 +1,0 @@
-Gottingen 534(GOE534,)
-Epaisseur| 0.1412 
-Leading edge radius| 0.0476
-Cambrure| 0.0522 
-Trailing edge angle|[deg] 13.3215
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 534 airfoil

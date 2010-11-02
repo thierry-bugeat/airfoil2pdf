@@ -1,9 +1,0 @@
-Gottingen 300(GOE300,)
-Epaisseur| 0.0843 
-Leading edge radius| 0.0662
-Cambrure| 0.0666 
-Trailing edge angle|[deg] 11.4307
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 300 (Friedrichshafen G20) airfoil

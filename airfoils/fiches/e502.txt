@@ -1,9 +1,0 @@
-Eppler E502(E502,)
-Epaisseur| 0.1567 
-Leading edge radius| 0.0032
-Cambrure| 0.0152 
-Trailing edge angle|[deg] 7.7122
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E502 general purpose airfoil

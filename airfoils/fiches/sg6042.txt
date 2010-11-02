@@ -1,8 +1,0 @@
-SG6042(SG6042,)
-Epaisseur| 0.1000 
-Leading edge radius| 0.0110
-Cambrure| 0.0378 
-Trailing edge angle|[deg] 5.5514
-Développeur|
-Groupe de développement|
-Commentaires|

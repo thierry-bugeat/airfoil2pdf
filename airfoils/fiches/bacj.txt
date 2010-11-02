@@ -1,9 +1,0 @@
-Boeing J(BACJ,)
-Epaisseur| 0.1007 
-Leading edge radius| 0.0310
-Cambrure| 0.0165 
-Trailing edge angle|[deg] 111.3108
-Développeur|
-Groupe de développement| Boeing Inc.
-Categorie| [Subnsonic]
-Commentaires| Boeing Commercial Airplane Company airfoil J

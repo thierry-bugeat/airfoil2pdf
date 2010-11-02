@@ -1,9 +1,0 @@
-Selig S4310(S4310,)
-Epaisseur| 0.1086 
-Leading edge radius| 0.0078
-Cambrure| 0.0416 
-Trailing edge angle|[deg] 3.4900
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig S4310 low Reynolds number airfoil

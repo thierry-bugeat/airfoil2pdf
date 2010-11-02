@@ -1,9 +1,0 @@
-NACA 23012(NACA23012,)
-Epaisseur| 0.1201 
-Leading edge radius| 0.0171
-Cambrure| 0.0146 
-Trailing edge angle|[deg] 15.7567
-Développeur|
-Groupe de développement| NACA
-Categorie| [Subnsonic]
-Commentaires| NACA 23012

@@ -1,9 +1,0 @@
-Gottingen 630(GOE630,)
-Epaisseur| 0.1256 
-Leading edge radius| 0.0381
-Cambrure| 0.0766 
-Trailing edge angle|[deg] 17.0287
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 630 airfoil

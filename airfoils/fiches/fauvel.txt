@@ -1,9 +1,0 @@
-Fauvel 14%(FAUVEL,)
-Epaisseur| 0.1399 
-Leading edge radius| 0.0201
-Cambrure| 0.0254 
-Trailing edge angle|[deg] 13.0522
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic] [Flying wing]
-Commentaires| Fauvel 14% flying wing airfoil

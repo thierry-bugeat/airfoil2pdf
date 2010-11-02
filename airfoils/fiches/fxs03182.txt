@@ -1,9 +1,0 @@
-Wortmann FX S 03-182(FXS03182,)
-Epaisseur| 0.1821 
-Leading edge radius| 0.0102
-Cambrure| 0.0285 
-Trailing edge angle|[deg] 5.5750
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX S 03-182 airfoil

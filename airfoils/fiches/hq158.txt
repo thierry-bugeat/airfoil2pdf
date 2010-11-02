@@ -1,9 +1,0 @@
-Quabeck HQ 1.5/8(HQ158,)
-Epaisseur| 0.0796 
-Leading edge radius| 0.0106
-Cambrure| 0.0149 
-Trailing edge angle|[deg] 6.8011
-Développeur|
-Groupe de développement| Quabeck(Helmut Quabeck)
-Categorie| [Low Speed] [Modelplane]
-Commentaires| Quabeck HQ 1.5/8 R/C sailplane airfoil

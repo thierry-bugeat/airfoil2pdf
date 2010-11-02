@@ -1,9 +1,0 @@
-Eppler E682(E682,)
-Epaisseur| 0.1530 
-Leading edge radius| 0.0161
-Cambrure| 0.0292 
-Trailing edge angle|[deg] 4.9676
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Sailplane]
-Commentaires| Eppler E682 sailplane airfoil

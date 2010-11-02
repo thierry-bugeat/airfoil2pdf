@@ -1,9 +1,0 @@
-Gottingen 396(GOE396,)
-Epaisseur| 0.0470 
-Leading edge radius| 0.0403
-Cambrure| 0.0577 
-Trailing edge angle|[deg] 12.1068
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 396 airfoil

@@ -1,9 +1,0 @@
-USA-5(USA5,)
-Epaisseur| 0.0638 
-Leading edge radius| 0.0419
-Cambrure| 0.0453 
-Trailing edge angle|[deg] 18.3350
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| USA-5 airfoil

@@ -1,9 +1,0 @@
-Selig S1012(S1012,)
-Epaisseur| 0.1202 
-Leading edge radius| 0.0112
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 5.0307
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig S1012 HPV airfoil

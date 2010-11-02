@@ -1,9 +1,0 @@
-Wortmann FX 38-153(FX38153,)
-Epaisseur| 0.0000 
-Leading edge radius| 0.0000
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 0.0000
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX 38-153 airfoil

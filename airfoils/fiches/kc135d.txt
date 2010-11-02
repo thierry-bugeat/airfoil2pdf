@@ -1,9 +1,0 @@
-Boeing KC-135-d(KC135D,)
-Epaisseur| 0.0899 
-Leading edge radius| 0.0062
-Cambrure| 0.0190 
-Trailing edge angle|[deg] 11.2187
-Développeur|
-Groupe de développement| Boeing Inc.
-Categorie| [Transonic]
-Commentaires| continued

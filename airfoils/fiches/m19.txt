@@ -1,9 +1,0 @@
-NACA/Munk M-19(M19,)
-Epaisseur| 0.0617 
-Leading edge radius| 0.0315
-Cambrure| 0.0603 
-Trailing edge angle|[deg] 8.8982
-Développeur|
-Groupe de développement| NACA/Munk
-Categorie| [Subnsonic]
-Commentaires| NACA/Munk M-19 airfoil

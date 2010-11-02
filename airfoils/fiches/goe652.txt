@@ -1,9 +1,0 @@
-Gottingen 652(GOE652,)
-Epaisseur| 0.1705 
-Leading edge radius| 0.0730
-Cambrure| 0.0925 
-Trailing edge angle|[deg] 4.5379
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 652 airfoil

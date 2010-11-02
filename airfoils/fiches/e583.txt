@@ -1,9 +1,0 @@
-Eppler E583(E583,)
-Epaisseur| 0.1650 
-Leading edge radius| 0.0129
-Cambrure| 0.0447 
-Trailing edge angle|[deg] 6.9272
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Sailplane]
-Commentaires| Eppler E583 sailplane airfoil

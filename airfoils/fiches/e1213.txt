@@ -1,9 +1,0 @@
-Eppler E1213(E1213,)
-Epaisseur| 0.1741 
-Leading edge radius| 0.0353
-Cambrure| 0.0206 
-Trailing edge angle|[deg] 7.3569
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E1213 general aviation airfoil

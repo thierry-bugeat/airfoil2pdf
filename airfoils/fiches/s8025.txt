@@ -1,9 +1,0 @@
-Selig S8025(S8025,)
-Epaisseur| 0.0798 
-Leading edge radius| 0.0052
-Cambrure| 0.0049 
-Trailing edge angle|[deg] 1.3637
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig S8025 low Reynolds number airfoil

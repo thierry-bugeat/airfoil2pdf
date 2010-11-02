@@ -1,72 +1,85 @@
-package profil;
+package airfoil2pdf;
+
+use strict;
+use Exporter;
+
+use vars qw(@ISA @EXPORT);
+
+@ISA = qw (Exporter);
+#@EXPORT = qw (Pouet Truc Muche ); // Indique le nom des fonctions du package disponibles via "use airfoil2pdf"
 
 BEGIN{
-	# Installation des modules sous LINUX DEBIAN a partir d'un terminal :
-	# apt-get install perl-modules
-	# Le module Pdf::Create doit être récuperé sur le site search.cpan.org et compilé.
-	# Le module Math::Bezier doit être récuperé sur le site search.cpan.org et compilé.
-	# Le module Math::CatmullRom doit être récuperé sur le site search.cpan.org et compilé.
-	@Modules=("strict", "Math::Trig", "Math::Bezier", "Math::CatmullRom", "Data::Dumper", "PDF::Create");
-	system('clear');
-	foreach (@Modules){
-		print 'Loading module '.$_.' ... ';
-		if(eval "require $_"){$_->import(); print "[OK]\n";}
-		else{print "[ERROR]\n"; }
-	}
+    # Installation des modules sous LINUX DEBIAN a partir d'un terminal :
+    # apt-get install perl-modules
+    # Le module Pdf::Create doit être récuperé sur le site search.cpan.org et compilé.
+    # Le module Math::Bezier doit être récuperé sur le site search.cpan.org et compilé.
+    # Le module Math::CatmullRom doit être récuperé sur le site search.cpan.org et compilé.
+
+    $VERSION = "0.32";
+    
+    @Modules=("strict", "Math::Trig", "Math::Bezier", "Math::CatmullRom", "Data::Dumper", "PDF::Create");
+    system('clear');
+    
+    foreach (@Modules)
+    {
+        print 'Loading module ' . $_ . ' ... ';
+        if (eval "require $_"){$_->import(); print "[OK]\n";}
+        else { print "[ERROR]\n"; }
+    }
 }
 
-# =================================
-# --- Debut de la classe profil ---
-# =================================
+# ======================================
+# --- Debut de la classe airfoil2pdf ---
+# ======================================
 
 sub new{
-	my ($class) = @_;
-	my $this = {};
-	bless($this, $class);
+    my ($class) = @_;
+    my $this = {};
+    bless($this, $class);
 
-	$this->{version} = '0.3.1';
-	$this->{corde_emplanture_mm} = 100;
-	$this->{corde_saumon_mm} = 0;
-	$this->{nb_nervures} = 1;
-	$this->{talon_nervure} = 1;
-	$this->{epaisseur_coffrage_en_mm} = 0;
-	$this->{hachures_coffrage}=1;
-	$this->{corde_max} = 0;
-	$this->{coins_decoupe} = 1;
-	$this->{smooth} = ''; # Reechantillonage des coordonnees du fichier dat par courbe de Bezier ou courbe Splice ( Cattmull-Rom )
-	                      # '' ou 'bezier' ou 'splice' ou 'catmullrom'
-	
-	$this->{dpi} = 150;
-	$this->{imprimante} = 'A4'; # A4 ou A3
-	$this->{orientation} = 'paysage'; # portrait ou paysage
-	
-	# --- Profil ---
-	$this->{calage_emplanture} = 0;
-	$this->{calage_saumon} = 0;
-	
-	# --- Divers ---
-	$this->{datetime}=_datetime();
-	$this->{date_generation}=_date_generation($this);
-	
-	# --- DAT ---
-	$this->{dat_emplanture} = '';
-	$this->{dat_saumon} = '';
-	$this->{dat_dossier} = '';
-	#$this->{dat_coordonnees_x} = '';
-	#$this->{dat_coordonnees_y} = '';
-	$this->{dat_calage} = 0; # Stocke le calage temporaire de chaque nervure.
-	
-	# --- PDF ---
-	$this->{pdf_dossier_de_sauvegarde}='/tmp/';
-	$this->{pdf_nom}='';
-	$this->{pdf_resolution} = $this->{dpi};
-	$this->{pdf_marges_mm} = 20;
-	$this->{pdf_marges} = _mm2pixels($this->{pdf_marges_mm}, $this->{pdf_resolution});
-	$this->{pdf_largeur} = 0; $this->{pdf_hauteur}=0; _pdf_get_dimensions($this);
-	$this->{nb_pages_x} = 0;
-	$this->{nb_pages_y} = 0;
-		
-	return $this;
+    $this->{version} = '0.32';
+    $this->{corde_emplanture_mm} = 100;
+    $this->{corde_saumon_mm} = 0;
+    $this->{nb_nervures} = 1;
+    $this->{talon_nervure} = 1;
+    $this->{epaisseur_coffrage_en_mm} = 0;
+    $this->{hachures_coffrage}=1;
+    $this->{corde_max} = 0;
+    $this->{coins_decoupe} = 1;
+    $this->{smooth} = ''; # Reechantillonage des coordonnees du fichier dat par courbe de Bezier ou courbe Splice ( Cattmull-Rom )
+                          # '' ou 'bezier' ou 'splice' ou 'catmullrom'
+
+    $this->{dpi} = 150;
+    $this->{imprimante} = 'A4'; # A4 ou A3
+    $this->{orientation} = 'paysage'; # portrait ou paysage
+
+    # --- Profil ---
+    $this->{calage_emplanture} = 0;
+    $this->{calage_saumon} = 0;
+
+    # --- Divers ---
+    $this->{datetime}=_datetime();
+    $this->{date_generation}=_date_generation($this);
+
+    # --- DAT ---
+    $this->{dat_emplanture} = '';
+    $this->{dat_saumon} = '';
+    $this->{dat_dossier} = '';
+    #$this->{dat_coordonnees_x} = '';
+    #$this->{dat_coordonnees_y} = '';
+    $this->{dat_calage} = 0; # Stocke le calage temporaire de chaque nervure.
+
+    # --- PDF ---
+    $this->{pdf_dossier_de_sauvegarde}='/tmp/';
+    $this->{pdf_nom}='';
+    $this->{pdf_resolution} = $this->{dpi};
+    $this->{pdf_marges_mm} = 20;
+    $this->{pdf_marges} = _mm2pixels($this->{pdf_marges_mm}, $this->{pdf_resolution});
+    $this->{pdf_largeur} = 0; $this->{pdf_hauteur}=0; _pdf_get_dimensions($this);
+    $this->{nb_pages_x} = 0;
+    $this->{nb_pages_y} = 0;
+        
+    return $this;
 }
 
 # ==========================
@@ -1182,14 +1195,14 @@ sub _effet_rotation_dat{
 # --- Documentation du module ---
 # ===============================
 
-# "perldoc profil.pm" permet d'afficher cette documentation à partir d'un terminal.
+# "perldoc airfoil2pdf.pm" permet d'afficher cette documentation à partir d'un terminal.
 
 1;
 __END__
 
 =head1 NAME
 
- profil.pm - Generation de nervures pour l'aeromodelisme.
+ airfoil2pdf.pm - Generation de nervures pour l'aeromodelisme.
 
 =head1 DESCRIPTION
 
@@ -1197,24 +1210,24 @@ Ce module permet de generer les nervures d'un profil a n'importe qu'elle echelle
 
 =head1 SYNOPSIS
 
- use profil.pm;
- my $profil = profil->new('e169');
- $profil->setCordeEmplanture(300);
- $profil->setCordeSaumon(200);
- $profil->setNbNervures(5);
- $profil->setEpaisseurCoffrage(1.5);
- $profil->setImprimante('A3');
- $profil->setOrientation('portrait');
+ use airfoil2pdf.pm;
+ my $airfoil = airfoil2pdf->new('e169');
+ $airfoil->setCordeEmplanture(300);
+ $airfoil->setCordeSaumon(200);
+ $airfoil->setNbNervures(5);
+ $airfoil->setEpaisseurCoffrage(1.5);
+ $airfoil->setImprimante('A3');
+ $airfoil->setOrientation('portrait');
 
 =head1 FUNCTION setCordeSaumon
 
  Cette fonction permet de definir la longueur en mm de la corde du saumon.
- Exemple : $profil->setCordeSaumon(200);
+ Exemple : $airfoil->setCordeSaumon(200);
 
 =head1 FUNCTION setCordeEmplanture
 
  Cette fonction permet de definir la longueur en mm de la corde d'emplanture.
- Exemple : $profil->setEmplanture(300);
+ Exemple : $airfoil->setEmplanture(300);
 
 =head1 FUNCTION setNbNervures
 
@@ -1222,57 +1235,57 @@ Cette fonction permet de definir le nombre de nervures a generer.
 Si aucun nombre n'est specifie, le programme regarde les longueurs des
 cordes d'emplanture et de saumon, et en tire le nombre de nervures 
 a generer : 0,1 ou 2
- Exemple : $profil->setNbNervures(4);
- Exemple : $profil->setNbNervures();
+ Exemple : $airfoil->setNbNervures(4);
+ Exemple : $airfoil->setNbNervures();
  
 =head1 FUNCTION setTalonNervure
  
  Cette fonction permet de definir si des talons doivent etre ajoutes aux nervures.
  Les valeurs possibles sont 0 ou 1 (defaut).
- Exemple : $profil->setTalonNervure(0);
- Exemple : $profil->setTalonNervure(1);
+ Exemple : $airfoil->setTalonNervure(0);
+ Exemple : $airfoil->setTalonNervure(1);
  
 =head1 FUNCTION setEpaisseurCoffrage
 
  Cette fonction permet de definir l'epaisseur du coffrage en mm.
  Les valeurs courantes sont : 1mm, 1.5mm, 2mm, 3mm
- Exemple : $profil->setEpaisseurCoffrage(1.5);
+ Exemple : $airfoil->setEpaisseurCoffrage(1.5);
 
 =head1 FUNCTION setCoinsDecoupe
 
  Cette fonction permet de definir si des coins de decoupe sont dessines.
  Les valeurs possibles sont 0 ou 1 (defaut).
- Exemple : $profil->setCoinsDecoupe(0);
- Exemple : $profil->setCoinsDecoupe(1);
+ Exemple : $airfoil->setCoinsDecoupe(0);
+ Exemple : $airfoil->setCoinsDecoupe(1);
 
 =head1 FUNCTION setDossierDat
 
  Cette fonction permet de definir l'emplacement du dossier contenant
  les fichiers des profils au format .dat
- Exemple : $profil->setDossierDat('/donnees/profils/dats/');
+ Exemple : $airfoil->setDossierDat('/donnees/profils/dats/');
 
 =head1 FUNCTION setDossierDeSauvegarde
 
  Cette fonction permet de definir l'emplacement du dossier dans
  lequel le fichier final .pdf sera sauvegarde.
- Exemple : $profil->setDossierDeSauvegarde('/donnees/profils/pdfs/');
+ Exemple : $airfoil->setDossierDeSauvegarde('/donnees/profils/pdfs/');
 
 =head1 FUNCTION setImprimante
 
  Cette fonction permet de definir le format de votre imprimante : A4 (defaut) / A3
- Exemple : $profil->setImprimante('A3');
+ Exemple : $airfoil->setImprimante('A3');
 
 =head1 FUNCTION setOrientation
 
  Cette fonction permet de definir l'orientation de l'impression : portrait / paysage (defaut)
- Exemple : $profil->setOrientation('portrait');
+ Exemple : $airfoil->setOrientation('portrait');
 
 =head1 FUNCTION setDpi
 
  Cette fonction permet de definir la resolution de l'impression.
  Plus la valeur est elevee, et plus les traces sont fins.
  Les valeurs courantes sont : 150dpi (defaut) , 300dpi
- Exemple : $profil->setDpi(150);
+ Exemple : $airfoil->setDpi(150);
 
 =head1 FUNCTION creerPdf
 

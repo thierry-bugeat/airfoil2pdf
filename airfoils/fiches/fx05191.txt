@@ -1,9 +1,0 @@
-Wortmann FX 05-191(FX05191,)
-Epaisseur| 0.1908 
-Leading edge radius| 0.0281
-Cambrure| 0.0262 
-Trailing edge angle|[deg] 7.2423
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX 05-191 airfoil

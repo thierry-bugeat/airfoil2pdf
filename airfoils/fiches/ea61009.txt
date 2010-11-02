@@ -1,9 +1,0 @@
-Eppler EA 6(-1)-009(EA61009,)
-Epaisseur| 0.0900 
-Leading edge radius| 0.0482
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 4.0853
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler EA 6(-1)-009 airfoil

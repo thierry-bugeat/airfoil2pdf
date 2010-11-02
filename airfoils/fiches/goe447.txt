@@ -1,9 +1,0 @@
-Gottingen 447(GOE447,)
-Epaisseur| 0.1268 
-Leading edge radius| 0.0435
-Cambrure| 0.0801 
-Trailing edge angle|[deg] 18.8851
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 447 airfoil

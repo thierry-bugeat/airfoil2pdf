@@ -1,9 +1,0 @@
-Gottingen 692(GOE692,)
-Epaisseur| 0.1610 
-Leading edge radius| 0.0511
-Cambrure| 0.0500 
-Trailing edge angle|[deg] 23.2740
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 692 airfoil

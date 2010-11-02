@@ -1,9 +1,0 @@
-Douglas/Liebeck LA203A(LA203A,)
-Epaisseur| 0.1573 
-Leading edge radius| 0.0333
-Cambrure| 0.0548 
-Trailing edge angle|[deg] 5.2312
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| Douglas/Liebeck LA203A high lift airfoil

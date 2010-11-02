@@ -1,9 +1,0 @@
-Gottingen 451(GOE451,)
-Epaisseur| 0.0440 
-Leading edge radius| 0.0417
-Cambrure| 0.0557 
-Trailing edge angle|[deg] 4.6697
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 451 airfoil

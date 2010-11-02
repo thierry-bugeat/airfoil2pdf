@@ -1,9 +1,0 @@
-Gottingen 342(GOE342,)
-Epaisseur| 0.0540 
-Leading edge radius| 0.0325
-Cambrure| 0.0616 
-Trailing edge angle|[deg] 6.3199
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 342 airfoil

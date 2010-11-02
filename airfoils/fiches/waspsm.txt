@@ -1,9 +1,0 @@
-Mike Fox WASP(WASPSM,)
-Epaisseur| 0.0935 
-Leading edge radius| 0.0082
-Cambrure| 0.0300 
-Trailing edge angle|[deg] 46.5137
-Développeur|
-Groupe de développement|
-Categorie| [Low Speed]
-Commentaires| Mike Fox WASP low Reynolds number airfoil

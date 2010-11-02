@@ -1,9 +1,0 @@
-Wortmann FX 63-143(FX63143,)
-Epaisseur| 0.1432 
-Leading edge radius| 0.0073
-Cambrure| 0.0309 
-Trailing edge angle|[deg] 3.5467
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX 63-143 airfoil

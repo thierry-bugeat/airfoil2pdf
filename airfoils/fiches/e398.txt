@@ -1,9 +1,0 @@
-Eppler E398(E398,)
-Epaisseur| 0.1417 
-Leading edge radius| 0.0130
-Cambrure| 0.0528 
-Trailing edge angle|[deg] 4.9791
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed] [Human-Powered Aircraft]
-Commentaires| Eppler E398 human powered aircraft airfoil

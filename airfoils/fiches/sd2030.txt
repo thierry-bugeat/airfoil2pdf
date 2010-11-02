@@ -1,9 +1,0 @@
-Selig/Donovan SD2030(SD2030,)
-Epaisseur| 0.0856 
-Leading edge radius| 0.0053
-Cambrure| 0.0223 
-Trailing edge angle|[deg] 4.8702
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig/Donovan SD2030 low Reynolds number airfoil

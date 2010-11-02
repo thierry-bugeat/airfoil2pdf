@@ -1,9 +1,0 @@
-Eppler E668(E668,)
-Epaisseur| 0.1390 
-Leading edge radius| 0.0068
-Cambrure| 0.0397 
-Trailing edge angle|[deg] 5.5120
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Sailplane]
-Commentaires| Eppler E668 sailplane airfoil

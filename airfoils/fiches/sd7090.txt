@@ -1,9 +1,0 @@
-Selig/Donovan SD7090(SD7090,)
-Epaisseur| 0.0999 
-Leading edge radius| 0.0081
-Cambrure| 0.0187 
-Trailing edge angle|[deg] 6.7381
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig/Donovan SD7090 low Reynolds number airfoil

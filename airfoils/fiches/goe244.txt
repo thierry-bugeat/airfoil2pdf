@@ -1,9 +1,0 @@
-Gottingen 244(GOE244,)
-Epaisseur| 0.1772 
-Leading edge radius| 0.0456
-Cambrure| 0.0999 
-Trailing edge angle|[deg] 6.5662
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 244 (MVA PR.4) airfoil

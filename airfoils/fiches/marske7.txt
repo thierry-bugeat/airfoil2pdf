@@ -1,9 +1,0 @@
-Roncz/Marske-7(MARSKE7,)
-Epaisseur| 0.1205 
-Leading edge radius| 0.0080
-Cambrure| 0.0280 
-Trailing edge angle|[deg] 6.3141
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic] [Flying wing]
-Commentaires| Roncz/Marske-7 low drag flying wing airfoil

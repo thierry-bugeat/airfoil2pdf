@@ -1,9 +1,0 @@
-NACA 5-H-10(NACA5H10,)
-Epaisseur| 0.0990 
-Leading edge radius| 0.0376
-Cambrure| 0.0225 
-Trailing edge angle|[deg] 11.5281
-Développeur|
-Groupe de développement| NACA
-Categorie| [Subnsonic] [Rotorcraft]
-Commentaires| NACA 5-H-10 rotorcraft airfoil

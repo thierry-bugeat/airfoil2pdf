@@ -1,9 +1,0 @@
-NACA 2-H-15(NACA2H15,)
-Epaisseur| 0.1472 
-Leading edge radius| 0.0525
-Cambrure| 0.0450 
-Trailing edge angle|[deg] 40.0907
-Développeur|
-Groupe de développement| NACA
-Categorie| [Subnsonic] [Rotorcraft]
-Commentaires| NACA 2-H-15 rotorcraft airfoil

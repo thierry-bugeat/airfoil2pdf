@@ -1,9 +1,0 @@
-Gottingen 769(GOE769,)
-Epaisseur| 0.1382 
-Leading edge radius| 0.0522
-Cambrure| 0.0479 
-Trailing edge angle|[deg] 11.4078
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 769 airfoil

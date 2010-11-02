@@ -1,9 +1,0 @@
-Gottingen 767(GOE767,)
-Epaisseur| 0.1200 
-Leading edge radius| 0.0501
-Cambrure| 0.0150 
-Trailing edge angle|[deg] 10.7317
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 767 airfoil

@@ -1,9 +1,0 @@
-Eppler E221(E221,)
-Epaisseur| 0.0938 
-Leading edge radius| 0.0072
-Cambrure| 0.0186 
-Trailing edge angle|[deg] 4.8301
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Low Speed]
-Commentaires| Eppler E221 low Reynolds number airfoil

@@ -1,9 +1,0 @@
-NASA/Langley LS(1)-0421(LS421,)
-Epaisseur| 0.2090 
-Leading edge radius| 0.0485
-Cambrure| 0.0241 
-Trailing edge angle|[deg] 6.3027
-Développeur|
-Groupe de développement| NASA/Langley
-Categorie| [Subnsonic]
-Commentaires| NASA/Langley LS(1)-0421 general aviation airfoil

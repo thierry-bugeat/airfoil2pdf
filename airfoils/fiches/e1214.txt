@@ -1,9 +1,0 @@
-Eppler E1214(E1214,)
-Epaisseur| 0.1985 
-Leading edge radius| 0.0314
-Cambrure| 0.0213 
-Trailing edge angle|[deg] 9.5629
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E1214 general aviation airfoil

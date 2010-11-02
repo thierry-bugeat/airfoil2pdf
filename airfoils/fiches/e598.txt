@@ -1,9 +1,0 @@
-Eppler E598(E598,)
-Epaisseur| 0.1114 
-Leading edge radius| 0.0096
-Cambrure| 0.0453 
-Trailing edge angle|[deg] 1.8507
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E598 airfoil

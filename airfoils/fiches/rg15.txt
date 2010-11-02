@@ -1,9 +1,0 @@
-Rolf Girsberger RG15(RG15,)
-Epaisseur| 0.0892 
-Leading edge radius| 0.0050
-Cambrure| 0.0176 
-Trailing edge angle|[deg] 5.0822
-Développeur|
-Groupe de développement|
-Categorie| [Low Speed]
-Commentaires| Rolf Girsberger RG15 low Reynolds number airfoil

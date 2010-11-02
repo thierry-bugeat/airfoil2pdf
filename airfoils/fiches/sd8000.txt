@@ -1,9 +1,0 @@
-Selig/Donovan SD8000(SD8000,)
-Epaisseur| 0.0886 
-Leading edge radius| 0.0075
-Cambrure| 0.0173 
-Trailing edge angle|[deg] 3.3519
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed] [Symmetric]
-Commentaires| Selig/Donovan SD8000 low Reynolds number airfoil

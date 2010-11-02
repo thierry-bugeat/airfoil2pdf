@@ -1,9 +1,0 @@
-Gottingen 144(GOE144,)
-Epaisseur| 0.0731 
-Leading edge radius| 0.0378
-Cambrure| 0.0472 
-Trailing edge angle|[deg] 12.7715
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 144 (MVA H.21) airfoil

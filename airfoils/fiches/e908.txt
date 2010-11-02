@@ -1,9 +1,0 @@
-Eppler E908(E908,)
-Epaisseur| 0.0901 
-Leading edge radius| 0.0053
-Cambrure| 0.0276 
-Trailing edge angle|[deg] 2.8133
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Hydrofoil]
-Commentaires| Eppler E908 hydrofoil

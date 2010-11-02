@@ -1,9 +1,0 @@
-Gottingen 409(GOE409,)
-Epaisseur| 0.1270 
-Leading edge radius| 0.0539
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 11.8605
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 409 airfoil

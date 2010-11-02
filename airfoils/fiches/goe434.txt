@@ -1,9 +1,0 @@
-Gottingen 434(GOE434,)
-Epaisseur| 0.2285 
-Leading edge radius| 0.0860
-Cambrure| 0.0518 
-Trailing edge angle|[deg] 14.7654
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 434 airfoil

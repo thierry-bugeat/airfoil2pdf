@@ -1,9 +1,0 @@
-NASA/Langley LS(1)-0417MOD(LS417MOD,)
-Epaisseur| 0.1700 
-Leading edge radius| 0.0241
-Cambrure| 0.0232 
-Trailing edge angle|[deg] 4.6468
-Développeur|
-Groupe de développement| NASA/Langley
-Categorie| [Subnsonic]
-Commentaires| NASA/Langley LS(1)-0417MOD general aviation airfoil

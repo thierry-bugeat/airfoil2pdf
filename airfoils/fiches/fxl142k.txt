@@ -1,9 +1,0 @@
-Wortmann FX LIII-142(FXL142K,)
-Epaisseur| 0.1420 
-Leading edge radius| 0.0177
-Cambrure| 0.0000 
-Trailing edge angle|[deg] 76.4112
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX LIII-142 K 25 airfoil

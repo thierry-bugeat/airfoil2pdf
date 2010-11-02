@@ -1,9 +1,0 @@
-Eppler E545(E545,)
-Epaisseur| 0.1745 
-Leading edge radius| 0.0048
-Cambrure| 0.0183 
-Trailing edge angle|[deg] 9.4425
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E545 general aviation airfoil

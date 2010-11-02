@@ -1,9 +1,0 @@
-Gottingen 365(GOE365,)
-Epaisseur| 0.1170 
-Leading edge radius| 0.0342
-Cambrure| 0.0514 
-Trailing edge angle|[deg] 17.9511
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 365 airfoil

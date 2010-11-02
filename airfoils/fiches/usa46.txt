@@ -1,9 +1,0 @@
-USA-46(USA46,)
-Epaisseur| 0.0654 
-Leading edge radius| 0.0428
-Cambrure| 0.0217 
-Trailing edge angle|[deg] 7.9643
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| USA-46 airfoil

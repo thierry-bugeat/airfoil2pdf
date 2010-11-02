@@ -1,9 +1,0 @@
-Eppler E378(E378,)
-Epaisseur| 0.0408 
-Leading edge radius| 0.0163
-Cambrure| 0.0817 
-Trailing edge angle|[deg] 1.8679
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Ultralight]
-Commentaires| Eppler E378 ultralight airfoil

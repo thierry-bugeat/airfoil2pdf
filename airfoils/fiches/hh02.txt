@@ -1,9 +1,0 @@
-Hughes helicopters HH-02(HH02,)
-Epaisseur| 0.0957 
-Leading edge radius| 0.0082
-Cambrure| 0.0202 
-Trailing edge angle|[deg] 0.1146
-Développeur|
-Groupe de développement|
-Categorie| [Rotorcraft]
-Commentaires| Hughes helicopters HH-02 rotorcraft airfoil

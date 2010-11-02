@@ -1,9 +1,0 @@
-Gottingen 770(GOE770,)
-Epaisseur| 0.2099 
-Leading edge radius| 0.0546
-Cambrure| 0.0400 
-Trailing edge angle|[deg] 20.6899
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 770 airfoil

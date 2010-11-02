@@ -1,9 +1,0 @@
-Rutan DEFIANT canard BL110(DEFCND2,)
-Epaisseur| 0.1473 
-Leading edge radius| 0.0144
-Cambrure| 0.0381 
-Trailing edge angle|[deg] 16.8911
-Développeur|
-Groupe de développement| Rutan(Burt Rutan)
-Categorie| [Subnsonic]
-Commentaires| Rutan DEFIANT canard BL110 airfoil

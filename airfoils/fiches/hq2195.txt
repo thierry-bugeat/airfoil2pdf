@@ -1,9 +1,0 @@
-Quabeck HQ 2.1/9.5(HQ2195,)
-Epaisseur| 0.0949 
-Leading edge radius| 0.0204
-Cambrure| 0.0210 
-Trailing edge angle|[deg] 6.9329
-Développeur|
-Groupe de développement| Quabeck(Helmut Quabeck)
-Categorie| [Low Speed] [Modelplane]
-Commentaires| Quabeck HQ 2.1/9.5 R/C sailplane airfoil

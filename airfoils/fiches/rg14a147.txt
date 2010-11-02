@@ -1,8 +1,0 @@
-RG 14A-1.4/7.0(RG14A147,)
-Epaisseur| 0.0700 
-Leading edge radius| 0.0139
-Cambrure| 0.0140 
-Trailing edge angle|[deg] 4.5150
-Développeur|
-Groupe de développement|
-Commentaires| RG 14A-1.4/7.0 airfoil

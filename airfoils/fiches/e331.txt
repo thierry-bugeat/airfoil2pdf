@@ -1,9 +1,0 @@
-Eppler E331(E331,)
-Epaisseur| 0.1128 
-Leading edge radius| 0.0042
-Cambrure| 0.0269 
-Trailing edge angle|[deg] 7.1850
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic] [Flying wing]
-Commentaires| Eppler E331 flying wing airfoil

@@ -1,9 +1,0 @@
-Eppler E435(E435,)
-Epaisseur| 0.1624 
-Leading edge radius| 0.0118
-Cambrure| 0.0436 
-Trailing edge angle|[deg] 5.9130
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Sailplane]
-Commentaires| Eppler E435 sailplane airfoil

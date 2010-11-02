@@ -1,9 +1,0 @@
-Gottingen 424(GOE424,)
-Epaisseur| 0.2011 
-Leading edge radius| 0.0496
-Cambrure| 0.0476 
-Trailing edge angle|[deg] 24.1335
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 424 airfoil

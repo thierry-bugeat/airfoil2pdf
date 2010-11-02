@@ -1,9 +1,0 @@
-Wortmann FX 63-120(FX63120,)
-Epaisseur| 0.1201 
-Leading edge radius| 0.0324
-Cambrure| 0.0524 
-Trailing edge angle|[deg] 3.6384
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Subnsonic]
-Commentaires| Wortmann FX 63-120 airfoil

@@ -1,9 +1,0 @@
-Gottingen 548(GOE548,)
-Epaisseur| 0.1190 
-Leading edge radius| 0.0451
-Cambrure| 0.0230 
-Trailing edge angle|[deg] 21.3718
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 548 airfoil

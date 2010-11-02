@@ -1,9 +1,0 @@
-Gottingen 564(GOE564,)
-Epaisseur| 0.0820 
-Leading edge radius| 0.0393
-Cambrure| 0.0267 
-Trailing edge angle|[deg] 14.4216
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 564 airfoil

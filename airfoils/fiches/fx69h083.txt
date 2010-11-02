@@ -1,9 +1,0 @@
-Bell/Wortmann FX 69-H-083(FX69H083,)
-Epaisseur| 0.0840 
-Leading edge radius| 0.0178
-Cambrure| 0.0246 
-Trailing edge angle|[deg] 8.7951
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Rotorcraft]
-Commentaires| Bell/Wortmann FX 69-H-083 rotorcraft airfoil

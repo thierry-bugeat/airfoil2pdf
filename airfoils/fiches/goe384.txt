@@ -1,9 +1,0 @@
-Gottingen 384(GOE384,)
-Epaisseur| 0.1958 
-Leading edge radius| 0.0518
-Cambrure| 0.0685 
-Trailing edge angle|[deg] 18.3751
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 384 airfoil

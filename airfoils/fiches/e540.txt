@@ -1,9 +1,0 @@
-Eppler E540(E540,)
-Epaisseur| 0.1688 
-Leading edge radius| 0.0039
-Cambrure| 0.0160 
-Trailing edge angle|[deg] 9.9582
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E540 general aviation airfoil

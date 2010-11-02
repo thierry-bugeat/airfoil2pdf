@@ -1,9 +1,0 @@
-Gottingen 227(GOE227,)
-Epaisseur| 0.1460 
-Leading edge radius| 0.0455
-Cambrure| 0.0778 
-Trailing edge angle|[deg] 7.2251
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 227 (MVA H.37) airfoil

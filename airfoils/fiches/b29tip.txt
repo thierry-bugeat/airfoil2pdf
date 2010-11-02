@@ -1,9 +1,0 @@
-Boeing B-29 tip(B29TIP,)
-Epaisseur| 0.0900 
-Leading edge radius| 0.0184
-Cambrure| 0.0223 
-Trailing edge angle|[deg] 10.8119
-Développeur|
-Groupe de développement| Boeing Inc.
-Categorie| [Subnsonic]
-Commentaires| Boeing B-29 tip airfoil

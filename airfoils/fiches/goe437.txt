@@ -1,9 +1,0 @@
-Gottingen 437(GOE437,)
-Epaisseur| 0.0705 
-Leading edge radius| 0.0437
-Cambrure| 0.0481 
-Trailing edge angle|[deg] 9.7233
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 437 airfoil

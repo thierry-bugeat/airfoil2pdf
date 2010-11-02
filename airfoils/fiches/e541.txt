@@ -1,9 +1,0 @@
-Eppler E541(E541,)
-Epaisseur| 0.1664 
-Leading edge radius| 0.0037
-Cambrure| 0.0167 
-Trailing edge angle|[deg] 8.2737
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic]
-Commentaires| Eppler E541 general aviation airfoil

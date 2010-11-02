@@ -1,9 +1,0 @@
-Eppler E325(E325,)
-Epaisseur| 0.1263 
-Leading edge radius| 0.0053
-Cambrure| 0.0180 
-Trailing edge angle|[deg] 7.3455
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Subnsonic] [Flying wing]
-Commentaires| Eppler E325 flying wing airfoil

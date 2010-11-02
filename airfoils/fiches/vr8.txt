@@ -1,9 +1,0 @@
-Boeing-Vertol VR-8(VR8,)
-Epaisseur| 0.0815 
-Leading edge radius| 0.0178
-Cambrure| 0.0127 
-Trailing edge angle|[deg] 0.2636
-Développeur|
-Groupe de développement| Boeing Inc.
-Categorie| [Rotorcraft]
-Commentaires| Boeing-Vertol VR-8 rotorcraft airfoil

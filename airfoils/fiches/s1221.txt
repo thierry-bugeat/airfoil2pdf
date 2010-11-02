@@ -1,9 +1,0 @@
-Selig S1221(S1221,)
-Epaisseur| 0.1213 
-Leading edge radius| 0.0145
-Cambrure| 0.0492 
-Trailing edge angle|[deg] 1.5241
-Développeur|
-Groupe de développement| UIUC LSATs(Selig group)
-Categorie| [Low Speed]
-Commentaires| Selig S1221 airfoil

@@ -1,9 +1,0 @@
-Wortmann FX 79-K-144/17(FX79K144,)
-Epaisseur| 0.1439 
-Leading edge radius| 0.0118
-Cambrure| 0.0277 
-Trailing edge angle|[deg] 5.5292
-Développeur|
-Groupe de développement| Wortmann group
-Categorie| [Sailplane]
-Commentaires| Wortmann FX 79-K-144/17 sailplane airfoil

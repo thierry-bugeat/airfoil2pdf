@@ -1,9 +1,0 @@
-Eppler E407(E407,)
-Epaisseur| 0.1445 
-Leading edge radius| 0.0043
-Cambrure| 0.0349 
-Trailing edge angle|[deg] 2.8648
-Développeur|
-Groupe de développement| Eppler group
-Categorie| [Sailplane]
-Commentaires| Eppler E407 sailplane airfoil

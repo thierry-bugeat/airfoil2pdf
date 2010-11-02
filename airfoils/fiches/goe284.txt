@@ -1,9 +1,0 @@
-Gottingen 284(GOE284,)
-Epaisseur| 0.1765 
-Leading edge radius| 0.0582
-Cambrure| 0.0513 
-Trailing edge angle|[deg] 15.2009
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 284 airfoil

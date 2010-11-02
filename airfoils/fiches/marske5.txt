@@ -1,9 +1,0 @@
-Marske Monarch(MARSKE5,)
-Epaisseur| 0.1222 
-Leading edge radius| 0.0416
-Cambrure| 0.0338 
-Trailing edge angle|[deg] 16.5588
-Développeur|
-Groupe de développement|
-Categorie| [Subnsonic]
-Commentaires| Marske Monarch airfoil (NACA 43012A)

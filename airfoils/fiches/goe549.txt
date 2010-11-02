@@ -1,9 +1,0 @@
-Gottingen 549(GOE549,)
-Epaisseur| 0.1385 
-Leading edge radius| 0.0210
-Cambrure| 0.0468 
-Trailing edge angle|[deg] 14.7712
-Développeur|
-Groupe de développement| Gottingen Univ. group
-Categorie| [Subnsonic]
-Commentaires| Gottingen 549 airfoil
