@@ -213,6 +213,11 @@ sub setSmooth{
 	$this->{smooth}=$type;
 }
 
+sub setPdfName{
+    my ($this, $pdfNom)=@_;
+    $this->{pdf_nom}=$pdfNom;
+}
+
 # ========================
 # --- Methodes privees ---
 # ========================
@@ -222,9 +227,12 @@ sub setSmooth{
 sub _set_wing_root_dat{
     my ($this, $dat)=@_;
     if(!(defined($dat))){ return; }
+    if( $dat eq '' ){ return ; }
+
+    $dat=~s/\.dat//g;
+
     $this->{dat_emplanture} = $dat;
     if($this->{dat_saumon} eq ''){ $this->{dat_saumon} = $dat;}
-    $this->{pdf_nom} = $this->{dat_emplanture}.'.'.$this->{date_generation}.'.pdf';
 }
 
 sub _set_wing_root_chord{
@@ -253,6 +261,10 @@ sub _set_wing_root_angle{
 sub _set_wing_tip_dat{
     my ($this, $dat)=@_;
     if(!(defined($dat))){ return; }
+    if( $dat eq '' ){ return ; }
+
+    $dat=~s/\.dat//g;
+
     $this->{dat_saumon} = $dat;
     if($this->{dat_emplanture} eq ''){ $this->{dat_emplanture} = $dat;}
 }
@@ -1236,19 +1248,31 @@ Ce module permet de generer les nervures d'un profil a n'importe qu'elle echelle
 
 =head1 SYNOPSIS
 
- use airfoil2pdf.pm;
- my $airfoil = airfoil2pdf->new('e169');
- $airfoil->setCordeEmplanture(300);
- $airfoil->setCordeSaumon(200);
- $airfoil->setNbNervures(5);
- $airfoil->setEpaisseurCoffrage(1.5);
- $airfoil->setImprimante('A3');
- $airfoil->setOrientation('portrait');
+use profil.pm;
+ my $profil = profil->new();
+ $profil->setDatEmplanture('e169');
+ $profil->setCordeEmplanture(300);
+ $profil->setCordeSaumon(200);
+ $profil->setNbNervures(5);
+ $profil->setEpaisseurCoffrage(1.5);
+ $profil->setImprimante('A3');
+ $profil->setOrientation('portrait');
+
+=head1 FUNCTION setDatEmplanture
+
+ Cette methode permet de definir le profil a utiliser pour l'emplanture de l'aile.
+ Exemple : $profil->setDatEmplanture('e169');
+
+=head1 FUNCTION setDatSaumon
+
+ Cette methode permet de definir le profil a utiliser pour le saumon de l'aile.
+ Par defaut, si le fichier .dat n'est pas spécifie, celui de l'emplanture est utilise.
+ Exemple : $profil->setDatSaumon('n2412');
 
 =head1 FUNCTION setCordeSaumon
 
- Cette fonction permet de definir la longueur en mm de la corde du saumon.
- Exemple : $airfoil->setCordeSaumon(200);
+ Cette methode permet de definir la longueur en mm de la corde du saumon.
+ Exemple : $profil->setCordeSaumon(200);
 
 =head1 FUNCTION setCordeEmplanture
 
