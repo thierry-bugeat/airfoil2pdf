@@ -9,7 +9,7 @@ BEGIN{
     use Exporter;
     use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
 
-    $VERSION = 0.33;
+    $VERSION = 0.34;
 
     use PDF::Create;
     use Math::Bezier;
@@ -27,7 +27,7 @@ sub new{
     my($class, %args) = @_;
     my $this = bless({}, $class);
 
-    $this->{version} = '0.33';
+    $this->{version} = '0.34';
     $this->{corde_emplanture_mm} = 100;
     $this->{corde_saumon_mm} = 0;
     $this->{nb_nervures} = 1;
