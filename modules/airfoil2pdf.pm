@@ -233,6 +233,7 @@ sub _set_wing_root_dat{
 
     $this->{dat_emplanture} = $dat;
     if($this->{dat_saumon} eq ''){ $this->{dat_saumon} = $dat;}
+    $this->{pdf_nom} = $this->{dat_emplanture}.'.'.$this->{date_generation}.'.pdf';
 }
 
 sub _set_wing_root_chord{
