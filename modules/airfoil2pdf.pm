@@ -40,8 +40,8 @@ sub new{
                           # '' ou 'bezier' ou 'splice' ou 'catmullrom'
 
     $this->{dpi} = 150;
-    $this->{imprimante} = 'A4'; # A4 ou A3
-    $this->{orientation} = 'paysage'; # portrait ou paysage
+    $this->{printer} = 'A4'; # A4 or A3
+    $this->{orientation} = 'paysage'; # portrait or paysage
 
     # --- Profil ---
     $this->{calage_emplanture} = 0;
@@ -72,9 +72,9 @@ sub new{
     return $this;
 }
 
-# ==========================
-# --- Methodes publiques ---
-# ==========================
+# =======================
+# --- Public Methodes ---
+# =======================
 
 sub setWingRoot{
     my ($this, %params) = @_;
@@ -101,26 +101,26 @@ sub setWingTip{
 }
 
 sub setNbNervures{
-	my ($this, $nb)=@_;
-	if(!(defined($nb))){ $nb = 1; }
-	$this->{nb_nervures} = abs($nb);
+    my ($this, $nb) = @_;
+    if (!(defined($nb))) { $nb = 1; }
+    $this->{nb_nervures} = abs($nb);
 }
 sub setEpaisseurCoffrage{
-	my ($this, $mm)=@_;
-	if(!(defined($mm))){ $mm=0; }
-	$this->{epaisseur_coffrage_en_mm} = $mm;
+    my ($this, $mm) = @_;
+    if (!(defined($mm))) { $mm = 0; }
+    $this->{epaisseur_coffrage_en_mm} = $mm;
 }
 sub setPaperOrientation{
-	# $orientation = portrait / paysage (defaut)
-	my ($this, $orientation)=@_;
-	if(lc($orientation) eq 'portrait'){$this->{orientation} = 'portrait';}
-	else{$this->{orientation} = 'paysage';}
+    # $orientation = portrait / paysage (defaut)
+    my ($this, $orientation) = @_;
+    if (lc($orientation) eq 'portrait') { $this->{orientation} = 'portrait'; }
+    else { $this->{orientation} = 'paysage'; }
 }
 sub setPaperSize{
-	# $imprimante = A4 (defaut) / A3
-	my ($this, $imprimante)=@_;
-	if(uc($imprimante) eq 'A3'){$this->{imprimante} = 'A3';}
-	else{$this->{imprimante} = 'A4';}
+    # $printer = A4 (default) / A3
+    my ($this, $printer) = @_;
+    if(uc($printer) eq 'A3'){$this->{printer} = 'A3';}
+    else{$this->{printer} = 'A4';}
 }
 
 sub createPdf{
@@ -310,7 +310,7 @@ sub _pdf_creer_la_page_de_garde{
 	$_page0->stringc($this->{font1}, $this->{small}, ($this->{pdf_largeur}/2) , (($this->{pdf_hauteur}/2)-_mm2pixels(19,$this->{dpi})), "Nombre de nervures generees : $this->{nb_nervures}");
 	$_page0->stringc($this->{font1}, $this->{small}, ($this->{pdf_largeur}/2) , (($this->{pdf_hauteur}/2)-_mm2pixels(23,$this->{dpi})), "Corde a l'emplanture : $this->{corde_emplanture_mm} mm");
 	$_page0->stringc($this->{font1}, $this->{small}, ($this->{pdf_largeur}/2) , (($this->{pdf_hauteur}/2)-_mm2pixels(27,$this->{dpi})), "Corde au saumon : $this->{corde_saumon_mm} mm");
-	$_page0->stringc($this->{font1}, $this->{small}, ($this->{pdf_largeur}/2) , (($this->{pdf_hauteur}/2)-_mm2pixels(35,$this->{dpi})), "Document a imprimer sur une imprimante : $this->{imprimante}");
+	$_page0->stringc($this->{font1}, $this->{small}, ($this->{pdf_largeur}/2) , (($this->{pdf_hauteur}/2)-_mm2pixels(35,$this->{dpi})), "Print this document on paper : $this->{printer}");
 	$_page0->stringc($this->{font1}, $this->{medium}, ($this->{pdf_largeur}/2) , ($this->{pdf_marges}+(30/2)), "Website : thierry.bugeat.free.fr - Email : airfoil2pdf\@bugeat.com");
 	$_page0->line( $this->{pdf_marges} , ($this->{pdf_hauteur}-$this->{pdf_marges}) , ($this->{pdf_largeur}-$this->{pdf_marges}) , ($this->{pdf_hauteur}-$this->{pdf_marges}) ); # Trait horizontal en haut de page
 	$_page0->line( $this->{pdf_marges} , $this->{pdf_marges} , ($this->{pdf_largeur}-$this->{pdf_marges}) , $this->{pdf_marges} ); # Trait horizontal en bas de page
@@ -452,7 +452,7 @@ sub _pdf_get_dimensions{
 	# A3 72 dpi portrait -> 842 x 1190 pixels
 		
 	if($this->{orientation} eq 'portrait'){
-		if($this->{imprimante} eq 'A3'){
+		if($this->{printer} eq 'A3'){
 			$this->{pdf_largeur}=int(((842*$this->{dpi})/72));
 			$this->{pdf_hauteur}=int(((1190*$this->{dpi})/72));
 		} else {
@@ -460,7 +460,7 @@ sub _pdf_get_dimensions{
 			$this->{pdf_hauteur}=int(((842*$this->{dpi})/72));
 		}
 	} else {
-		if($this->{imprimante} eq 'A3'){
+		if($this->{printer} eq 'A3'){
 			$this->{pdf_largeur}=int(((1190*$this->{dpi})/72));
 			$this->{pdf_hauteur}=int(((842*$this->{dpi})/72));
 		} else {
@@ -1256,7 +1256,7 @@ use profil.pm;
  $profil->setCordeSaumon(200);
  $profil->setNbNervures(5);
  $profil->setEpaisseurCoffrage(1.5);
- $profil->setImprimante('A3');
+ $profil->setPrinter('A3');
  $profil->setOrientation('portrait');
 
 =head1 FUNCTION setDatEmplanture
@@ -1321,10 +1321,10 @@ a generer : 0,1 ou 2
  lequel le fichier final .pdf sera sauvegarde.
  Exemple : $airfoil->setDossierDeSauvegarde('/donnees/profils/pdfs/');
 
-=head1 FUNCTION setImprimante
+=head1 FUNCTION setPrinter
 
  Cette fonction permet de definir le format de votre imprimante : A4 (defaut) / A3
- Exemple : $airfoil->setImprimante('A3');
+ Example : $airfoil->setPrinter('A3');
 
 =head1 FUNCTION setOrientation
 
