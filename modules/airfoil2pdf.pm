@@ -3,7 +3,7 @@ package airfoil2pdf;
 use strict;
 
 # Wing tip  : Saumon
-# Wing root : Emplanture
+# Wing root : Emplanture.
 
 BEGIN{
     use Exporter;
@@ -27,17 +27,21 @@ sub new{
     my($class, %args) = @_;
     my $this = bless({}, $class);
 
-    $this->{version} = '0.34';
-    $this->{corde_emplanture_mm} = 100;
-    $this->{corde_saumon_mm} = 0;
-    $this->{nb_nervures} = 1;
-    $this->{talon_nervure} = 1;
-    $this->{epaisseur_coffrage_en_mm} = 0;
-    $this->{hachures_coffrage}=1;
-    $this->{corde_max} = 0;
-    $this->{coins_decoupe} = 1;
-    $this->{smooth} = ''; # Reechantillonage des coordonnees du fichier dat par courbe de Bezier ou courbe Splice ( Cattmull-Rom )
-                          # '' ou 'bezier' ou 'splice' ou 'catmullrom'
+    $this->{version}                    = '0.34';
+    $this->{corde_emplanture_mm}        = 100;
+    $this->{corde_saumon_mm}            = 0;
+    $this->{nb_nervures}                = 1;
+    $this->{talon_nervure}              = 1;
+    $this->{epaisseur_coffrage_en_mm}   = 0;
+    $this->{hachures_coffrage}          = 1;
+    $this->{corde_max}                  = 0;
+    $this->{coins_decoupe}              = 1;
+    $this->{smooth}                     = '';
+
+    # smooth :
+    # Reechantillonage des coordonnees du fichier dat par courbe de
+    # Bezier ou courbe Splice ( Cattmull-Rom )
+    # Params : '' ou 'bezier' ou 'splice' ou 'catmullrom'.
 
     $this->{dpi} = 150;
     $this->{printer} = 'A4'; # A4 or A3
