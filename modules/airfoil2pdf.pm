@@ -27,7 +27,7 @@ sub new{
     my($class, %args) = @_;
     my $this = bless({}, $class);
 
-    $this->{version}                    = '0.34';
+    $this->{version}                    = '0.35';
     $this->{corde_emplanture_mm}        = 100;
     $this->{corde_saumon_mm}            = 0;
     $this->{nb_nervures}                = 1;
