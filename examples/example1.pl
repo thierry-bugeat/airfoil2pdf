@@ -8,6 +8,8 @@
 # * 02.11.2010   Thierry           Update : 02.11.2010         *
 # **************************************************************
 
+print "content-type: text/html, charset=utf-8\n\n";
+
 use lib "../modules";
 
 use airfoil2pdf

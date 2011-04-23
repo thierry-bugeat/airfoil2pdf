@@ -43,33 +43,39 @@ sub new{
     # Bezier ou courbe Splice ( Cattmull-Rom )
     # Params : '' ou 'bezier' ou 'splice' ou 'catmullrom'.
 
-    $this->{dpi} = 150;
-    $this->{printer} = 'A4'; # A4 or A3
-    $this->{orientation} = 'paysage'; # portrait or paysage
+    $this->{dpi}            = 150;
+    $this->{printer}        = 'A4'; # A4 or A3
+    $this->{orientation}    = 'landscape'; # portrait or landscape
 
     # --- Profil ---
-    $this->{calage_emplanture} = 0;
-    $this->{calage_saumon} = 0;
+    
+    $this->{calage_emplanture}  = 0;
+    $this->{calage_saumon}      = 0;
 
     # --- Divers ---
-    $this->{datetime}=_datetime();
-    $this->{date_generation}=_date_generation($this);
+    
+    $this->{datetime}           = _datetime();
+    $this->{date_generation}    = _date_generation($this);
 
     # --- DAT ---
-    $this->{dat_emplanture} = '';
-    $this->{dat_saumon} = '';
-    $this->{dat_dossier} = 'airfoils/dat/';
+    
+    $this->{dat_emplanture}     = '';
+    $this->{dat_saumon}         = '';
+    $this->{dat_dossier}        = 'airfoils/dat/';
     #$this->{dat_coordonnees_x} = '';
     #$this->{dat_coordonnees_y} = '';
-    $this->{dat_calage} = 0; # Stocke le calage temporaire de chaque nervure.
+    $this->{dat_calage}         = 0; # Stocke le calage temporaire de chaque nervure.
 
     # --- PDF ---
-    $this->{pdf_dossier_de_sauvegarde}='output/';
-    $this->{pdf_nom}='';
-    $this->{pdf_resolution} = $this->{dpi};
-    $this->{pdf_marges_mm} = 20;
-    $this->{pdf_marges} = _mm2pixels($this->{pdf_marges_mm}, $this->{pdf_resolution});
-    $this->{pdf_largeur} = 0; $this->{pdf_hauteur}=0; _pdf_get_dimensions($this);
+    
+    $this->{pdf_dossier_de_sauvegarde}  = 'output/';
+    $this->{pdf_nom}                    = '';
+    $this->{pdf_resolution}             = $this->{dpi};
+    $this->{pdf_marges_mm}              = 20;
+    $this->{pdf_marges}                 = _mm2pixels($this->{pdf_marges_mm}, $this->{pdf_resolution});
+    $this->{pdf_largeur}                = 0;
+    $this->{pdf_hauteur}                = 0;
+    _pdf_get_dimensions($this);
     $this->{nb_pages_x} = 0;
     $this->{nb_pages_y} = 0;
         
@@ -115,83 +121,93 @@ sub setEpaisseurCoffrage{
     $this->{epaisseur_coffrage_en_mm} = $mm;
 }
 sub setPaperOrientation{
-    # $orientation = portrait / paysage (defaut)
+    # $orientation = portrait / landscape (defaut)
     my ($this, $orientation) = @_;
     if (lc($orientation) eq 'portrait') { $this->{orientation} = 'portrait'; }
-    else { $this->{orientation} = 'paysage'; }
+    else { $this->{orientation} = 'landscape'; }
 }
 sub setPaperSize{
     # $printer = A4 (default) / A3
     my ($this, $printer) = @_;
-    if(uc($printer) eq 'A3'){$this->{printer} = 'A3';}
-    else{$this->{printer} = 'A4';}
+    if (uc($printer) eq 'A3') { $this->{printer} = 'A3'; }
+    else { $this->{printer} = 'A4'; }
 }
 
 sub createPdf{
-	my($this)=@_;
-	
-	# --- Typos ---
-		$this->{xxlarge} = _mm2pixels(11, $this->{dpi});
-		$this->{xlarge} = _mm2pixels(9, $this->{dpi});
-		$this->{large} = _mm2pixels(6, $this->{dpi});
-		$this->{medium} = _mm2pixels(4, $this->{dpi});
-		$this->{small} = _mm2pixels(3, $this->{dpi});
-		$this->{xsmall} = _mm2pixels(2, $this->{dpi});
-		$this->{xxsmall} = _mm2pixels(1, $this->{dpi});
-	
-	# ---/ Chargement des données DAT emplanture et saumon \---
-		my($_fichier_dat) = '';
-		$_fichier_dat = $this->{dat_dossier}.$this->{dat_emplanture}.'.dat';
-		if(!-e $_fichier_dat){print '### Erreur ### Impossible de lire le fichier "'.$_fichier_dat.'"'; exit;}
-		$_fichier_dat = $this->{dat_dossier}.$this->{dat_saumon}.'.dat';
-		if(!-e $_fichier_dat){print '### Erreur ### Impossible de lire le fichier "'.$_fichier_dat.'"'; exit;}
-		_readparse_dat($this);
-	# ---\ Chargement des données DAT emplanture et saumon /---
-		
-	$this->{pdf} = new PDF::Create(
-				'filename' => $this->{pdf_dossier_de_sauvegarde}.$this->{pdf_nom},
-				'Version'  => 1.2,
-				'PageMode' => 'UseOutlines',
-				'Author'   => 'thierry.bugeat.free.fr',
-				'Title'    => 'AIRFOIL 2 PDF'
-				);
+    my($this) = @_;
 
-	$this->{root} = $this->{pdf}->new_page('MediaBox'  => [ 0, 0, $this->{pdf_largeur}, $this->{pdf_hauteur} ]);
-				
-	# --- Typos ---
-	$this->{font1} = $this->{pdf}->font('Subtype'=>'Type1','Encoding'=>'WinAnsiEncoding','BaseFont'=>'Helvetica');
-	$this->{font2} = $this->{pdf}->font('Subtype'=>'Type1','Encoding'=>'WinAnsiEncoding','BaseFont'=>'Helvetica-Bold');
-	
-	# --- Corde la plus grande ---
-	$this->{corde_max}=_corde_max($this); # La corde la + grande entre l'emplanture et le saumon.
+    # --- Typos ---
+    
+        $this->{xxlarge}    = _mm2pixels(11, $this->{dpi});
+        $this->{xlarge}     = _mm2pixels(9, $this->{dpi});
+        $this->{large}      = _mm2pixels(6, $this->{dpi});
+        $this->{medium}     = _mm2pixels(4, $this->{dpi});
+        $this->{small}      = _mm2pixels(3, $this->{dpi});
+        $this->{xsmall}     = _mm2pixels(2, $this->{dpi});
+        $this->{xxsmall}    = _mm2pixels(1, $this->{dpi});
 
-	# --- Calcule et memorise les cordes de toutes les nervures ---
-	_cordes_des_nervures_en_mm($this);
-	
-	# --- Nombre de pages necessaires dans le PDF ---
-	_pdf_set_nb_pages_x($this);
-	_pdf_set_nb_pages_y($this);
-		
-	# --- Page de garde ---
-	_pdf_creer_la_page_de_garde($this);
+    # --- Loading/parse DAT wing root and wing tip ---
+    
+        my($_fichier_dat) = '';
+        $_fichier_dat = $this->{dat_directory}.$this->{dat_emplanture}.'.dat';
+        if(!-e $_fichier_dat){print '### Erreur ### Impossible de lire le fichier "'.$_fichier_dat.'"'; exit;}
+        $_fichier_dat = $this->{dat_directory}.$this->{dat_saumon}.'.dat';
+        if(!-e $_fichier_dat){print '### Erreur ### Impossible de lire le fichier "'.$_fichier_dat.'"'; exit;}
+        _readparse_dat($this);
+        
+    # ---
 
-	# --- Page d'assemblage ---
-	_pdf_creer_la_page_d_assemblage($this);
-	
-	# --- Page(s) contenant les/la nervure(s) ---
-	_pdf_creer_les_pages_contenant_les_nervures($this);
-	
-	# --- Fermeture du PDF ---
-	$this->{pdf}->close;
+    $this->{pdf} = new PDF::Create(
+                'filename' => $this->{pdf_dossier_de_sauvegarde}.$this->{pdf_nom},
+                'Version'  => 1.2,
+                'PageMode' => 'UseOutlines',
+                'Author'   => 'thierry.bugeat.free.fr',
+                'Title'    => 'AIRFOIL 2 PDF'
+                );
+
+    $this->{root} = $this->{pdf}->new_page('MediaBox'  => [ 0, 0, $this->{pdf_largeur}, $this->{pdf_hauteur} ]);
+
+    # --- Typos ---
+
+    $this->{font1} = $this->{pdf}->font('Subtype'=>'Type1','Encoding'=>'WinAnsiEncoding','BaseFont'=>'Helvetica');
+    $this->{font2} = $this->{pdf}->font('Subtype'=>'Type1','Encoding'=>'WinAnsiEncoding','BaseFont'=>'Helvetica-Bold');
+
+    # --- Max cord beetwen Wing root and Wing tip ---
+
+    $this->{corde_max} = _corde_max($this); # La corde la + grande entre l'emplanture et le saumon.
+
+    # --- Calcule et memorise les cordes de toutes les nervures ---
+
+    _cordes_des_nervures_en_mm($this);
+
+    # --- Nombre de pages necessaires dans le PDF ---
+
+    _pdf_set_nb_pages_x($this);
+    _pdf_set_nb_pages_y($this);
+
+    # --- Page de garde ---
+    _pdf_creer_la_page_de_garde($this);
+
+    # --- Page d'assemblage ---
+    
+    _pdf_creer_la_page_d_assemblage($this);
+
+    # --- Page(s) contenant les/la nervure(s) ---
+    
+    _pdf_creer_les_pages_contenant_les_nervures($this);
+
+    # --- Fermeture du PDF ---
+    
+    $this->{pdf}->close;
 
 }
 sub setDirOutput{
-    my ($this, $dir)=@_;
+    my ($this, $dir) = @_;
     $this->{pdf_dossier_de_sauvegarde}=$dir;
 }
 sub setDirDat{
     my ($this, $dir)=@_;
-    $this->{dat_dossier}=$dir;
+    $this->{dat_directory}=$dir;
 }
 sub setTalonNervure{
 	my ($this, $booleen)=@_;
@@ -769,7 +785,7 @@ sub _pdf_dessine_nervure{
 # --- Methodes .dat ---
 sub _readparse_dat{	
 	my($this)=@_;
-	my(@dats)=($this->{dat_emplanture}, $this->{dat_saumon});	
+	my(@dats)=($this->{dat_emplanture}, $this->{dat_saumon});
 	
 	local $/;
 	local *F;
@@ -778,7 +794,7 @@ sub _readparse_dat{
 	
 	foreach(@dats){
 		
-		my($_dat_fichier) = $this->{dat_dossier}.$_.'.dat';
+		my($_dat_fichier) = $this->{dat_directory}.$_.'.dat';
 		
 		open(F, "< $_dat_fichier\0") || &_error("### Erreur chargement fichier : [$_dat_fichier] ###") ;
 		my($DAT)=<F>;
@@ -1332,7 +1348,7 @@ a generer : 0,1 ou 2
 
 =head1 FUNCTION setOrientation
 
- Cette fonction permet de definir l'orientation de l'impression : portrait / paysage (defaut)
+ Cette fonction permet de definir l'orientation de l'impression : portrait / landscape (default)
  Exemple : $airfoil->setOrientation('portrait');
 
 =head1 FUNCTION setDpi

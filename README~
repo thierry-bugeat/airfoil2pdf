@@ -1,9 +1,0 @@
-Copyright (c) 2010-2011 Thierry BUGEAT. All rights reserved.
-This program is free software; you can redistribute it and/or
-modify it under the same terms as Perl itself.
-
-REQUIRE :
-    # Perl modules under LINUX DEBIAN : apt-get install perl-modules
-    # Pdf::Create . Get this module in search.cpan.org
-    # Math::Bezier . Get this module in search.cpan.org
-    # Math::CatmullRom . Get this module in search.cpan.org

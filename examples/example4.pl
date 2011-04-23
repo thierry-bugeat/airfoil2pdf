@@ -34,7 +34,7 @@ $airfoil->setNbNervures(5);
 $airfoil->setEpaisseurCoffrage(1.5);        # 1, 1.5, 2, 3
 
 $airfoil->setPaperSize('A4');               # A4, A3
-$airfoil->setPaperOrientation('portrait');  # portrait, paysage
+$airfoil->setPaperOrientation('portrait');  # portrait, landscape
 $airfoil->setDpi(150);                      # 150, 300
 
 $airfoil->createPdf();
