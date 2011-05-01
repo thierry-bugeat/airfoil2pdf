@@ -61,7 +61,7 @@ sub new{
     
     $this->{dat_emplanture}     = '';
     $this->{dat_saumon}         = '';
-    $this->{dat_dossier}        = 'airfoils/dat/';
+    $this->{dat_directory}      = 'airfoils/dat/';
     #$this->{dat_coordonnees_x} = '';
     #$this->{dat_coordonnees_y} = '';
     $this->{dat_calage}         = 0; # Stocke le calage temporaire de chaque nervure.
@@ -374,7 +374,7 @@ sub _pdf_creer_la_page_d_assemblage{
 	# --- 2ième page du document : Plan d'assemblage des pages. ---
 	my($_page2) = $this->{root}->new_page; # Ajouter une page au document
 	_pdf_entete_page($this, \$_page2); # Entete de page
-	$_page2->stringc($this->{font1}, 20, (($this->{pdf_largeur})/2) , ($this->{pdf_hauteur} - $this->{pdf_marges} - 225) , 'Assemblez vos pages imprimees comme ci-dessous :');
+	$_page2->stringc($this->{font1}, 20, (($this->{pdf_largeur})/2) , ($this->{pdf_hauteur} - $this->{pdf_marges} - 225) , 'Une fois ce document imprimé, assemblez les pages de la facon suivante :');
 	
 	my($noPage)=3;
 	
@@ -595,7 +595,7 @@ sub _pdf_dessine_nervure{
 	my($taille_typo) = ($profil_corde_mm/10) * (($this->{dpi})/150);
 	my($interligne) = $taille_typo;
 	my($x_axe) = $this->{pdf_marges} + _mm2pixels((($profil_corde_mm*33)/100), $this->{dpi}); # On place le texte à 33 % de la corde.
-	$$ref_page->stringc($this->{font1}, $taille_typo, $x_axe , $y_axe + ($interligne/2) + $MaxY_pixels - ($HauteurTotaleNervure_en_pixels / 2) , "Nervure $no_nervure / www.boonga.com");
+	$$ref_page->stringc($this->{font1}, $taille_typo, $x_axe , $y_axe + ($interligne/2) + $MaxY_pixels - ($HauteurTotaleNervure_en_pixels / 2) , "Nervure $no_nervure / thierry.bugeat.free.fr");
 	$$ref_page->stringc($this->{font1}, $taille_typo, $x_axe , $y_axe - ($interligne/2) + $MaxY_pixels - ($HauteurTotaleNervure_en_pixels / 2) , "$this->{dat_emplanture} - $this->{dat_saumon} / Corde = $profil_corde_mm mm / Hauteur = $HauteurNervure_mm_arrondi mm / Calage = $this->{dat_calage} degre(s)");
 	
 	# ---/ Recuperation des coordonnees du profil dans les tableaux @_dcx @_dcy \---

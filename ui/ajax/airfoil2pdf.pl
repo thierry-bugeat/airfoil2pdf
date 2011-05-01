@@ -52,24 +52,24 @@ $airfoil->setDirOutput('../../output/');
 
 %params = ( 'dat'   => $cgi->param('dat[0]'),
             'chord' => $cgi->param('chord[0]'),
-            'angle' => $cgi->param('angle[0]'));  # -2° ... +2°
+            'angle' => $cgi->param('angle[0]'));                        # -2° ... +2°
 
 $airfoil->setWingRoot(%params);
 
 %params = ( 'dat'   => $cgi->param('dat[1]'),
             'chord' => $cgi->param('chord[1]'),
-            'angle' => $cgi->param('angle[1]'));  # -2° ... +2°
+            'angle' => $cgi->param('angle[1]'));                        # -2° ... +2°
 
 $airfoil->setWingTip(%params);
 
-$airfoil->setTalonNervure($cgi->param('heels'));  # 0, 1
-$airfoil->setCoinsDecoupe($cgi->param('corners'));# 0, 1
-$airfoil->setNbNervures(5);
-$airfoil->setEpaisseurCoffrage(1.5);        # 1, 1.5, 2, 3
+$airfoil->setTalonNervure($cgi->param('heels'));                        # 0, 1
+$airfoil->setCoinsDecoupe($cgi->param('corners'));                      # 0, 1
+$airfoil->setNbNervures($cgi->param('nbAirfoils'));
+$airfoil->setEpaisseurCoffrage($cgi->param('wingFormwork'));            # 0, 1, 1.5, 2, 3
 
-$airfoil->setPaperSize('A4');               # A4, A3
-$airfoil->setPaperOrientation('portrait');  # portrait, landscape
-$airfoil->setDpi(150);                      # 150, 300
+$airfoil->setPaperSize($cgi->param('printerPaperSize'));                # A4, A3
+$airfoil->setPaperOrientation($cgi->param('printerPaperOrientation'));  # portrait, landscape
+$airfoil->setDpi($cgi->param('printerDpi'));                            # 150, 300
 
 $airfoil->createPdf();
 

@@ -19,6 +19,14 @@
     
     require_once('ui/configs/constants.php');
     require_once('ui/languages/en.php');
+    require_once('ui/class/Dat.php');
+    require_once('ui/inc/airfoil2pdf.inc.php');
+    
+    $dat = new Dat();
+    $dat->setDirDat('airfoils/dat/');
+    
+    $dats = $dat->getList();
+
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
@@ -51,23 +59,23 @@
 
             <div id="accordion">
 
-                <h3><a href="#"><?php echo _WING_ROOT; ?></a></h3>
+                <h3><a href="#" class="_wing_root"><?php echo _WING_ROOT; ?></a></h3>
                 <div>
-                    <?php echo _DAT_NAME; ?> <input type="text" name="dat[0]" value="e169" />
+                    <?php echo _DAT_NAME; ?> <?php echo selectDat('dat[0]',$dats); ?>
                     <?php echo _CHORD; ?> <input type="text" name="chord[0]" value="170" />
                     <?php echo _WING_ANGLE; ?>
                     <input type="text" name="angle[0]" value="0" />
                 </div>
                 
-                <h3><a href="#"><?php echo _WING_TIP; ?></a></h3>
+                <h3><a href="#" class="_wing_tip"><?php echo _WING_TIP; ?></a></h3>
                 <div>
-                    <?php echo _DAT_NAME; ?> <?php echo _OPTIONAL; ?> <input type="text" name="dat[1]" value="" />
+                    <?php echo _DAT_NAME; ?> <?php echo _OPTIONAL; ?> <?php echo selectDat('dat[1]',$dats); ?>
                     <?php echo _CHORD; ?> <input type="text" name="chord[1]" value="120" />
                     <?php echo _WING_ANGLE; ?>
                     <input type="text" name="angle[1]" value="0" />
                 </div>
                 
-                <h3><a href="#"><?php echo _DRAWING_OPTIONS; ?></a></h3>
+                <h3><a href="#" class="_drawing_options"><?php echo _DRAWING_OPTIONS; ?></a></h3>
                 <div>
                     <?php echo _HEELS; ?>
                     <input type="checkbox" name="heels" value="1" checked="checked" />
@@ -83,7 +91,7 @@
                     </select>
                 </div>
                 
-                <h3><a href="#"><?php echo _PRINTER_OPTIONS; ?></a></h3>
+                <h3><a href="#" class="_printer_options"><?php echo _PRINTER_OPTIONS; ?></a></h3>
                 <div>
                     <?php echo _PRINTER_PAPER_SIZE; ?>
                         <select name="printerPaperSize">
