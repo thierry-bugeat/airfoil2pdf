@@ -1,6 +1,0 @@
-//git remote add origin git@github.com:thierry-bugeat/airfoil2pdf.git
-git status
-git add file1 file2 ... or "git commit -a"
-git rm file1
-git commit -m 'Courte description'
-git push origin master
