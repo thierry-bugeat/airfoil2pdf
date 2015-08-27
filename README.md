@@ -1,10 +1,11 @@
-# airfoil2pdf : Generate wing ribs for aeromodelism usage. The result is a PDF file.
+# airfoil2pdf : 
+### Generate wing ribs for aeromodelism usage. The result is a PDF file.
 This project is now hosted by Framasoft.  
 The main GIT repository URL is now : 
 https://git.framasoft.org/thierry-bugeat/airfoil2pdf
 ![airfoil2pdf](http://thierry.bugeat.free.fr/misc/airfoil2pdf/airfoil2pdf-ui.png)
 
-# Output axample
+# Output example
 PDF file : http://thierry.bugeat.free.fr/misc/airfoil2pdf/airfoil2pdf-example.pdf
 ![example](http://thierry.bugeat.free.fr/misc/airfoil2pdf/airfoil2pdf-example-screenshot.png)
 
